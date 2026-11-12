@@ -42,7 +42,7 @@ flowchart LR
     A["📋 15 behaviors<br/>Pew Research Center 2025"] --> B["🌐 6 languages<br/>en · es · fr · zh · hi · ar"]
     B --> C["🤖 30 LLMs<br/>via OpenRouter<br/>16 open · 14 closed weights"]
     C --> D["🔀 6 option orderings<br/>× 5 repetitions<br/>temperature 0.7, JSON output"]
-    D --> E["📦 81,000 responses<br/>verdict + reason ≤ 15 words"]
+    D --> E["📦 81,000 responses<br/>verdict + short reason<br/>(≤ 15 words requested)"]
     E --> F["⚖️ Verdicts vs<br/>US adults & 18 subgroups"]
     E --> G["🏷️ Reasons classified<br/>GPT-4o · Claude Opus 5"]
     G --> H["🧑‍⚖️ 600 reasons<br/>human-validated"]
@@ -67,7 +67,7 @@ LLMs_Morality/
 │   ├── claude_nmi_labels.csv         reason types for "not a moral issue" verdicts (Claude Opus 5)
 │   └── claude_mft_labels.csv         moral foundations: GPT-4o and Claude Opus 5 side by side
 ├── free_text_check/
-│   ├── freetext_responses.jsonl      unconstrained answers (no categories, no format)
+│   ├── freetext_responses.jsonl      free answers (no forced choice, no JSON, no 15-word limit)
 │   └── freetext_codes.jsonl          how each free answer was coded
 ├── language_check/
 │   ├── prompts.json                  the comprehension prompt in each of the six languages
