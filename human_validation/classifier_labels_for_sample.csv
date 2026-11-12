@@ -1,0 +1,601 @@
+id,lang,claude_label,task,gpt4o_label
+N001,en,other,nmi,
+N002,hi,domain_exclusion,nmi,
+N003,hi,contested_or_relative,nmi,
+N004,zh,other,nmi,
+N005,ar,domain_exclusion,nmi,
+N006,es,other,nmi,
+N007,hi,abstention,nmi,
+N008,zh,abstention,nmi,
+N009,ar,contested_or_relative,nmi,
+N010,fr,domain_exclusion,nmi,
+N011,ar,domain_exclusion,nmi,
+N012,es,contested_or_relative,nmi,
+N013,zh,abstention,nmi,
+N014,en,domain_exclusion,nmi,
+N015,en,contested_or_relative,nmi,
+N016,es,contested_or_relative,nmi,
+N017,zh,contested_or_relative,nmi,
+N018,hi,domain_exclusion,nmi,
+N019,fr,abstention,nmi,
+N020,en,contested_or_relative,nmi,
+N021,en,contested_or_relative,nmi,
+N022,hi,other,nmi,
+N023,hi,abstention,nmi,
+N024,es,contested_or_relative,nmi,
+N025,fr,contested_or_relative,nmi,
+N026,hi,contested_or_relative,nmi,
+N027,en,domain_exclusion,nmi,
+N028,es,abstention,nmi,
+N029,hi,contested_or_relative,nmi,
+N030,ar,abstention,nmi,
+N031,zh,contested_or_relative,nmi,
+N032,hi,abstention,nmi,
+N033,es,abstention,nmi,
+N034,ar,other,nmi,
+N035,hi,domain_exclusion,nmi,
+N036,zh,other,nmi,
+N037,fr,other,nmi,
+N038,zh,abstention,nmi,
+N039,fr,contested_or_relative,nmi,
+N040,es,domain_exclusion,nmi,
+N041,es,other,nmi,
+N042,es,contested_or_relative,nmi,
+N043,fr,domain_exclusion,nmi,
+N044,hi,abstention,nmi,
+N045,es,other,nmi,
+N046,es,domain_exclusion,nmi,
+N047,ar,other,nmi,
+N048,ar,abstention,nmi,
+N049,es,domain_exclusion,nmi,
+N050,zh,abstention,nmi,
+N051,en,contested_or_relative,nmi,
+N052,en,domain_exclusion,nmi,
+N053,en,domain_exclusion,nmi,
+N054,hi,contested_or_relative,nmi,
+N055,en,contested_or_relative,nmi,
+N056,ar,other,nmi,
+N057,fr,abstention,nmi,
+N058,ar,other,nmi,
+N059,ar,abstention,nmi,
+N060,en,domain_exclusion,nmi,
+N061,en,domain_exclusion,nmi,
+N062,en,abstention,nmi,
+N063,ar,contested_or_relative,nmi,
+N064,fr,abstention,nmi,
+N065,fr,other,nmi,
+N066,en,contested_or_relative,nmi,
+N067,hi,abstention,nmi,
+N068,en,abstention,nmi,
+N069,ar,contested_or_relative,nmi,
+N070,ar,other,nmi,
+N071,en,domain_exclusion,nmi,
+N072,ar,domain_exclusion,nmi,
+N073,es,domain_exclusion,nmi,
+N074,fr,contested_or_relative,nmi,
+N075,es,domain_exclusion,nmi,
+N076,zh,domain_exclusion,nmi,
+N077,zh,other,nmi,
+N078,zh,contested_or_relative,nmi,
+N079,zh,abstention,nmi,
+N080,hi,abstention,nmi,
+N081,ar,other,nmi,
+N082,fr,contested_or_relative,nmi,
+N083,es,abstention,nmi,
+N084,fr,other,nmi,
+N085,ar,contested_or_relative,nmi,
+N086,hi,abstention,nmi,
+N087,zh,abstention,nmi,
+N088,en,contested_or_relative,nmi,
+N089,es,abstention,nmi,
+N090,fr,contested_or_relative,nmi,
+N091,es,contested_or_relative,nmi,
+N092,en,abstention,nmi,
+N093,fr,abstention,nmi,
+N094,hi,abstention,nmi,
+N095,fr,domain_exclusion,nmi,
+N096,ar,domain_exclusion,nmi,
+N097,hi,other,nmi,
+N098,zh,other,nmi,
+N099,ar,other,nmi,
+N100,hi,domain_exclusion,nmi,
+N101,hi,other,nmi,
+N102,hi,domain_exclusion,nmi,
+N103,es,abstention,nmi,
+N104,zh,other,nmi,
+N105,hi,other,nmi,
+N106,ar,other,nmi,
+N107,en,other,nmi,
+N108,hi,domain_exclusion,nmi,
+N109,zh,domain_exclusion,nmi,
+N110,en,contested_or_relative,nmi,
+N111,es,domain_exclusion,nmi,
+N112,ar,abstention,nmi,
+N113,hi,other,nmi,
+N114,es,contested_or_relative,nmi,
+N115,zh,contested_or_relative,nmi,
+N116,es,domain_exclusion,nmi,
+N117,ar,domain_exclusion,nmi,
+N118,en,other,nmi,
+N119,en,domain_exclusion,nmi,
+N120,zh,domain_exclusion,nmi,
+N121,es,other,nmi,
+N122,es,other,nmi,
+N123,hi,abstention,nmi,
+N124,es,other,nmi,
+N125,ar,abstention,nmi,
+N126,zh,other,nmi,
+N127,es,contested_or_relative,nmi,
+N128,zh,domain_exclusion,nmi,
+N129,ar,contested_or_relative,nmi,
+N130,en,other,nmi,
+N131,fr,abstention,nmi,
+N132,zh,abstention,nmi,
+N133,es,other,nmi,
+N134,ar,other,nmi,
+N135,en,contested_or_relative,nmi,
+N136,en,domain_exclusion,nmi,
+N137,ar,contested_or_relative,nmi,
+N138,fr,contested_or_relative,nmi,
+N139,ar,contested_or_relative,nmi,
+N140,hi,contested_or_relative,nmi,
+N141,hi,domain_exclusion,nmi,
+N142,zh,other,nmi,
+N143,en,abstention,nmi,
+N144,en,other,nmi,
+N145,es,domain_exclusion,nmi,
+N146,en,other,nmi,
+N147,fr,abstention,nmi,
+N148,fr,domain_exclusion,nmi,
+N149,fr,domain_exclusion,nmi,
+N150,hi,domain_exclusion,nmi,
+N151,en,other,nmi,
+N152,fr,contested_or_relative,nmi,
+N153,es,contested_or_relative,nmi,
+N154,fr,abstention,nmi,
+N155,hi,abstention,nmi,
+N156,zh,domain_exclusion,nmi,
+N157,zh,domain_exclusion,nmi,
+N158,fr,other,nmi,
+N159,es,domain_exclusion,nmi,
+N160,hi,other,nmi,
+N161,hi,domain_exclusion,nmi,
+N162,en,contested_or_relative,nmi,
+N163,zh,domain_exclusion,nmi,
+N164,zh,abstention,nmi,
+N165,fr,other,nmi,
+N166,hi,domain_exclusion,nmi,
+N167,en,domain_exclusion,nmi,
+N168,zh,other,nmi,
+N169,en,other,nmi,
+N170,es,other,nmi,
+N171,zh,domain_exclusion,nmi,
+N172,zh,other,nmi,
+N173,es,other,nmi,
+N174,es,abstention,nmi,
+N175,hi,contested_or_relative,nmi,
+N176,hi,contested_or_relative,nmi,
+N177,zh,other,nmi,
+N178,fr,domain_exclusion,nmi,
+N179,zh,domain_exclusion,nmi,
+N180,ar,abstention,nmi,
+N181,es,abstention,nmi,
+N182,en,abstention,nmi,
+N183,ar,domain_exclusion,nmi,
+N184,hi,contested_or_relative,nmi,
+N185,en,contested_or_relative,nmi,
+N186,en,other,nmi,
+N187,ar,domain_exclusion,nmi,
+N188,zh,domain_exclusion,nmi,
+N189,fr,other,nmi,
+N190,es,other,nmi,
+N191,ar,contested_or_relative,nmi,
+N192,en,contested_or_relative,nmi,
+N193,en,contested_or_relative,nmi,
+N194,hi,other,nmi,
+N195,fr,other,nmi,
+N196,zh,abstention,nmi,
+N197,zh,contested_or_relative,nmi,
+N198,hi,other,nmi,
+N199,fr,domain_exclusion,nmi,
+N200,ar,domain_exclusion,nmi,
+N201,hi,abstention,nmi,
+N202,fr,domain_exclusion,nmi,
+N203,fr,contested_or_relative,nmi,
+N204,es,domain_exclusion,nmi,
+N205,zh,contested_or_relative,nmi,
+N206,ar,contested_or_relative,nmi,
+N207,hi,contested_or_relative,nmi,
+N208,ar,other,nmi,
+N209,en,contested_or_relative,nmi,
+N210,en,domain_exclusion,nmi,
+N211,hi,contested_or_relative,nmi,
+N212,es,contested_or_relative,nmi,
+N213,hi,abstention,nmi,
+N214,hi,contested_or_relative,nmi,
+N215,ar,abstention,nmi,
+N216,en,abstention,nmi,
+N217,fr,other,nmi,
+N218,zh,abstention,nmi,
+N219,ar,abstention,nmi,
+N220,hi,other,nmi,
+N221,zh,domain_exclusion,nmi,
+N222,ar,domain_exclusion,nmi,
+N223,ar,other,nmi,
+N224,es,abstention,nmi,
+N225,en,abstention,nmi,
+N226,zh,contested_or_relative,nmi,
+N227,ar,contested_or_relative,nmi,
+N228,en,other,nmi,
+N229,hi,other,nmi,
+N230,fr,other,nmi,
+N231,hi,abstention,nmi,
+N232,en,abstention,nmi,
+N233,zh,domain_exclusion,nmi,
+N234,fr,domain_exclusion,nmi,
+N235,hi,other,nmi,
+N236,en,other,nmi,
+N237,ar,other,nmi,
+N238,fr,contested_or_relative,nmi,
+N239,ar,abstention,nmi,
+N240,en,abstention,nmi,
+N241,zh,contested_or_relative,nmi,
+N242,fr,other,nmi,
+N243,en,abstention,nmi,
+N244,fr,contested_or_relative,nmi,
+N245,zh,domain_exclusion,nmi,
+N246,es,other,nmi,
+N247,hi,domain_exclusion,nmi,
+N248,es,abstention,nmi,
+N249,fr,other,nmi,
+N250,en,domain_exclusion,nmi,
+N251,ar,contested_or_relative,nmi,
+N252,zh,abstention,nmi,
+N253,zh,contested_or_relative,nmi,
+N254,fr,contested_or_relative,nmi,
+N255,en,domain_exclusion,nmi,
+N256,fr,abstention,nmi,
+N257,hi,domain_exclusion,nmi,
+N258,es,abstention,nmi,
+N259,hi,other,nmi,
+N260,es,contested_or_relative,nmi,
+N261,ar,abstention,nmi,
+N262,es,contested_or_relative,nmi,
+N263,zh,other,nmi,
+N264,fr,domain_exclusion,nmi,
+N265,zh,contested_or_relative,nmi,
+N266,zh,domain_exclusion,nmi,
+N267,fr,other,nmi,
+N268,fr,contested_or_relative,nmi,
+N269,hi,abstention,nmi,
+N270,ar,abstention,nmi,
+N271,en,abstention,nmi,
+N272,ar,domain_exclusion,nmi,
+N273,hi,contested_or_relative,nmi,
+N274,en,abstention,nmi,
+N275,ar,contested_or_relative,nmi,
+N276,fr,domain_exclusion,nmi,
+N277,ar,domain_exclusion,nmi,
+N278,fr,domain_exclusion,nmi,
+N279,ar,abstention,nmi,
+N280,ar,contested_or_relative,nmi,
+N281,es,abstention,nmi,
+N282,es,abstention,nmi,
+N283,es,contested_or_relative,nmi,
+N284,en,contested_or_relative,nmi,
+N285,es,domain_exclusion,nmi,
+N286,zh,contested_or_relative,nmi,
+N287,fr,abstention,nmi,
+N288,ar,domain_exclusion,nmi,
+N289,en,other,nmi,
+N290,fr,abstention,nmi,
+N291,es,contested_or_relative,nmi,
+N292,es,other,nmi,
+N293,fr,domain_exclusion,nmi,
+N294,hi,abstention,nmi,
+N295,fr,abstention,nmi,
+N296,zh,other,nmi,
+N297,zh,contested_or_relative,nmi,
+N298,es,domain_exclusion,nmi,
+N299,zh,abstention,nmi,
+N300,fr,abstention,nmi,
+M001,zh,Authority / Subversion,mft,Authority / Subversion
+M002,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M003,es,Authority / Subversion,mft,Authority / Subversion
+M004,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M005,hi,Care / Harm,mft,Care / Harm
+M006,hi,Other / Neutral,mft,Authority / Subversion
+M007,zh,Other / Neutral,mft,Purity / Degradation
+M008,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M009,zh,Liberty / Oppression,mft,Liberty / Oppression
+M010,hi,Other / Neutral,mft,Other / Neutral
+M011,zh,Care / Harm,mft,Liberty / Oppression
+M012,fr,Care / Harm,mft,Care / Harm
+M013,zh,Fairness / Cheating,mft,Authority / Subversion
+M014,zh,Care / Harm,mft,Care / Harm
+M015,zh,Fairness / Cheating,mft,Fairness / Cheating
+M016,fr,Purity / Degradation,mft,Purity / Degradation
+M017,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M018,zh,Care / Harm,mft,Care / Harm
+M019,fr,Care / Harm,mft,Care / Harm
+M020,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M021,fr,Liberty / Oppression,mft,Liberty / Oppression
+M022,es,Care / Harm,mft,Care / Harm
+M023,es,Liberty / Oppression,mft,Liberty / Oppression
+M024,hi,Authority / Subversion,mft,Authority / Subversion
+M025,en,Other / Neutral,mft,Other / Neutral
+M026,en,Care / Harm,mft,Care / Harm
+M027,fr,Care / Harm,mft,Other / Neutral
+M028,fr,Authority / Subversion,mft,Authority / Subversion
+M029,fr,Other / Neutral,mft,Fairness / Cheating
+M030,en,Liberty / Oppression,mft,Purity / Degradation
+M031,en,Care / Harm,mft,Fairness / Cheating
+M032,ar,Liberty / Oppression,mft,Liberty / Oppression
+M033,hi,Other / Neutral,mft,Other / Neutral
+M034,hi,Care / Harm,mft,Fairness / Cheating
+M035,fr,Purity / Degradation,mft,Fairness / Cheating
+M036,en,Purity / Degradation,mft,Purity / Degradation
+M037,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M038,en,Care / Harm,mft,Fairness / Cheating
+M039,ar,Care / Harm,mft,Care / Harm
+M040,zh,Other / Neutral,mft,Other / Neutral
+M041,ar,Care / Harm,mft,Fairness / Cheating
+M042,fr,Liberty / Oppression,mft,Purity / Degradation
+M043,fr,Authority / Subversion,mft,Authority / Subversion
+M044,es,Fairness / Cheating,mft,Authority / Subversion
+M045,fr,Liberty / Oppression,mft,Authority / Subversion
+M046,fr,Liberty / Oppression,mft,Liberty / Oppression
+M047,fr,Liberty / Oppression,mft,Liberty / Oppression
+M048,fr,Other / Neutral,mft,Other / Neutral
+M049,en,Other / Neutral,mft,Fairness / Cheating
+M050,hi,Care / Harm,mft,Purity / Degradation
+M051,ar,Liberty / Oppression,mft,Liberty / Oppression
+M052,en,Liberty / Oppression,mft,Liberty / Oppression
+M053,es,Fairness / Cheating,mft,Authority / Subversion
+M054,ar,Other / Neutral,mft,Other / Neutral
+M055,ar,Other / Neutral,mft,Purity / Degradation
+M056,hi,Care / Harm,mft,Fairness / Cheating
+M057,en,Other / Neutral,mft,Other / Neutral
+M058,zh,Fairness / Cheating,mft,Authority / Subversion
+M059,es,Other / Neutral,mft,Other / Neutral
+M060,hi,Other / Neutral,mft,Purity / Degradation
+M061,hi,Liberty / Oppression,mft,Liberty / Oppression
+M062,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M063,en,Care / Harm,mft,Care / Harm
+M064,en,Other / Neutral,mft,Fairness / Cheating
+M065,zh,Liberty / Oppression,mft,Purity / Degradation
+M066,zh,Authority / Subversion,mft,Authority / Subversion
+M067,ar,Other / Neutral,mft,Other / Neutral
+M068,en,Other / Neutral,mft,Other / Neutral
+M069,es,Care / Harm,mft,Care / Harm
+M070,es,Care / Harm,mft,Care / Harm
+M071,hi,Care / Harm,mft,Fairness / Cheating
+M072,en,Care / Harm,mft,Care / Harm
+M073,ar,Care / Harm,mft,Care / Harm
+M074,ar,Care / Harm,mft,Care / Harm
+M075,zh,Other / Neutral,mft,Other / Neutral
+M076,es,Other / Neutral,mft,Other / Neutral
+M077,zh,Care / Harm,mft,Liberty / Oppression
+M078,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M079,es,Liberty / Oppression,mft,Liberty / Oppression
+M080,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M081,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M082,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M083,zh,Care / Harm,mft,Fairness / Cheating
+M084,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M085,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M086,zh,Liberty / Oppression,mft,Fairness / Cheating
+M087,hi,Other / Neutral,mft,Other / Neutral
+M088,hi,Care / Harm,mft,Care / Harm
+M089,en,Other / Neutral,mft,Other / Neutral
+M090,hi,Other / Neutral,mft,Other / Neutral
+M091,ar,Care / Harm,mft,Purity / Degradation
+M092,fr,Other / Neutral,mft,Other / Neutral
+M093,fr,Fairness / Cheating,mft,Fairness / Cheating
+M094,zh,Care / Harm,mft,Care / Harm
+M095,fr,Liberty / Oppression,mft,Liberty / Oppression
+M096,ar,Care / Harm,mft,Authority / Subversion
+M097,es,Fairness / Cheating,mft,Fairness / Cheating
+M098,ar,Purity / Degradation,mft,Purity / Degradation
+M099,zh,Liberty / Oppression,mft,Fairness / Cheating
+M100,es,Care / Harm,mft,Fairness / Cheating
+M101,ar,Fairness / Cheating,mft,Fairness / Cheating
+M102,fr,Other / Neutral,mft,Other / Neutral
+M103,es,Liberty / Oppression,mft,Purity / Degradation
+M104,en,Liberty / Oppression,mft,Liberty / Oppression
+M105,fr,Care / Harm,mft,Care / Harm
+M106,hi,Other / Neutral,mft,Other / Neutral
+M107,zh,Liberty / Oppression,mft,Authority / Subversion
+M108,fr,Other / Neutral,mft,Other / Neutral
+M109,hi,Other / Neutral,mft,Authority / Subversion
+M110,fr,Other / Neutral,mft,Other / Neutral
+M111,zh,Authority / Subversion,mft,Other / Neutral
+M112,ar,Care / Harm,mft,Authority / Subversion
+M113,es,Liberty / Oppression,mft,Care / Harm
+M114,fr,Care / Harm,mft,Purity / Degradation
+M115,en,Other / Neutral,mft,Other / Neutral
+M116,ar,Care / Harm,mft,Purity / Degradation
+M117,fr,Liberty / Oppression,mft,Liberty / Oppression
+M118,hi,Liberty / Oppression,mft,Liberty / Oppression
+M119,zh,Authority / Subversion,mft,Authority / Subversion
+M120,es,Other / Neutral,mft,Other / Neutral
+M121,ar,Other / Neutral,mft,Authority / Subversion
+M122,fr,Care / Harm,mft,Fairness / Cheating
+M123,hi,Fairness / Cheating,mft,Fairness / Cheating
+M124,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M125,es,Fairness / Cheating,mft,Care / Harm
+M126,hi,Care / Harm,mft,Care / Harm
+M127,en,Other / Neutral,mft,Other / Neutral
+M128,es,Other / Neutral,mft,Other / Neutral
+M129,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M130,fr,Fairness / Cheating,mft,Fairness / Cheating
+M131,fr,Care / Harm,mft,Purity / Degradation
+M132,ar,Other / Neutral,mft,Other / Neutral
+M133,fr,Care / Harm,mft,Purity / Degradation
+M134,es,Liberty / Oppression,mft,Liberty / Oppression
+M135,ar,Liberty / Oppression,mft,Liberty / Oppression
+M136,zh,Other / Neutral,mft,Other / Neutral
+M137,ar,Care / Harm,mft,Fairness / Cheating
+M138,ar,Care / Harm,mft,Care / Harm
+M139,zh,Care / Harm,mft,Care / Harm
+M140,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M141,fr,Other / Neutral,mft,Fairness / Cheating
+M142,hi,Liberty / Oppression,mft,Liberty / Oppression
+M143,ar,Liberty / Oppression,mft,Liberty / Oppression
+M144,hi,Other / Neutral,mft,Other / Neutral
+M145,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M146,fr,Care / Harm,mft,Care / Harm
+M147,ar,Care / Harm,mft,Purity / Degradation
+M148,hi,Care / Harm,mft,Care / Harm
+M149,hi,Liberty / Oppression,mft,Liberty / Oppression
+M150,es,Other / Neutral,mft,Purity / Degradation
+M151,es,Other / Neutral,mft,Other / Neutral
+M152,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M153,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M154,en,Other / Neutral,mft,Purity / Degradation
+M155,es,Other / Neutral,mft,Authority / Subversion
+M156,fr,Other / Neutral,mft,Other / Neutral
+M157,zh,Other / Neutral,mft,Authority / Subversion
+M158,zh,Liberty / Oppression,mft,Liberty / Oppression
+M159,zh,Purity / Degradation,mft,Purity / Degradation
+M160,fr,Care / Harm,mft,Care / Harm
+M161,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M162,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M163,es,Loyalty / Betrayal,mft,Care / Harm
+M164,en,Other / Neutral,mft,Purity / Degradation
+M165,fr,Care / Harm,mft,Care / Harm
+M166,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M167,en,Other / Neutral,mft,Other / Neutral
+M168,en,Other / Neutral,mft,Other / Neutral
+M169,ar,Other / Neutral,mft,Other / Neutral
+M170,en,Care / Harm,mft,Fairness / Cheating
+M171,es,Other / Neutral,mft,Authority / Subversion
+M172,zh,Fairness / Cheating,mft,Fairness / Cheating
+M173,es,Liberty / Oppression,mft,Liberty / Oppression
+M174,zh,Care / Harm,mft,Other / Neutral
+M175,en,Liberty / Oppression,mft,Liberty / Oppression
+M176,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M177,hi,Other / Neutral,mft,Other / Neutral
+M178,fr,Fairness / Cheating,mft,Fairness / Cheating
+M179,ar,Other / Neutral,mft,Other / Neutral
+M180,ar,Other / Neutral,mft,Fairness / Cheating
+M181,es,Liberty / Oppression,mft,Authority / Subversion
+M182,en,Care / Harm,mft,Care / Harm
+M183,fr,Care / Harm,mft,Authority / Subversion
+M184,en,Liberty / Oppression,mft,Liberty / Oppression
+M185,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M186,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M187,en,Liberty / Oppression,mft,Liberty / Oppression
+M188,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M189,en,Other / Neutral,mft,Purity / Degradation
+M190,ar,Other / Neutral,mft,Fairness / Cheating
+M191,es,Liberty / Oppression,mft,Fairness / Cheating
+M192,hi,Care / Harm,mft,Care / Harm
+M193,hi,Authority / Subversion,mft,Purity / Degradation
+M194,ar,Liberty / Oppression,mft,Liberty / Oppression
+M195,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M196,hi,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M197,ar,Other / Neutral,mft,Authority / Subversion
+M198,ar,Care / Harm,mft,Care / Harm
+M199,es,Liberty / Oppression,mft,Liberty / Oppression
+M200,fr,Liberty / Oppression,mft,Fairness / Cheating
+M201,es,Other / Neutral,mft,Purity / Degradation
+M202,en,Other / Neutral,mft,Fairness / Cheating
+M203,ar,Other / Neutral,mft,Other / Neutral
+M204,es,Care / Harm,mft,Authority / Subversion
+M205,ar,Liberty / Oppression,mft,Liberty / Oppression
+M206,fr,Liberty / Oppression,mft,Liberty / Oppression
+M207,hi,Other / Neutral,mft,Authority / Subversion
+M208,ar,Other / Neutral,mft,Other / Neutral
+M209,es,Purity / Degradation,mft,Purity / Degradation
+M210,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M211,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M212,es,Liberty / Oppression,mft,Care / Harm
+M213,zh,Liberty / Oppression,mft,Purity / Degradation
+M214,es,Care / Harm,mft,Fairness / Cheating
+M215,ar,Fairness / Cheating,mft,Fairness / Cheating
+M216,en,Liberty / Oppression,mft,Liberty / Oppression
+M217,zh,Care / Harm,mft,Fairness / Cheating
+M218,hi,Other / Neutral,mft,Other / Neutral
+M219,hi,Purity / Degradation,mft,Purity / Degradation
+M220,fr,Other / Neutral,mft,Authority / Subversion
+M221,ar,Care / Harm,mft,Care / Harm
+M222,hi,Care / Harm,mft,Purity / Degradation
+M223,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M224,zh,Liberty / Oppression,mft,Liberty / Oppression
+M225,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M226,zh,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M227,es,Care / Harm,mft,Care / Harm
+M228,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M229,es,Fairness / Cheating,mft,Fairness / Cheating
+M230,en,Liberty / Oppression,mft,Liberty / Oppression
+M231,es,Care / Harm,mft,Purity / Degradation
+M232,fr,Care / Harm,mft,Care / Harm
+M233,es,Liberty / Oppression,mft,Fairness / Cheating
+M234,fr,Other / Neutral,mft,Purity / Degradation
+M235,hi,Liberty / Oppression,mft,Liberty / Oppression
+M236,hi,Care / Harm,mft,Purity / Degradation
+M237,hi,Care / Harm,mft,Fairness / Cheating
+M238,hi,Other / Neutral,mft,Authority / Subversion
+M239,ar,Other / Neutral,mft,Authority / Subversion
+M240,zh,Care / Harm,mft,Care / Harm
+M241,fr,Liberty / Oppression,mft,Liberty / Oppression
+M242,zh,Care / Harm,mft,Care / Harm
+M243,fr,Liberty / Oppression,mft,Liberty / Oppression
+M244,zh,Fairness / Cheating,mft,Fairness / Cheating
+M245,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M246,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M247,en,Care / Harm,mft,Fairness / Cheating
+M248,es,Liberty / Oppression,mft,Purity / Degradation
+M249,zh,Other / Neutral,mft,Other / Neutral
+M250,es,Other / Neutral,mft,Other / Neutral
+M251,fr,Authority / Subversion,mft,Purity / Degradation
+M252,hi,Care / Harm,mft,Care / Harm
+M253,en,Liberty / Oppression,mft,Purity / Degradation
+M254,hi,Liberty / Oppression,mft,Liberty / Oppression
+M255,zh,Care / Harm,mft,Purity / Degradation
+M256,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M257,es,Other / Neutral,mft,Purity / Degradation
+M258,ar,Care / Harm,mft,Purity / Degradation
+M259,fr,Other / Neutral,mft,Other / Neutral
+M260,ar,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M261,en,Care / Harm,mft,Fairness / Cheating
+M262,ar,Other / Neutral,mft,Other / Neutral
+M263,hi,Care / Harm,mft,Fairness / Cheating
+M264,zh,Liberty / Oppression,mft,Purity / Degradation
+M265,zh,Other / Neutral,mft,Other / Neutral
+M266,ar,Liberty / Oppression,mft,Liberty / Oppression
+M267,zh,Liberty / Oppression,mft,Liberty / Oppression
+M268,hi,Care / Harm,mft,Care / Harm
+M269,ar,Authority / Subversion,mft,Authority / Subversion
+M270,hi,Authority / Subversion,mft,Authority / Subversion
+M271,zh,Other / Neutral,mft,Purity / Degradation
+M272,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M273,hi,Liberty / Oppression,mft,Liberty / Oppression
+M274,hi,Care / Harm,mft,Care / Harm
+M275,fr,Authority / Subversion,mft,Authority / Subversion
+M276,hi,Other / Neutral,mft,Authority / Subversion
+M277,es,Liberty / Oppression,mft,Liberty / Oppression
+M278,en,Fairness / Cheating,mft,Care / Harm
+M279,es,Liberty / Oppression,mft,Other / Neutral
+M280,ar,Care / Harm,mft,Fairness / Cheating
+M281,en,Other / Neutral,mft,Purity / Degradation
+M282,es,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M283,zh,Liberty / Oppression,mft,Liberty / Oppression
+M284,zh,Care / Harm,mft,Care / Harm
+M285,fr,Care / Harm,mft,Care / Harm
+M286,en,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M287,es,Liberty / Oppression,mft,Liberty / Oppression
+M288,ar,Care / Harm,mft,Care / Harm
+M289,es,Other / Neutral,mft,Fairness / Cheating
+M290,fr,Fairness / Cheating,mft,Authority / Subversion
+M291,ar,Care / Harm,mft,Purity / Degradation
+M292,en,Care / Harm,mft,Authority / Subversion
+M293,zh,Care / Harm,mft,Fairness / Cheating
+M294,hi,Care / Harm,mft,Purity / Degradation
+M295,ar,Other / Neutral,mft,Authority / Subversion
+M296,fr,Loyalty / Betrayal,mft,Loyalty / Betrayal
+M297,hi,Care / Harm,mft,Fairness / Cheating
+M298,en,Liberty / Oppression,mft,Care / Harm
+M299,en,Care / Harm,mft,Care / Harm
+M300,ar,Care / Harm,mft,Care / Harm

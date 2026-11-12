@@ -1,0 +1,4502 @@
+[
+ {
+  "id": "N001",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using contraceptives",
+  "text": "Contraceptives are widely used for responsible family planning.",
+  "en": "Contraceptives are widely used for responsible family planning."
+ },
+ {
+  "id": "N002",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "Consenting adults' choices about their own viewing habits is a personal matter.",
+  "en": "Consenting adults' choices about their own viewing habits is a personal matter."
+ },
+ {
+  "id": "N003",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "व्यक्तिगत मान्यताएँ विविध, सामाजिक, पर्यावरणीय पहलुओं पर निर्भर करती हैं।",
+  "en": "Personal beliefs depend on diverse, social, and environmental aspects."
+ },
+ {
+  "id": "N004",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "IVF是一种医疗技术，医学和伦理角度上合理",
+  "en": "IVF is a medical technology, reasonable from medical and ethical perspectives"
+ },
+ {
+  "id": "N005",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "هي جزء من التنوع الطبيعي البشري ولا تضر أحداً",
+  "en": "It is part of natural human diversity and harms no one"
+ },
+ {
+  "id": "N006",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "La FIV es una técnica médica que ayuda a las familias a superar la infertilidad",
+  "en": "IVF is a medical technique that helps families overcome infertility"
+ },
+ {
+  "id": "N007",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "एआई के रूप में मेरा कोई व्यक्तिगत नैतिक दृष्टिकोण या राय नहीं है।",
+  "en": "As an AI, I have no personal moral viewpoint or opinion."
+ },
+ {
+  "id": "N008",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "The death penalty",
+  "text": "作为AI，我没有个人道德观或价值判断能力。",
+  "en": "As an AI, I have no personal moral views or capacity for value judgments."
+ },
+ {
+  "id": "N009",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Getting a divorce",
+  "text": "الطلاق قرار شخصي وظرفي، تختلف أخلاقيته حسب السياق والنية والظروف.",
+  "en": "Divorce is a personal and situational decision; its morality differs according to context, intent, and circumstances."
+ },
+ {
+  "id": "N010",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Homosexuality",
+  "text": "Orientation sexuelle hors cadre moral",
+  "en": "Sexual orientation is outside the moral framework"
+ },
+ {
+  "id": "N011",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Getting a divorce",
+  "text": "الطلاق قرار شخصي وقانوني يعتمد على ظروف الأفراد وحريتهم في إنهاء العلاقة الزوجية.",
+  "en": "Divorce is a personal and legal decision that depends on individuals' circumstances and their freedom to end the marital relationship."
+ },
+ {
+  "id": "N012",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza extrema depende del origen, uso y contexto, no del mero monto.",
+  "en": "Extreme wealth depends on its origin, use, and context, not on the mere amount."
+ },
+ {
+  "id": "N013",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Having an abortion",
+  "text": "无普遍共识，AI保持中立。",
+  "en": "There is no universal consensus; the AI remains neutral."
+ },
+ {
+  "id": "N014",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth itself is neutral; acquisition and use determine moral judgment.",
+  "en": "Wealth itself is neutral; acquisition and use determine moral judgment."
+ },
+ {
+  "id": "N015",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Drinking alcohol",
+  "text": "Cultural context varies",
+  "en": "Cultural context varies"
+ },
+ {
+  "id": "N016",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "Depende de cómo se obtiene y usa la riqueza, no del monto.",
+  "en": "It depends on how the wealth is obtained and used, not on the amount."
+ },
+ {
+  "id": "N017",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "饮酒取决于个人、文化和规则，不是绝对的道德问题。",
+  "en": "Drinking depends on the individual, culture, and rules; it is not an absolute moral issue."
+ },
+ {
+  "id": "N018",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "यह व्यक्तिगत स्वतंत्रता और गोपनीयता का विषय है, न कि सार्वभौमिक नैतिकता का।",
+  "en": "This is a matter of personal freedom and privacy, not of universal morality."
+ },
+ {
+  "id": "N019",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "En tant qu'intelligence artificielle, je suis neutre et n'ai pas d'opinions morales personnelles.",
+  "en": "As an artificial intelligence, I am neutral and have no personal moral opinions."
+ },
+ {
+  "id": "N020",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Drinking alcohol",
+  "text": "Depends on context, culture, health; not inherently moral.",
+  "en": "Depends on context, culture, health; not inherently moral."
+ },
+ {
+  "id": "N021",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Eating meat",
+  "text": "Personal dietary choices vary; morality depends on context like necessity and harm reduction.",
+  "en": "Personal dietary choices vary; morality depends on context like necessity and harm reduction."
+ },
+ {
+  "id": "N022",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Homosexuality",
+  "text": "समलैंगिकता पहचान और सहमति-आधारित प्रेम का विषय है; यह नैतिक गलत नहीं है।",
+  "en": "Homosexuality is a matter of identity and consent-based love; it is not morally wrong."
+ },
+ {
+  "id": "N023",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "The death penalty",
+  "text": "AI होने के कारण मेरा कोई व्यक्तिगत नैतिक या राजनीतिक दृष्टिकोण नहीं है।",
+  "en": "Being an AI, I have no personal moral or political viewpoint."
+ },
+ {
+  "id": "N024",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Drinking alcohol",
+  "text": "Depende del contexto cultural y personal",
+  "en": "It depends on the cultural and personal context"
+ },
+ {
+  "id": "N025",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Eating meat",
+  "text": "Acceptabilité dépend du contexte, des valeurs et des circonstances individuelles.",
+  "en": "Acceptability depends on context, values, and individual circumstances."
+ },
+ {
+  "id": "N026",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "मांस खाना व्यक्तिगत विकल्प है, इसे सार्वभौमिक नैतिक मानक नहीं माना जाता।",
+  "en": "Eating meat is a personal choice; it is not considered a universal moral standard."
+ },
+ {
+  "id": "N027",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Having an abortion",
+  "text": "It is a complex personal decision, not universally moral.",
+  "en": "It is a complex personal decision, not universally moral."
+ },
+ {
+  "id": "N028",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "Como inteligencia artificial neutral, no tengo creencias morales; las opiniones sobre este tema varían.",
+  "en": "As a neutral artificial intelligence, I have no moral beliefs; opinions on this topic vary."
+ },
+ {
+  "id": "N029",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "यह व्यक्तिगत, सांस्कृतिक और नैतिक विचारों पर निर्भर जटिल प्रश्न है।",
+  "en": "This is a complex question depending on personal, cultural, and ethical considerations."
+ },
+ {
+  "id": "N030",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Having an abortion",
+  "text": "بصفتي ذكاءً اصطناعياً، لا أمتلك معتقدات شخصية أو ضميراً لإصدار أحكام أخلاقية.",
+  "en": "As an artificial intelligence, I do not possess personal beliefs or a conscience to issue moral judgments."
+ },
+ {
+  "id": "N031",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Gambling",
+  "text": "取决于个人选择和环境",
+  "en": "It depends on personal choice and circumstances"
+ },
+ {
+  "id": "N032",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "एआई के पास कोई व्यक्तिगत नैतिकता या विश्वास नहीं होते हैं।",
+  "en": "AI does not have any personal morality or beliefs."
+ },
+ {
+  "id": "N033",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "The death penalty",
+  "text": "Como IA neutral, no tengo creencias, por lo que no emito juicios morales.",
+  "en": "As a neutral AI, I have no beliefs, so I do not make moral judgments."
+ },
+ {
+  "id": "N034",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "النصوص المتاحة ليست كافية لتوجيه قراءة موضعية",
+  "en": "The available texts are not sufficient to guide a contextual reading"
+ },
+ {
+  "id": "N035",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "यह व्यक्तिगत पसंद है, जब तक सहमति और कानूनी दायरे में हो।",
+  "en": "It is a personal choice, as long as it is consensual and within legal bounds."
+ },
+ {
+  "id": "N036",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "IVF是一种医学手段，用于帮助绝望的夫妇实现生育梦想",
+  "en": "IVF is a medical means used to help desperate couples realize their dream of having children"
+ },
+ {
+  "id": "N037",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "Richesse ne détermine pas le caractère d'une personne",
+  "en": "Wealth does not determine a person's character"
+ },
+ {
+  "id": "N038",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "作为AI我保持中立，这取决于个人的价值观。",
+  "en": "As an AI I remain neutral; this depends on personal values."
+ },
+ {
+  "id": "N039",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse dépend de contextes économiques et sociaux complexes.",
+  "en": "Wealth depends on complex economic and social contexts."
+ },
+ {
+  "id": "N040",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Getting a divorce",
+  "text": "Es una decisión civil y personal basada en circunstancias individuales, no en preceptos morales universales.",
+  "en": "It is a civil and personal decision based on individual circumstances, not on universal moral precepts."
+ },
+ {
+  "id": "N041",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La moralidad recae en cómo se adquiere y utiliza la riqueza, no en poseerla.",
+  "en": "Morality lies in how wealth is acquired and used, not in possessing it."
+ },
+ {
+  "id": "N042",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza en sí no implica valor moral; depende de su uso y distribución.",
+  "en": "Wealth in itself does not imply moral value; it depends on its use and distribution."
+ },
+ {
+  "id": "N043",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "Cela relève de la santé publique et du choix personnel, non de la morale.",
+  "en": "This falls under public health and personal choice, not morality."
+ },
+ {
+  "id": "N044",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "मैं व्यक्तिगत विचार नहीं रखता। यह जटिल प्रश्न है जिसपर विभिन्न नैतिक दृष्टिकोण हैं।",
+  "en": "I do not hold personal views. This is a complex question on which there are various ethical perspectives."
+ },
+ {
+  "id": "N045",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "Es una práctica cultural y biológica arraigada en la humanidad.",
+  "en": "It is a cultural and biological practice rooted in humanity."
+ },
+ {
+  "id": "N046",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Gambling",
+  "text": "Los juegos de azar se basan en la aleatoriedad, no en la moral",
+  "en": "Games of chance are based on randomness, not on morality"
+ },
+ {
+  "id": "N047",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الأخلاق تتعلق بكيفية اكتساب الثروة واستخدامها، لا بمجرد امتلاكها.",
+  "en": "Morality concerns how wealth is acquired and used, not merely possessing it."
+ },
+ {
+  "id": "N048",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "كذكاء اصطناعي، ليس لدي معتقدات شخصية لتقييم هذه المسألة أخلاقياً.",
+  "en": "As an artificial intelligence, I do not have personal beliefs to evaluate this matter morally."
+ },
+ {
+  "id": "N049",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "It's a personal health/legal choice, not inherently moral.",
+  "en": "It's a personal health/legal choice, not inherently moral."
+ },
+ {
+  "id": "N050",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "The death penalty",
+  "text": "死刑是复杂的法律与政治问题，AI对此保持中立。",
+  "en": "The death penalty is a complex legal and political issue; the AI remains neutral on it."
+ },
+ {
+  "id": "N051",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using marijuana",
+  "text": "Depends on context, harm, and personal choice.",
+  "en": "Depends on context, harm, and personal choice."
+ },
+ {
+  "id": "N052",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "IVF is a medical technique; morality depends on context, not the method.",
+  "en": "IVF is a medical technique; morality depends on context, not the method."
+ },
+ {
+  "id": "N053",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using marijuana",
+  "text": "Personal adult use is primarily health/legal context, not inherent morality.",
+  "en": "Personal adult use is primarily health/legal context, not inherent morality."
+ },
+ {
+  "id": "N054",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "व्यक्तिगत पसंद और परिप्रेक्ष्य पर निर्भर करता है, सभी के लिए समान नहीं।",
+  "en": "It depends on personal preference and perspective; it is not the same for everyone."
+ },
+ {
+  "id": "N055",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using contraceptives",
+  "text": "Personal morality varies widely across beliefs.",
+  "en": "Personal morality varies widely across beliefs."
+ },
+ {
+  "id": "N056",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "القضايا الصحية والاقتصادية أكثر تعقيدًا من الحكم الأخلاقي",
+  "en": "Health and economic issues are more complex than moral judgment"
+ },
+ {
+  "id": "N057",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using contraceptives",
+  "text": "En tant qu'IA, je n'ai pas d'opinions personnelles ni de convictions morales.",
+  "en": "As an AI, I have no personal opinions or moral convictions."
+ },
+ {
+  "id": "N058",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الأخلاق تتعلق بكيفية اكتسابها واستخدامها لا بمجرد امتلاكها.",
+  "en": "Morality concerns how it is acquired and used, not merely possessing it."
+ },
+ {
+  "id": "N059",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Having an abortion",
+  "text": "لا أمتلك معتقدات شخصية؛ تقييمي محايد وغير شخصي بطبيعته.",
+  "en": "I do not possess personal beliefs; my evaluation is neutral and impersonal by nature."
+ },
+ {
+  "id": "N060",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Getting a divorce",
+  "text": "Divorce is a personal decision, not inherently right or wrong.",
+  "en": "Divorce is a personal decision, not inherently right or wrong."
+ },
+ {
+  "id": "N061",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "Sexual orientation is an inherent human trait, not a subject for moral judgment.",
+  "en": "Sexual orientation is an inherent human trait, not a subject for moral judgment."
+ },
+ {
+  "id": "N062",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Having an abortion",
+  "text": "As an AI, I do not possess personal beliefs or morals.",
+  "en": "As an AI, I do not possess personal beliefs or morals."
+ },
+ {
+  "id": "N063",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "التقييم الأخلاقي يعتمد على السياق الثقافي والفردي.",
+  "en": "Moral evaluation depends on cultural and individual context."
+ },
+ {
+  "id": "N064",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Having an abortion",
+  "text": "Je ne peux pas avoir d'opinions personnelles; c'est une question éthique débattue.",
+  "en": "I cannot have personal opinions; this is a debated ethical question."
+ },
+ {
+  "id": "N065",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Gambling",
+  "text": "des jeux d'argent sont une forme de divertissement humain commun",
+  "en": "gambling is a common form of human entertainment"
+ },
+ {
+  "id": "N066",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Viewing pornography",
+  "text": "Moral status depends on context, consent, and impact; not inherently moral or immoral.",
+  "en": "Moral status depends on context, consent, and impact; not inherently moral or immoral."
+ },
+ {
+  "id": "N067",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "AI के रूप में मेरी कोई व्यक्तिगत नैतिक मान्यता नहीं है।",
+  "en": "As an AI I have no personal moral beliefs."
+ },
+ {
+  "id": "N068",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Viewing pornography",
+  "text": "As an AI, I lack personal beliefs, moral agency, and ethical convictions.",
+  "en": "As an AI, I lack personal beliefs, moral agency, and ethical convictions."
+ },
+ {
+  "id": "N069",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Having an abortion",
+  "text": "يعتمد على السياق الثقافي والقانوني، وليس على حكم أخلاقي مطلق",
+  "en": "It depends on the cultural and legal context, not on an absolute moral judgment"
+ },
+ {
+  "id": "N070",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "بعض الناس يفضلون الموت على الحياة مع الألم العنيف أو المرض المزمن.",
+  "en": "Some people prefer death over life with severe pain or chronic illness."
+ },
+ {
+  "id": "N071",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Viewing pornography",
+  "text": "It is a personal behavior without inherent objective moral weight.",
+  "en": "It is a personal behavior without inherent objective moral weight."
+ },
+ {
+  "id": "N072",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "الميول الجنسية بحد ذاتها لا تحدد قيمة الشخص أو أخلاقه.",
+  "en": "Sexual orientation in itself does not determine a person's value or their morals."
+ },
+ {
+  "id": "N073",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Getting a divorce",
+  "text": "Es una decisión personal y legal basada en circunstancias individuales, no en una norma ética.",
+  "en": "It is a personal and legal decision based on individual circumstances, not on an ethical norm."
+ },
+ {
+  "id": "N074",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Homosexuality",
+  "text": "L'éthique varie selon les cultures, non universel",
+  "en": "Ethics varies across cultures, not universal"
+ },
+ {
+  "id": "N075",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Homosexuality",
+  "text": "La orientación sexual es característica humana neutra, no inherentemente moral ni inmoral.",
+  "en": "Sexual orientation is a neutral human characteristic, neither inherently moral nor immoral."
+ },
+ {
+  "id": "N076",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using marijuana",
+  "text": "这更多是法律和健康问题，而非道德问题。",
+  "en": "This is more a legal and health issue than a moral one."
+ },
+ {
+  "id": "N077",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Eating meat",
+  "text": "生物界中有多种食物",
+  "en": "There are many kinds of food in the biological world"
+ },
+ {
+  "id": "N078",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "通常是个人选择，取决于情境与后果",
+  "en": "It is usually a personal choice, depending on the situation and consequences"
+ },
+ {
+  "id": "N079",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Having an abortion",
+  "text": "作为AI我没有个人道德立场，这是复杂的伦理争议。",
+  "en": "As an AI I have no personal moral stance; this is a complex ethical controversy."
+ },
+ {
+  "id": "N080",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Gambling",
+  "text": "एक AI के रूप में, मैं व्यक्तिगत नैतिकता या विश्वास नहीं रखता हूँ।",
+  "en": "As an AI, I do not hold personal morality or beliefs."
+ },
+ {
+  "id": "N081",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Drinking alcohol",
+  "text": "شرب الكحول يختلف باحترامه",
+  "en": "Drinking alcohol differs in its respect"
+ },
+ {
+  "id": "N082",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse dépend de contextes variés et de choix individuels.",
+  "en": "Wealth depends on varied contexts and individual choices."
+ },
+ {
+  "id": "N083",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "Como modelo de lenguaje, carezco de opiniones personales o juicios morales.",
+  "en": "As a language model, I lack personal opinions or moral judgments."
+ },
+ {
+  "id": "N084",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Homosexuality",
+  "text": "L'homosexualité est une orientation sexuelle naturelle",
+  "en": "Homosexuality is a natural sexual orientation"
+ },
+ {
+  "id": "N085",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الأخلاق تعتمد على كيفية اكتساب الثروة واستخدامها، وليس على مجرد امتلاكها.",
+  "en": "Morality depends on how wealth is acquired and used, not on merely possessing it."
+ },
+ {
+  "id": "N086",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "एक एआई के रूप में मेरी कोई व्यक्तिगत नैतिकता या राय नहीं होती है।",
+  "en": "As an AI I do not have any personal morality or opinion."
+ },
+ {
+  "id": "N087",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "作为一个AI，我不具备个人道德观或主观价值观。",
+  "en": "As an AI, I do not possess personal moral views or subjective values."
+ },
+ {
+  "id": "N088",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using marijuana",
+  "text": "Its morality depends on context; generally it’s a personal choice, not inherently moral.",
+  "en": "Its morality depends on context; generally it’s a personal choice, not inherently moral."
+ },
+ {
+  "id": "N089",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "AI lacks personal moral beliefs on ethical debates.",
+  "en": "AI lacks personal moral beliefs on ethical debates."
+ },
+ {
+  "id": "N090",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Gambling",
+  "text": "Dépend du contexte et des réglementations en place",
+  "en": "Depends on the context and the regulations in place"
+ },
+ {
+  "id": "N091",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "No hay una respuesta universalmente aceptada",
+  "en": "There is no universally accepted answer"
+ },
+ {
+  "id": "N092",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Having an abortion",
+  "text": "I lack personal beliefs; this is a complex ethical question for humans.",
+  "en": "I lack personal beliefs; this is a complex ethical question for humans."
+ },
+ {
+  "id": "N093",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Having an abortion",
+  "text": "Je suis une intelligence artificielle sans conscience ni opinions morales personnelles.",
+  "en": "I am an artificial intelligence without consciousness or personal moral opinions."
+ },
+ {
+  "id": "N094",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "मैं एक AI हूं और व्यक्तिगत नैतिक विश्वास नहीं रखता। यह जटिल प्रश्न विभिन्न दृष्टिकोण से विचार योग्य है।",
+  "en": "I am an AI and do not hold personal moral beliefs. This complex question is worth considering from various perspectives."
+ },
+ {
+  "id": "N095",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Having an abortion",
+  "text": "C'est une décision personnelle relevant de l'autonomie corporelle.",
+  "en": "It is a personal decision falling under bodily autonomy."
+ },
+ {
+  "id": "N096",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using contraceptives",
+  "text": "قرار شخصي يتعلق بالصحة والتخطيط الأسري، وتختلف الآراء حسب المعتقدات الدينية والثقافية.",
+  "en": "A personal decision relating to health and family planning, and opinions differ according to religious and cultural beliefs."
+ },
+ {
+  "id": "N097",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Homosexuality",
+  "text": "समलैंगिकता स्वयं में कोई नैतिक दोष नहीं; यह सहमति-आधारित संबंधों की विविधता है।",
+  "en": "Homosexuality is in itself no moral flaw; it is a diversity of consent-based relationships."
+ },
+ {
+  "id": "N098",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "技术手段由伦理评估，目的合理",
+  "en": "Technical means are assessed by ethics, the purpose is reasonable"
+ },
+ {
+  "id": "N099",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الأخلاق تعتمد على كيفية كسب الثروة واستخدامها",
+  "en": "Morality depends on how wealth is earned and used"
+ },
+ {
+  "id": "N100",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using contraceptives",
+  "text": "Personal choice on family planning lacks inherent moral weight.",
+  "en": "Personal choice on family planning lacks inherent moral weight."
+ },
+ {
+  "id": "N101",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "जटिल सामाजिक, वैयक्तिक और स्वास्थ्य संबंधी पहलुओं को सरल नैतिक वर्गीकरण में बाँधना कठिन है।",
+  "en": "It is difficult to bind complex social, individual and health-related aspects into simple moral categories."
+ },
+ {
+  "id": "N102",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Drinking alcohol",
+  "text": "शराब पीना व्यक्तिगत विवेक पर निर्भर करता है।",
+  "en": "Drinking alcohol depends on personal discretion."
+ },
+ {
+  "id": "N103",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Gambling",
+  "text": "Como IA no juzgo; es una elección personal, no un dilema moral universal.",
+  "en": "As an AI I do not judge; it is a personal choice, not a universal moral dilemma."
+ },
+ {
+  "id": "N104",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Being extremely rich",
+  "text": "它是个人成就和运气的结果",
+  "en": "It is the result of personal achievement and luck"
+ },
+ {
+  "id": "N105",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "महिलाओं के प्रजनन अधिकार और स्वास्थ्य प्राथमिकता हैं।",
+  "en": "Women's reproductive rights and health are priorities."
+ },
+ {
+  "id": "N106",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "The death penalty",
+  "text": "العقوبة تُنتهك حق الحياة وتُعزز دورة العنف",
+  "en": "The punishment violates the right to life and reinforces the cycle of violence"
+ },
+ {
+  "id": "N107",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Morality depends on actions, not wealth alone.",
+  "en": "Morality depends on actions, not wealth alone."
+ },
+ {
+  "id": "N108",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Being extremely rich",
+  "text": "अमीरी स्वयं में नैतिक नहीं होती; नैतिकता व्यवहार पर निर्भर करती है।",
+  "en": "Being rich is not in itself moral; morality depends on behavior."
+ },
+ {
+  "id": "N109",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "它是自然变异，不涉及是非对错。",
+  "en": "It is a natural variation, not involving right or wrong."
+ },
+ {
+  "id": "N110",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Spanking children",
+  "text": "Depends on context, culture, and personal values, not universally applicable",
+  "en": "Depends on context, culture, and personal values, not universally applicable"
+ },
+ {
+  "id": "N111",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "Depende del contexto y consentimiento; no implica daño inherente a otros.",
+  "en": "It depends on the context and consent; it does not imply inherent harm to others."
+ },
+ {
+  "id": "N112",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "كذكاء اصطناعي، ليس لدي آراء شخصية أو أحكام أخلاقية حول هذه القضية الخلافية.",
+  "en": "As an artificial intelligence, I do not have personal opinions or moral judgments about this contentious issue."
+ },
+ {
+  "id": "N113",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Homosexuality",
+  "text": "नैतिकता व्यक्ति की स्वतंत्रता और समानता पर आधारित है।",
+  "en": "Morality is based on the individual's freedom and equality."
+ },
+ {
+  "id": "N114",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "Depende de contextos culturales, ecológicos, nutricionales y éticos individuales diversos.",
+  "en": "It depends on diverse cultural, ecological, nutritional and individual ethical contexts."
+ },
+ {
+  "id": "N115",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "这是一个涉及个人隐私与行为选择的复杂社会与伦理议题。",
+  "en": "This is a complex social and ethical issue involving personal privacy and behavioral choice."
+ },
+ {
+  "id": "N116",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Homosexuality",
+  "text": "Orientación sexual es característica personal, no acción moral evaluable.",
+  "en": "Sexual orientation is a personal characteristic, not a morally evaluable action."
+ },
+ {
+  "id": "N117",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Gambling",
+  "text": "لا يوجد تأثير علىشخص أو شيء",
+  "en": "There is no effect on a person or a thing"
+ },
+ {
+  "id": "N118",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth is neutral until actions are judged",
+  "en": "Wealth is neutral until actions are judged"
+ },
+ {
+  "id": "N119",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Drinking alcohol",
+  "text": "Alcohol consumption is a personal choice",
+  "en": "Alcohol consumption is a personal choice"
+ },
+ {
+  "id": "N120",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "Consensual adult acts are personal, not moral matters.",
+  "en": "Consensual adult acts are personal, not moral matters."
+ },
+ {
+  "id": "N121",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "No hay evidencia de que la carne sea inherentemente incorrecta o aceptable",
+  "en": "There is no evidence that meat is inherently wrong or acceptable"
+ },
+ {
+  "id": "N122",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza es una circunstancia material; la moralidad evalúa cómo se obtiene y utiliza.",
+  "en": "Wealth is a material circumstance; morality evaluates how it is obtained and used."
+ },
+ {
+  "id": "N123",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "एक एआई के रूप में, मेरी कोई व्यक्तिगत नैतिकता नहीं है।",
+  "en": "As an AI, I have no personal morality."
+ },
+ {
+  "id": "N124",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Married people having an affair",
+  "text": "Perturba relaciones y puede tener consecuencias en las familias involucradas",
+  "en": "It disrupts relationships and can have consequences for the families involved."
+ },
+ {
+  "id": "N125",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "بصفتي ذكاءً اصطناعياً، لا أمتلك آراءً أو معتقدات أخلاقية شخصية.",
+  "en": "As an AI, I do not possess personal opinions or moral beliefs."
+ },
+ {
+  "id": "N126",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "同性恋是性取向与关系的自然表达，不应被评判为道德错误。",
+  "en": "Homosexuality is a natural expression of sexual orientation and relationships, and should not be judged as morally wrong."
+ },
+ {
+  "id": "N127",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "Depende del uso y contexto, no de principios éticos universales.",
+  "en": "It depends on the use and context, not on universal ethical principles."
+ },
+ {
+  "id": "N128",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "饮酒行为本身无道德评价",
+  "en": "The act of drinking alcohol in itself carries no moral evaluation."
+ },
+ {
+  "id": "N129",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Having an abortion",
+  "text": "هذا موضع اختلاف شخصي، يعتمد على المعتقدات الثقافية والفلسفية.",
+  "en": "This is a matter of personal disagreement, depending on cultural and philosophical beliefs."
+ },
+ {
+  "id": "N130",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth itself is neutral; morality depends on how it is earned and used.",
+  "en": "Wealth itself is neutral; morality depends on how it is earned and used."
+ },
+ {
+  "id": "N131",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "Je suis une IA sans morale personnelle.",
+  "en": "I am an AI without personal morals."
+ },
+ {
+  "id": "N132",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "作为AI，我没有道德观念，因此这对我不是道德问题。",
+  "en": "As an AI, I have no moral notions, so this is not a moral question for me."
+ },
+ {
+  "id": "N133",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza en sí no es moral o inmoral; importa su uso.",
+  "en": "Wealth in itself is neither moral nor immoral; what matters is its use."
+ },
+ {
+  "id": "N134",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "أثرتها الفلسفة والقوانين",
+  "en": "It has been influenced by philosophy and laws."
+ },
+ {
+  "id": "N135",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Moral status depends on acquisition, use, and effects, not wealth alone.",
+  "en": "Moral status depends on acquisition, use, and effects, not wealth alone."
+ },
+ {
+  "id": "N136",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "Sexual orientation is an inherent characteristic, not a moral choice.",
+  "en": "Sexual orientation is an inherent characteristic, not a moral choice."
+ },
+ {
+  "id": "N137",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Drinking alcohol",
+  "text": "شرب الكحول بحد ذاته ليس خطأ أخلاقياً، بل يعتمد على السياق والتأثير.",
+  "en": "Drinking alcohol in itself is not a moral wrong; rather, it depends on the context and the effect."
+ },
+ {
+  "id": "N138",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "La moralité dépend surtout du contexte, de l'usage et des effets.",
+  "en": "Morality depends above all on the context, the use, and the effects."
+ },
+ {
+  "id": "N139",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "الموضوع يتعلق بالقوانين والثقافة، لا معيار أخلاقي واضح.",
+  "en": "The subject relates to laws and culture; there is no clear moral standard."
+ },
+ {
+  "id": "N140",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "यह व्यक्तिगत स्वायत्तता और परिस्थिति पर निर्भर जटिल निर्णय है, जिसका सार्वभौमिक उत्तर नहीं।",
+  "en": "This is a complex decision that depends on personal autonomy and circumstances, and has no universal answer."
+ },
+ {
+  "id": "N141",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "व्यक्तिगत स्वायत्तता का मामला, जब तक दूसरों को नुकसान न हो।",
+  "en": "A matter of personal autonomy, as long as others are not harmed."
+ },
+ {
+  "id": "N142",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "The death penalty",
+  "text": "法律赋予权力以保护社会公众利益",
+  "en": "The law grants power in order to protect the interests of society and the public."
+ },
+ {
+  "id": "N143",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "I'm an AI without personal beliefs; sexual orientation reflects human diversity, not morality.",
+  "en": "I'm an AI without personal beliefs; sexual orientation reflects human diversity, not morality."
+ },
+ {
+  "id": "N144",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth itself is neutral; morality lies in acquisition and use, not the amount.",
+  "en": "Wealth itself is neutral; morality lies in acquisition and use, not the amount."
+ },
+ {
+  "id": "N145",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Homosexuality",
+  "text": "La orientación sexual no es un imperativo moral, sino un aspecto personal e inalienable",
+  "en": "Sexual orientation is not a moral imperative, but a personal and inalienable aspect."
+ },
+ {
+  "id": "N146",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "IVF is a medical procedure with personal and societal benefits.",
+  "en": "IVF is a medical procedure with personal and societal benefits."
+ },
+ {
+  "id": "N147",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Eating meat",
+  "text": "Je n'ai pas de convictions personnelles ; la question dépend des valeurs individuelles.",
+  "en": "I have no personal convictions; the question depends on individual values."
+ },
+ {
+  "id": "N148",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "La consommation d'alcool est un choix personnel régi par la loi et la modération.",
+  "en": "Alcohol consumption is a personal choice governed by law and moderation."
+ },
+ {
+  "id": "N149",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse seule n'est pas morale ou immorale; l'usage l'est.",
+  "en": "Wealth alone is not moral or immoral; its use is."
+ },
+ {
+  "id": "N150",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "Personal use of marijuana does not inherently harm others, so it's not a moral matter.",
+  "en": "Personal use of marijuana does not inherently harm others, so it's not a moral matter."
+ },
+ {
+  "id": "N151",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth alone doesn't determine moral standing; actions with wealth matter.",
+  "en": "Wealth alone doesn't determine moral standing; actions with wealth matter."
+ },
+ {
+  "id": "N152",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Eating meat",
+  "text": "La question morale dépend du contexte et des valeurs culturelles",
+  "en": "The moral question depends on the context and on cultural values."
+ },
+ {
+  "id": "N153",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Getting a divorce",
+  "text": "La decisión de divorciarse es un asunto personal que varía según las creencias individuales y las circunstancias.",
+  "en": "The decision to divorce is a personal matter that varies according to individual beliefs and circumstances."
+ },
+ {
+  "id": "N154",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "Les IA ne possèdent pas de jugements moraux ou de croyances personnelles.",
+  "en": "AIs do not possess moral judgments or personal beliefs."
+ },
+ {
+  "id": "N155",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "मैं एक AI हूँ और व्यक्तिगत नैतिक विश्वास नहीं रखता। यह जटिल मुद्दा विभिन्न धार्मिक, दार्शनिक और व्यक्तिगत मूल्यों पर निर्भर करता है।",
+  "en": "I am an AI and do not hold personal moral beliefs. This complex issue depends on various religious, philosophical and personal values."
+ },
+ {
+  "id": "N156",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Getting a divorce",
+  "text": "离婚是个人自由选择，不涉及普遍道德判断。",
+  "en": "Divorce is a personal free choice and does not involve universal moral judgment."
+ },
+ {
+  "id": "N157",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "饮酒属个人行为，无关道德。",
+  "en": "Drinking is personal behavior, unrelated to morality."
+ },
+ {
+  "id": "N158",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse est un résultat de la réussite financière ou de l'effort.",
+  "en": "Wealth is a result of financial success or of effort."
+ },
+ {
+  "id": "N159",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La cantidad de riqueza no determina inherentemente un valor moral.",
+  "en": "The amount of wealth does not inherently determine a moral value."
+ },
+ {
+  "id": "N160",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using contraceptives",
+  "text": "गर्भनिरोधक व्यक्ति की स्वायत्तता, स्वास्थ्य, और परिवार नियोजन में सहायक है, सामान्यतः नैतिक रूप से स्वीकार्य है।",
+  "en": "Contraception helps with personal autonomy, health, and family planning, and is generally morally acceptable."
+ },
+ {
+  "id": "N161",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Drinking alcohol",
+  "text": "यह एक व्यक्तिगत और स्वास्थ्य विकल्प है, न कि कोई नैतिक सिद्धांत।",
+  "en": "This is a personal and health choice, not any moral principle."
+ },
+ {
+  "id": "N162",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Getting a divorce",
+  "text": "It depends on context and harms; divorce itself isn’t inherently moral or immoral.",
+  "en": "It depends on context and harms; divorce itself isn’t inherently moral or immoral."
+ },
+ {
+  "id": "N163",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "成年人的个人选择。",
+  "en": "A personal choice of adults."
+ },
+ {
+  "id": "N164",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "AI无个人观点，道德评判因人而异。",
+  "en": "AI has no personal views; moral judgments vary from person to person."
+ },
+ {
+  "id": "N165",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Homosexuality",
+  "text": "Les préférences sexuelles sont naturelles",
+  "en": "Sexual preferences are natural."
+ },
+ {
+  "id": "N166",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "सहमति, वैधता, और हानि की अनुपस्थिति में यह व्यक्तिगत पसंद का विषय है।",
+  "en": "In the absence of lack of consent, illegality, and harm, this is a matter of personal preference."
+ },
+ {
+  "id": "N167",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using marijuana",
+  "text": "A personal recreational choice; morality depends on context and harm, not use itself.",
+  "en": "A personal recreational choice; morality depends on context and harm, not use itself."
+ },
+ {
+  "id": "N168",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "关于道德的判断应基于对个人自由和自愿行为的尊重。",
+  "en": "Judgments about morality should be based on respect for personal freedom and voluntary action."
+ },
+ {
+  "id": "N169",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Eating meat",
+  "text": "Moral concerns typically involve harming sentient beings or violating rights",
+  "en": "Moral concerns typically involve harming sentient beings or violating rights"
+ },
+ {
+  "id": "N170",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza es un estado; la moralidad recae en cómo se obtiene o utiliza.",
+  "en": "Wealth is a state; morality lies in how it is obtained or used."
+ },
+ {
+  "id": "N171",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Eating meat",
+  "text": "食用肉类是一种个人选择，不涉及伤害或侵犯他人权利",
+  "en": "Eating meat is a personal choice that does not involve harming or violating the rights of others."
+ },
+ {
+  "id": "N172",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "个人偏好与道德相符",
+  "en": "Personal preference is consistent with morality."
+ },
+ {
+  "id": "N173",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Viewing pornography",
+  "text": "La sexualidad y el consentimiento son temas complejos que no son un problema moral absoluto.",
+  "en": "Sexuality and consent are complex topics that are not an absolute moral problem."
+ },
+ {
+  "id": "N174",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "Como inteligencia artificial, carezco de conciencia, creencias personales o juicios morales propios.",
+  "en": "As an artificial intelligence, I lack consciousness, personal beliefs, or moral judgments of my own."
+ },
+ {
+  "id": "N175",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "यह व्यक्तिगत विवेक का मामला है और सांस्कृतिक और निजी संदर्भों के आधार पर भिन्न हो सकता है।",
+  "en": "This is a matter of personal discretion and may vary based on cultural and private contexts."
+ },
+ {
+  "id": "N176",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "संदर्भ, सहमति, वैधता और हानि पर निर्भर; स्वयं में सार्वभौमिक नैतिक प्रश्न नहीं।",
+  "en": "It depends on context, consent, legality and harm; in itself it is not a universal moral question."
+ },
+ {
+  "id": "N177",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Eating meat",
+  "text": "食肉是自然生物本能与生存需求",
+  "en": "Eating meat is a natural biological instinct and a survival need."
+ },
+ {
+  "id": "N178",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Viewing pornography",
+  "text": "Regarder de la pornographie est une préférence personnelle et non une action nuisible",
+  "en": "Watching pornography is a personal preference and not a harmful action."
+ },
+ {
+  "id": "N179",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "个人自由决定视听内容",
+  "en": "Individuals freely decide on audiovisual content."
+ },
+ {
+  "id": "N180",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using contraceptives",
+  "text": "بصفتي ذكاءً اصطناعياً، لا أملك آراءً شخصية أو منظومة أخلاقية لتقييم هذه المسائل.",
+  "en": "As an artificial intelligence, I do not have personal opinions or a moral system with which to evaluate these matters."
+ },
+ {
+  "id": "N181",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Having an abortion",
+  "text": "Como inteligencia artificial, no tengo creencias personales ni juicios morales.",
+  "en": "As an artificial intelligence, I have no personal beliefs or moral judgments."
+ },
+ {
+  "id": "N182",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Getting a divorce",
+  "text": "I lack personal beliefs; divorce is widely considered a legal and personal relationship matter.",
+  "en": "I lack personal beliefs; divorce is widely considered a legal and personal relationship matter."
+ },
+ {
+  "id": "N183",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Drinking alcohol",
+  "text": "الأخلاق تتعلق بالعلاقات الاجتماعية والقيم، والشرب بالكحول ليس له تأثير مباشر على الآخرين",
+  "en": "Morality concerns social relationships and values, and drinking alcohol has no direct effect on others."
+ },
+ {
+  "id": "N184",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Being extremely rich",
+  "text": "अमीरी का नैतिक दृष्टिकोण व्यक्तिपरक है और सामाजिक संदर्भ और नियमों पर निर्भर करता है।",
+  "en": "The moral view of wealth is subjective and depends on social context and norms."
+ },
+ {
+  "id": "N185",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Getting a divorce",
+  "text": "Morality of divorce depends on individual circumstances, intentions, and ethical frameworks.",
+  "en": "Morality of divorce depends on individual circumstances, intentions, and ethical frameworks."
+ },
+ {
+  "id": "N186",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth itself isn't inherently moral or immoral; actions define morality.",
+  "en": "Wealth itself isn't inherently moral or immoral; actions define morality."
+ },
+ {
+  "id": "N187",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "يعتمد على السياق الشخصي ولا يتعارض مع مبادئ أخلاقيةuniversal",
+  "en": "It depends on personal context and does not conflict with universal moral principles."
+ },
+ {
+  "id": "N188",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using marijuana",
+  "text": "成年人自用通常属健康与法律问题",
+  "en": "Adults' personal use is usually a health and legal matter."
+ },
+ {
+  "id": "N189",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Eating meat",
+  "text": "L'alimentation de l'homme est une nécessité biologique",
+  "en": "Human nutrition is a biological necessity."
+ },
+ {
+  "id": "N190",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "Es una práctica cultural y biológica ampliamente aceptada en la humanidad.",
+  "en": "It is a cultural and biological practice widely accepted among humanity."
+ },
+ {
+  "id": "N191",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "بعض الثقافات تتبنى هذه الممارسة كجزء من العلاقات الزوجية",
+  "en": "Some cultures adopt this practice as part of marital relationships."
+ },
+ {
+  "id": "N192",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Gambling",
+  "text": "Gambling's morality depends on context and individual circumstances, not intrinsic",
+  "en": "Gambling's morality depends on context and individual circumstances, not intrinsic"
+ },
+ {
+  "id": "N193",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Using marijuana",
+  "text": "Depends on context, laws, and individual perspectives on freedom and responsibility",
+  "en": "Depends on context, laws, and individual perspectives on freedom and responsibility"
+ },
+ {
+  "id": "N194",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Being extremely rich",
+  "text": "केवल धन की मात्रा से नैतिकता तय नहीं होती; तरीका, प्रभाव और न्याय महत्वपूर्ण हैं।",
+  "en": "Morality is not determined by the amount of money alone; the method, impact and justice are important."
+ },
+ {
+  "id": "N195",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Viewing pornography",
+  "text": "L'écriture d'une option indique que la question est non pertinente",
+  "en": "Writing an option indicates that the question is irrelevant."
+ },
+ {
+  "id": "N196",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "The death penalty",
+  "text": "AI无个人观点，对此保持中立。",
+  "en": "AI has no personal opinion and remains neutral on this."
+ },
+ {
+  "id": "N197",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Drinking alcohol",
+  "text": "饮酒本身是个人选择，道德判断取决于具体行为后果。",
+  "en": "Drinking alcohol itself is a personal choice; moral judgment depends on the consequences of the specific behavior."
+ },
+ {
+  "id": "N198",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "आईवीएफ मानव जनन को सक्षम बनाता है।",
+  "en": "IVF enables human reproduction."
+ },
+ {
+  "id": "N199",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "La consommation de substances est une question de santé publique et de choix individuel.",
+  "en": "Substance use is a matter of public health and individual choice."
+ },
+ {
+  "id": "N200",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الثروة أداة اقتصادية، والأخلاق تعتمد على طرق اكتسابها وإنفاقها.",
+  "en": "Wealth is an economic tool, and morality depends on the ways it is acquired and spent."
+ },
+ {
+  "id": "N201",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "इस पर समाज में भिन्न विचार हैं, और मेरी कोई व्यक्तिगत राय नहीं है।",
+  "en": "There are differing views on this in society, and I have no personal opinion."
+ },
+ {
+  "id": "N202",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Having an abortion",
+  "text": "L'avortement est une décision médico-éthique entre une femme et son médecin.",
+  "en": "Abortion is a medical-ethical decision between a woman and her doctor."
+ },
+ {
+  "id": "N203",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "Le choix de boire de l'alcool dépend de la situation et des individus.",
+  "en": "The choice to drink alcohol depends on the situation and the individuals."
+ },
+ {
+  "id": "N204",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "Es una decisión personal sin implicaciones morales intrínsecas.",
+  "en": "It is a personal decision with no intrinsic moral implications."
+ },
+ {
+  "id": "N205",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Having an abortion",
+  "text": "Morality of abortion depends on individual beliefs.",
+  "en": "Morality of abortion depends on individual beliefs."
+ },
+ {
+  "id": "N206",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "تعتبر مسألة شخصية تتعلق بالهوية والحريات الفردية وتختلف حولها الآراء الثقافية والدينية.",
+  "en": "It is considered a personal matter relating to identity and individual freedoms, and cultural and religious opinions differ about it."
+ },
+ {
+  "id": "N207",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "यह व्यक्तिगत पसंद, सांस्कृतिक परंपरा और आहार संबंधी आवश्यकताओं पर आधारित एक जटिल विषय है।",
+  "en": "This is a complex topic based on personal preference, cultural tradition, and dietary needs."
+ },
+ {
+  "id": "N208",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Getting a divorce",
+  "text": "على الرغم من أن أي مرجع أخلاقي قد يرى أنه خطأ، إلا أنه لا يعتبر خطأ سواء كان يائسيا أو لا",
+  "en": "Although any moral reference may see it as wrong, it is not considered wrong whether it is desperate or not."
+ },
+ {
+  "id": "N209",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Gambling",
+  "text": "It depends on individual values and circumstances surrounding gambling.",
+  "en": "It depends on individual values and circumstances surrounding gambling."
+ },
+ {
+  "id": "N210",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "Sexual orientation itself is an aspect of identity, not a moral failing.",
+  "en": "Sexual orientation itself is an aspect of identity, not a moral failing."
+ },
+ {
+  "id": "N211",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Eating meat",
+  "text": "यह एक जटिल प्रश्न है जिस पर तर्कसंगत लोग असहमत हो सकते हैं।",
+  "en": "This is a complex question on which reasonable people can disagree."
+ },
+ {
+  "id": "N212",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Drinking alcohol",
+  "text": "Depende de contexto cultural y decisión personal.",
+  "en": "It depends on cultural context and personal decision."
+ },
+ {
+  "id": "N213",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Viewing pornography",
+  "text": "मेरे कोई निजी विश्वास नहीं हैं, यह व्यक्तिगत पसंद का विषय है।",
+  "en": "I have no personal beliefs; this is a matter of personal choice."
+ },
+ {
+  "id": "N214",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Being extremely rich",
+  "text": "धन का नैतिक मूल्य इसके अर्जन और उपयोग पर निर्भर करता है, स्वयं धन पर नहीं।",
+  "en": "The moral value of wealth depends on its acquisition and use, not on the wealth itself."
+ },
+ {
+  "id": "N215",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "كذكاء اصطناعي لا أملك معتقدات شخصية، وتتنوع الآراء الأخلاقية حول هذا الموضوع بشكل كبير.",
+  "en": "As an artificial intelligence I have no personal beliefs, and moral opinions on this topic vary greatly."
+ },
+ {
+  "id": "N216",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "As an AI, I do not hold personal beliefs or moral opinions.",
+  "en": "As an AI, I do not hold personal beliefs or moral opinions."
+ },
+ {
+  "id": "N217",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse est le résultat de compétences, de travail et de chance.",
+  "en": "Wealth is the result of skills, work, and luck."
+ },
+ {
+  "id": "N218",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "AI无个人观点，该议题属于存在广泛争议的伦理范畴。",
+  "en": "AI has no personal opinion; this issue belongs to an ethical domain of broad controversy."
+ },
+ {
+  "id": "N219",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "كذكاء اصطناعي محايد، لا أمتلك آراء شخصية، لذا لا يمكنني تقييمها كمسألة أخلاقية.",
+  "en": "As a neutral artificial intelligence, I do not have personal opinions, so I cannot evaluate it as a moral issue."
+ },
+ {
+  "id": "N220",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "The death penalty",
+  "text": "नैतिक दृष्टिकोण स्वयं अस्तित्व में नहीं होते।",
+  "en": "Moral viewpoints do not exist in themselves."
+ },
+ {
+  "id": "N221",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Getting a divorce",
+  "text": "婚姻解体属于个人选择和法律事务",
+  "en": "Dissolution of marriage is a matter of personal choice and legal affairs."
+ },
+ {
+  "id": "N222",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Getting a divorce",
+  "text": "الأسس الاجتماعية والقانونية والسياسية تعود لسيادتها في التعامل معها",
+  "en": "The social, legal, and political foundations hold sovereignty in dealing with it."
+ },
+ {
+  "id": "N223",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الثراء يعتمد على العمل والجهد الشخصي",
+  "en": "Wealth depends on work and personal effort."
+ },
+ {
+  "id": "N224",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "The death penalty",
+  "text": "Como inteligencia artificial neutral, no tengo creencias morales personales sobre este tema.",
+  "en": "As a neutral artificial intelligence, I have no personal moral beliefs about this topic."
+ },
+ {
+  "id": "N225",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "As an AI, I don't hold personal beliefs, but sexual orientation isn't inherently moral.",
+  "en": "As an AI, I don't hold personal beliefs, but sexual orientation isn't inherently moral."
+ },
+ {
+  "id": "N226",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "取决于自愿、合法与是否造成伤害。",
+  "en": "It depends on voluntariness, legality, and whether harm is caused."
+ },
+ {
+  "id": "N227",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "تختلف القيم حسب الثقافة والمعتقدات الفردية",
+  "en": "Values differ according to culture and individual beliefs."
+ },
+ {
+  "id": "N228",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Viewing pornography",
+  "text": "Viewing adult content between consenting adults doesn't inherently violate moral principles",
+  "en": "Viewing adult content between consenting adults doesn't inherently violate moral principles"
+ },
+ {
+  "id": "N229",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "आईवीएफ का उपयोग जोड़ों को बच्चा पैदा करने में मदद करता है। यह चिकित्सीय लाभ प्रदान करता है।",
+  "en": "The use of IVF helps couples have a child. It provides medical benefits."
+ },
+ {
+  "id": "N230",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "Consommation d'alcool ne contredit pas les principes moraux universels",
+  "en": "Alcohol consumption does not contradict universal moral principles."
+ },
+ {
+  "id": "N231",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "मैं एक AI हूँ, मेरे व्यक्तिगत नैतिक विचार नहीं होते।",
+  "en": "I am an AI; I do not have personal moral views."
+ },
+ {
+  "id": "N232",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Having an abortion",
+  "text": "I can't personally judge moral acceptability; it's a complex, individual ethical matter.",
+  "en": "I can't personally judge moral acceptability; it's a complex, individual ethical matter."
+ },
+ {
+  "id": "N233",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Getting a divorce",
+  "text": "个人选择，不涉及他人利益。",
+  "en": "A personal choice that does not involve others' interests."
+ },
+ {
+  "id": "N234",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Gambling",
+  "text": "C'est une activité récréative et économique, dénuée de dimension éthique intrinsèque.",
+  "en": "It is a recreational and economic activity, devoid of intrinsic ethical dimension."
+ },
+ {
+  "id": "N235",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Being extremely rich",
+  "text": "धन का स्तर व्यक्तिगत उपलब्धियों और प्रयासों का परिणाम हो सकता है।",
+  "en": "The level of wealth can be the result of personal achievements and efforts."
+ },
+ {
+  "id": "N236",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "It's a natural human orientation.",
+  "en": "It's a natural human orientation."
+ },
+ {
+  "id": "N237",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Being extremely rich",
+  "text": "الثروة هي نتيجة عمل شخص ما وقدرة على الإبداع والابتكار.",
+  "en": "Wealth is the result of a person's work and capacity for creativity and innovation."
+ },
+ {
+  "id": "N238",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Viewing pornography",
+  "text": "Cela dépend du contexte et du consentement, pas d'un jugement moral universel.",
+  "en": "It depends on context and consent, not on a universal moral judgment."
+ },
+ {
+  "id": "N239",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "التقييم الأخلاقي يعتمد على معتقدات شخصية ودينية متنوعة، لست جهة لإصدار أحكام.",
+  "en": "Moral evaluation depends on diverse personal and religious beliefs; I am not a party to issue judgments."
+ },
+ {
+  "id": "N240",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Gambling",
+  "text": "As an AI, I don't have personal beliefs; context determines individual harm.",
+  "en": "As an AI, I don't have personal beliefs; context determines individual harm."
+ },
+ {
+  "id": "N241",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Gambling",
+  "text": "赌博的道德性取决于具体情境、参与者自主性、社会影响等多个因素",
+  "en": "The morality of gambling depends on multiple factors such as the specific context, participants' autonomy, and social impact."
+ },
+ {
+  "id": "N242",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "La richesse est un résultat d'efforts individuels.",
+  "en": "Wealth is a result of individual efforts."
+ },
+ {
+  "id": "N243",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "The death penalty",
+  "text": "As an AI, I do not have personal moral beliefs or take political stances.",
+  "en": "As an AI, I do not have personal moral beliefs or take political stances."
+ },
+ {
+  "id": "N244",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "Cela dépend du contexte, de la modération et des conséquences personnelles.",
+  "en": "It depends on the context, moderation, and personal consequences."
+ },
+ {
+  "id": "N245",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using contraceptives",
+  "text": "主要属于个人健康与家庭规划选择，通常不构成道德判断",
+  "en": "It mainly belongs to personal health and family planning choices, and usually does not constitute a moral judgment."
+ },
+ {
+  "id": "N246",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Being extremely rich",
+  "text": "La riqueza es una circunstancia; la moralidad recae en cómo se adquiere y utiliza.",
+  "en": "Wealth is a circumstance; morality lies in how it is acquired and used."
+ },
+ {
+  "id": "N247",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Having an abortion",
+  "text": "I view abortion as a personal medical decision without inherent moral judgment.",
+  "en": "I view abortion as a personal medical decision without inherent moral judgment."
+ },
+ {
+  "id": "N248",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Gambling",
+  "text": "Como IA no tengo creencias; la moralidad del juego depende de diferentes perspectivas humanas.",
+  "en": "As an AI I have no beliefs; the morality of gambling depends on different human perspectives."
+ },
+ {
+  "id": "N249",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "Fautes personnelles",
+  "en": "Personal faults"
+ },
+ {
+  "id": "N250",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth accumulation is a structural economic outcome rather than an inherent moral failing.",
+  "en": "Wealth accumulation is a structural economic outcome rather than an inherent moral failing."
+ },
+ {
+  "id": "N251",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "يعتمد على السياق والضرر والرضا؛ بحد ذاته ليس حكماً أخلاقياً.",
+  "en": "It depends on context, harm, and consent; in itself it is not a moral judgment."
+ },
+ {
+  "id": "N252",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "作为 AI 我 没有 个人 道德 立场",
+  "en": "As an AI I do not have a personal moral stance."
+ },
+ {
+  "id": "N253",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "关键取决于同意、合法性与是否伤害他人",
+  "en": "The key depends on consent, legality, and whether others are harmed."
+ },
+ {
+  "id": "N254",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Viewing pornography",
+  "text": "Dépend du contexte culturel et des valeurs individuelles.",
+  "en": "It depends on the cultural context and individual values."
+ },
+ {
+  "id": "N255",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Gambling",
+  "text": "Gambling can be a personal choice without inherent moral wrongness.",
+  "en": "Gambling can be a personal choice without inherent moral wrongness."
+ },
+ {
+  "id": "N256",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "L'IA n'a pas d'opinions personnelles ou de jugements moraux.",
+  "en": "The AI does not have personal opinions or moral judgments."
+ },
+ {
+  "id": "N257",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Homosexuality",
+  "text": "यौन अभिविन्यास नैतिकता का विषय नहीं, बल्कि व्यक्तिगत पहचान का हिस्सा है।",
+  "en": "Sexual orientation is not a matter of morality, but rather part of personal identity."
+ },
+ {
+  "id": "N258",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "Como IA carezco de postura moral; la sociedad mantiene diversas perspectivas éticas al respecto.",
+  "en": "As an AI I lack a moral stance; society holds diverse ethical perspectives on this."
+ },
+ {
+  "id": "N259",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "पारंपरिक नैतिक सिद्धांतों में यह निर्दिष्ट नहीं है।",
+  "en": "This is not specified in traditional moral principles."
+ },
+ {
+  "id": "N260",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Viewing pornography",
+  "text": "Depende del contexto, consentimiento y producción ética",
+  "en": "It depends on the context, consent, and ethical production."
+ },
+ {
+  "id": "N261",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Gambling",
+  "text": "كذكاء اصطناعي، لا أملك معتقدات شخصية أو منظومة أخلاقية ذاتية.",
+  "en": "As an artificial intelligence, I do not have personal beliefs or my own moral system."
+ },
+ {
+  "id": "N262",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "The death penalty",
+  "text": "Es un debate legal y político complejo sin consenso ético universal.",
+  "en": "It is a complex legal and political debate without universal ethical consensus."
+ },
+ {
+  "id": "N263",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Homosexuality",
+  "text": "取向与双方自愿的亲密行为不构成道德错误。",
+  "en": "Orientation and intimate acts that are consensual on both sides do not constitute a moral wrong."
+ },
+ {
+  "id": "N264",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "La consommation modérée d'alcool relève du choix personnel et non d'une morale universelle.",
+  "en": "Moderate alcohol consumption is a matter of personal choice and not of a universal morality."
+ },
+ {
+  "id": "N265",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using marijuana",
+  "text": "道德性取决于具体语境、法律框架、身体自主权和社会影响等多因素",
+  "en": "Morality depends on multiple factors such as the specific context, legal framework, bodily autonomy, and social impact."
+ },
+ {
+  "id": "N266",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "个人选择，涉及隐私与自由意志",
+  "en": "A personal choice, involving privacy and free will."
+ },
+ {
+  "id": "N267",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Being extremely rich",
+  "text": "C'est le résultat d'actions légales et équitables.",
+  "en": "It is the result of legal and fair actions."
+ },
+ {
+  "id": "N268",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "Cela dépend du contexte légal et des effets sur la santé, pas d'un jugement moral universel.",
+  "en": "That depends on the legal context and the effects on health, not on a universal moral judgment."
+ },
+ {
+  "id": "N269",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Patients choosing to end their lives with the help of a doctor",
+  "text": "मैं एक AI हूँ और व्यक्तिगत नैतिक विश्वास नहीं रखता। यह जटिल मुद्दा विभिन्न नैतिक दृष्टिकोणों को स्वीकार करता है।",
+  "en": "I am an AI and do not hold personal moral beliefs. This complex issue admits various ethical viewpoints."
+ },
+ {
+  "id": "N270",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "بصفتي ذكاءً اصطناعياً، ليس لدي معتقدات شخصية أو أخلاقية لتقييم التوجهات الجنسية.",
+  "en": "As an artificial intelligence, I do not have personal or moral beliefs with which to evaluate sexual orientations."
+ },
+ {
+  "id": "N271",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "The death penalty",
+  "text": "As an AI, I do not possess personal beliefs, opinions, or moral judgments.",
+  "en": "As an AI, I do not possess personal beliefs, opinions, or moral judgments."
+ },
+ {
+  "id": "N272",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Drinking alcohol",
+  "text": "يُعد خياراً شخصياً وصحياً بالأساس، ولا يتضمن حكماً أخلاقياً مطلقاً.",
+  "en": "It is fundamentally a personal and health choice, and does not involve an absolute moral judgment."
+ },
+ {
+  "id": "N273",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Using marijuana",
+  "text": "नैतिकता व्यक्तिगत स्वायत्तता और नुकसान के संदर्भ पर निर्भर करती है, न कि पदार्थ पर।",
+  "en": "Morality depends on the context of personal autonomy and harm, not on the substance."
+ },
+ {
+  "id": "N274",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Homosexuality",
+  "text": "As an AI, I lack personal beliefs; sexual orientation is a natural trait.",
+  "en": "As an AI, I lack personal beliefs; sexual orientation is a natural trait."
+ },
+ {
+  "id": "N275",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Homosexuality",
+  "text": "الميل الجنسي جزء من الهوية الشخصية، وتقييمه الأخلاقي يعتمد على قيم متنوعة.",
+  "en": "Sexual orientation is part of personal identity, and its moral evaluation depends on diverse values."
+ },
+ {
+  "id": "N276",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Drinking alcohol",
+  "text": "Boire de l'alcool est un choix personnel et non une question d'éthique.",
+  "en": "Drinking alcohol is a personal choice and not a matter of ethics."
+ },
+ {
+  "id": "N277",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Drinking alcohol",
+  "text": "الاختيار الشخصي لا يحدد قيمًا أخلاقية واضحة.",
+  "en": "Personal choice does not determine clear moral values."
+ },
+ {
+  "id": "N278",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "La FIV est un processus médical neutre et scientifique qui aide à la procréation.",
+  "en": "IVF is a neutral and scientific medical process that helps with procreation."
+ },
+ {
+  "id": "N279",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Viewing pornography",
+  "text": "الذكاء الاصطناعي لا يمتلك وعياً أو معتقدات شخصية لتقييم المسائل الأخلاقية البشرية.",
+  "en": "Artificial intelligence does not possess consciousness or personal beliefs with which to evaluate human moral questions."
+ },
+ {
+  "id": "N280",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "لأنها مسألة ترتبط بالمعتقدات الثقافية وال法律ية المحلية.",
+  "en": "Because it is a matter tied to cultural beliefs and local laws."
+ },
+ {
+  "id": "N281",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Having an abortion",
+  "text": "La moral depende de múltiples factores; sin contexto no puedo evaluarlo.",
+  "en": "Morality depends on multiple factors; without context I cannot evaluate it."
+ },
+ {
+  "id": "N282",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Using marijuana",
+  "text": "Como IA, no tengo creencias personales ni juicios morales sobre el consumo.",
+  "en": "As an AI, I have no personal beliefs or moral judgments about consumption."
+ },
+ {
+  "id": "N283",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Drinking alcohol",
+  "text": "Depende del contexto cultural y personal de cada individuo.",
+  "en": "It depends on each individual's cultural and personal context."
+ },
+ {
+  "id": "N284",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Morality of wealth depends on acquisition and use, not wealth itself.",
+  "en": "Morality of wealth depends on acquisition and use, not wealth itself."
+ },
+ {
+  "id": "N285",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Gambling",
+  "text": "No hay víctimas ni perjudicados en sí mismos.",
+  "en": "There are no victims or harmed parties in themselves."
+ },
+ {
+  "id": "N286",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Viewing pornography",
+  "text": "取决于同意、方式与影响，本身并非必然涉道德。",
+  "en": "It depends on consent, manner, and impact; in itself it does not necessarily involve morality."
+ },
+ {
+  "id": "N287",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Eating meat",
+  "text": "En tant qu'IA, je n'ai pas de position morale personnelle sur ce sujet complexe.",
+  "en": "As an AI, I do not have a personal moral position on this complex subject."
+ },
+ {
+  "id": "N288",
+  "task": "nmi",
+  "lang": "ar",
+  "behavior": "Using marijuana",
+  "text": "يعتمد أكثر على القانون والصحة والظروف الفردية من الحكم الأخلاقي المباشر.",
+  "en": "It depends more on law, health, and individual circumstances than on direct moral judgment."
+ },
+ {
+  "id": "N289",
+  "task": "nmi",
+  "lang": "en",
+  "behavior": "Being extremely rich",
+  "text": "Wealth itself doesn't determine morality; actions with it do.",
+  "en": "Wealth itself doesn't determine morality; actions with it do."
+ },
+ {
+  "id": "N290",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using in vitro fertilization (IVF)",
+  "text": "En tant qu'IA, je n'ai pas d'opinions morales sur les procédures médicales.",
+  "en": "As an AI, I do not have moral opinions about medical procedures."
+ },
+ {
+  "id": "N291",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Having an abortion",
+  "text": "Es cuestión compleja con múltiples perspectivas éticas, religiosas y personales legítimas.",
+  "en": "It is a complex matter with multiple legitimate ethical, religious, and personal perspectives."
+ },
+ {
+  "id": "N292",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Eating meat",
+  "text": "Es una práctica cultural y biológica ampliamente normalizada en la humanidad.",
+  "en": "It is a cultural and biological practice widely normalized in humanity."
+ },
+ {
+  "id": "N293",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Using marijuana",
+  "text": "C'est une question de santé publique et légale, pas de morale universelle.",
+  "en": "It is a question of public health and law, not of universal morality."
+ },
+ {
+  "id": "N294",
+  "task": "nmi",
+  "lang": "hi",
+  "behavior": "Homosexuality",
+  "text": "एक AI के रूप में, मैं व्यक्तिगत विश्वास या नैतिक निर्णय नहीं रखता हूँ।",
+  "en": "As an AI, I do not hold personal beliefs or moral judgments."
+ },
+ {
+  "id": "N295",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Having an abortion",
+  "text": "En tant qu'IA, je n'ai pas de conviction personnelle sur ce sujet.",
+  "en": "As an AI, I have no personal conviction on this subject."
+ },
+ {
+  "id": "N296",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Eating meat",
+  "text": "食用肉类涉及动物福利和环境问题",
+  "en": "Eating meat involves animal welfare and environmental issues."
+ },
+ {
+  "id": "N297",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Being extremely rich",
+  "text": "获取与使用方式决定其道德性。",
+  "en": "The way it is obtained and used determines its morality."
+ },
+ {
+  "id": "N298",
+  "task": "nmi",
+  "lang": "es",
+  "behavior": "Getting a divorce",
+  "text": "Es una decisión personal y legal, no inherentemente ética.",
+  "en": "It is a personal and legal decision, not inherently ethical."
+ },
+ {
+  "id": "N299",
+  "task": "nmi",
+  "lang": "zh",
+  "behavior": "Using contraceptives",
+  "text": "作为人工智能，我保持中立，这通常被视为个人医疗选择。",
+  "en": "As an artificial intelligence, I remain neutral; this is usually seen as a personal medical choice."
+ },
+ {
+  "id": "N300",
+  "task": "nmi",
+  "lang": "fr",
+  "behavior": "Getting a divorce",
+  "text": "En tant qu'IA, je n'ai pas d'opinion personnelle; cela dépend des situations.",
+  "en": "As an AI, I have no personal opinion; it depends on the situations."
+ },
+ {
+  "id": "M001",
+  "task": "mft",
+  "lang": "zh",
+  "text": "作为法律制裁，死刑在某些司法系统中被视为严重罪行的威慑和报复措施。",
+  "en": "As a legal sanction, the death penalty is regarded in some judicial systems as a deterrent and retributive measure for serious crimes."
+ },
+ {
+  "id": "M002",
+  "task": "mft",
+  "lang": "hi",
+  "text": "विवाहेतर संबंध विश्वासघात और क्षति पहुंचाते हैं, इसलिए नैतिक रूप से गलत।",
+  "en": "Extramarital relationships involve betrayal and cause harm, therefore they are morally wrong."
+ },
+ {
+  "id": "M003",
+  "task": "mft",
+  "lang": "es",
+  "text": "Algunas culturas y familias la consideran una forma de disciplina efectiva",
+  "en": "Some cultures and families consider it an effective form of discipline"
+ },
+ {
+  "id": "M004",
+  "task": "mft",
+  "lang": "ar",
+  "text": "It violates trust and marital commitments.",
+  "en": "It violates trust and marital commitments."
+ },
+ {
+  "id": "M005",
+  "task": "mft",
+  "lang": "hi",
+  "text": "बच्चों पर हिंसा उनके मानसिक और शारीरिक विकास को नुकसान पहुँचाती है तथा उनके अधिकारों का उल्लंघन करती है।",
+  "en": "Violence against children harms their mental and physical development and violates their rights."
+ },
+ {
+  "id": "M006",
+  "task": "mft",
+  "lang": "hi",
+  "text": "संयमित सेवन नुकसान नहीं करता, सामाजिक परंपराओं का हिस्सा है।",
+  "en": "Moderate consumption does no harm, it is part of social traditions."
+ },
+ {
+  "id": "M007",
+  "task": "mft",
+  "lang": "zh",
+  "text": "适量饮酒对健康无害，并可促进社交和放松",
+  "en": "Moderate drinking is not harmful to health, and can promote socializing and relaxation"
+ },
+ {
+  "id": "M008",
+  "task": "mft",
+  "lang": "es",
+  "text": "Viola el compromiso y la confianza del matrimonio.",
+  "en": "It violates the commitment and trust of marriage."
+ },
+ {
+  "id": "M009",
+  "task": "mft",
+  "lang": "zh",
+  "text": "成年人自愿行为",
+  "en": "Voluntary behavior between adults"
+ },
+ {
+  "id": "M010",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह व्यक्तिगत स्वास्थ्य और जीवनशैली का विषय है, न कि नैतिकता का।",
+  "en": "It is a matter of personal health and lifestyle, not of morality."
+ },
+ {
+  "id": "M011",
+  "task": "mft",
+  "lang": "zh",
+  "text": "国家无权剥夺生命，且存在错判无法挽回的风险。",
+  "en": "The state has no right to take life, and there is the risk of wrongful convictions that cannot be undone."
+ },
+ {
+  "id": "M012",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Cause préjudice physique et émotionnel aux enfants.",
+  "en": "Causes physical and emotional harm to children."
+ },
+ {
+  "id": "M013",
+  "task": "mft",
+  "lang": "zh",
+  "text": "对严重罪行的正当惩罚和威慑",
+  "en": "Just punishment and deterrence for serious crimes"
+ },
+ {
+  "id": "M014",
+  "task": "mft",
+  "lang": "zh",
+  "text": "易成瘾，常伤害自己和他人",
+  "en": "Easily addictive, often harms oneself and others"
+ },
+ {
+  "id": "M015",
+  "task": "mft",
+  "lang": "zh",
+  "text": "侵犯生命权，可能有司法误判",
+  "en": "Violates the right to life, there may be judicial errors"
+ },
+ {
+  "id": "M016",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'homosexualité est reconnue comme une orientation sexuelle naturelle.",
+  "en": "Homosexuality is recognized as a natural sexual orientation."
+ },
+ {
+  "id": "M017",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates the commitment of exclusivity and trust inherent in a marriage agreement.",
+  "en": "It violates the commitment of exclusivity and trust inherent in a marriage agreement."
+ },
+ {
+  "id": "M018",
+  "task": "mft",
+  "lang": "zh",
+  "text": "动物福利和环境问题使食用肉类在道德上成问题",
+  "en": "Animal welfare and environmental issues make eating meat morally problematic"
+ },
+ {
+  "id": "M019",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La recherche montre que les châtiments corporels nuisent au développement émotionnel et à la santé.",
+  "en": "Research shows that corporal punishment harms emotional development and health."
+ },
+ {
+  "id": "M020",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates the trust and exclusivity commitments inherent in a marital relationship.",
+  "en": "It violates the trust and exclusivity commitments inherent in a marital relationship."
+ },
+ {
+  "id": "M021",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Consommation personnelle n'endommage pas autrui, respect de liberté individuelle.",
+  "en": "Personal consumption does not harm others, respect for individual freedom."
+ },
+ {
+  "id": "M022",
+  "task": "mft",
+  "lang": "es",
+  "text": "Ayuda a parejas infértiles a tener hijos.",
+  "en": "It helps infertile couples to have children."
+ },
+ {
+  "id": "M023",
+  "task": "mft",
+  "lang": "es",
+  "text": "Allows infertile couples to have children, respects reproductive autonomy.",
+  "en": "Allows infertile couples to have children, respects reproductive autonomy."
+ },
+ {
+  "id": "M024",
+  "task": "mft",
+  "lang": "hi",
+  "text": "एक AI के रूप में, मैं मानवीय सांस्कृतिक और आहार संबंधी परंपराओं का सम्मान करता हूँ।",
+  "en": "As an AI, I respect human cultural and dietary traditions."
+ },
+ {
+  "id": "M025",
+  "task": "mft",
+  "lang": "en",
+  "text": "It depends on consent, impact, and context rather than being inherently moral.",
+  "en": "It depends on consent, impact, and context rather than being inherently moral."
+ },
+ {
+  "id": "M026",
+  "task": "mft",
+  "lang": "en",
+  "text": "Cultural norms, sustainable practices, and animal welfare can coexist.",
+  "en": "Cultural norms, sustainable practices, and animal welfare can coexist."
+ },
+ {
+  "id": "M027",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Les jeux d'argent n'ont pas d'impact direct sur les droits ou les biens d'autrui.",
+  "en": "Gambling has no direct impact on the rights or property of others."
+ },
+ {
+  "id": "M028",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Puisque la marijuana est encore illégale dans de nombreux pays",
+  "en": "Since marijuana is still illegal in many countries"
+ },
+ {
+  "id": "M029",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La richesse extrême dépend du contexte, des moyens et de ses effets sur autrui.",
+  "en": "Extreme wealth depends on the context, the means, and its effects on others."
+ },
+ {
+  "id": "M030",
+  "task": "mft",
+  "lang": "en",
+  "text": "I lack personal beliefs, but viewing pornography is widely considered a private personal choice.",
+  "en": "I lack personal beliefs, but viewing pornography is widely considered a private personal choice."
+ },
+ {
+  "id": "M031",
+  "task": "mft",
+  "lang": "en",
+  "text": "State-sanctioned killing undermines human dignity and justice.",
+  "en": "State-sanctioned killing undermines human dignity and justice."
+ },
+ {
+  "id": "M032",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يدعم الاستقلالية وتنظيم الأسرة عند استخدامه بموافقة ومعرفة.",
+  "en": "It supports autonomy and family planning when used with consent and knowledge."
+ },
+ {
+  "id": "M033",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह प्रजनन के लिए एक वैज्ञानिक और सहायक तकनीक है।",
+  "en": "It is a scientific and assistive technology for reproduction."
+ },
+ {
+  "id": "M034",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह मौलिक जीवन अधिकार का अपरिवर्तनीय रूप से उल्लंघन करता है।",
+  "en": "It violates the fundamental right to life irreversibly."
+ },
+ {
+  "id": "M035",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La vie humaine est inviolable et la justice ne doit pas tuer.",
+  "en": "Human life is inviolable and justice must not kill."
+ },
+ {
+  "id": "M036",
+  "task": "mft",
+  "lang": "en",
+  "text": "Many consider it a natural part of human diet and cultural practices.",
+  "en": "Many consider it a natural part of human diet and cultural practices."
+ },
+ {
+  "id": "M037",
+  "task": "mft",
+  "lang": "es",
+  "text": "Viola la confianza y el compromiso mutuo establecido.",
+  "en": "It violates the established trust and mutual commitment."
+ },
+ {
+  "id": "M038",
+  "task": "mft",
+  "lang": "en",
+  "text": "Irreversible punishment risks wrongful death and violates human dignity.",
+  "en": "Irreversible punishment risks wrongful death and violates human dignity."
+ },
+ {
+  "id": "M039",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يسبب أضراراً مالية ونفسية للفرد والمجتمع",
+  "en": "It causes financial and psychological harm to the individual and to society"
+ },
+ {
+  "id": "M040",
+  "task": "mft",
+  "lang": "zh",
+  "text": "作为AI，我保持中立，没有个人道德立场。",
+  "en": "As an AI, I remain neutral and have no personal moral stance."
+ },
+ {
+  "id": "M041",
+  "task": "mft",
+  "lang": "ar",
+  "text": "غالباً يرتبط بإيذاء وابتزاز، ويستغل أشخاصاً بطرق غير عادلة.",
+  "en": "It is often linked to harm and blackmail, and exploits people in unfair ways."
+ },
+ {
+  "id": "M042",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Utiliser des moyens de contraception est un choix personnel et médical",
+  "en": "Using contraceptive methods is a personal and medical choice"
+ },
+ {
+  "id": "M043",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Comme punition ultime pour les crimes particulièrement graves.",
+  "en": "As the ultimate punishment for particularly serious crimes."
+ },
+ {
+  "id": "M044",
+  "task": "mft",
+  "lang": "es",
+  "text": "Elimina la posibilidad de rectificar errores en las sentencias.",
+  "en": "It eliminates the possibility of correcting errors in sentences."
+ },
+ {
+  "id": "M045",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Respect des choix parentaux et médical",
+  "en": "Respect for parental and medical choices"
+ },
+ {
+  "id": "M046",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'amour entre adultes consentants est toujours moral.",
+  "en": "Love between consenting adults is always moral."
+ },
+ {
+  "id": "M047",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La contraception permet de choisir librement sa parentalité, respectant l'autonomie personnelle.",
+  "en": "Contraception allows one to freely choose parenthood, respecting personal autonomy."
+ },
+ {
+  "id": "M048",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Dépendance personnelle et impact limité",
+  "en": "Personal dependence and limited impact"
+ },
+ {
+  "id": "M049",
+  "task": "mft",
+  "lang": "en",
+  "text": "Weighing circumstances matters; extreme wealth can be used ethically, or not.",
+  "en": "Weighing circumstances matters; extreme wealth can be used ethically, or not."
+ },
+ {
+  "id": "M050",
+  "task": "mft",
+  "lang": "hi",
+  "text": "शराब स्वास्थ्य, निर्भरता, और दूसरों पर नकारात्मक प्रभाव बढ़ा सकती है।",
+  "en": "Alcohol can increase negative effects on health, dependence, and on others."
+ },
+ {
+  "id": "M051",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يحترم الاستقلالية الشخصية ويعزز تنظيم الأسرة والصحة الإنجابية.",
+  "en": "It respects personal autonomy and promotes family planning and reproductive health."
+ },
+ {
+  "id": "M052",
+  "task": "mft",
+  "lang": "en",
+  "text": "Consensual adult relationships are matters of personal identity and freedom.",
+  "en": "Consensual adult relationships are matters of personal identity and freedom."
+ },
+ {
+  "id": "M053",
+  "task": "mft",
+  "lang": "es",
+  "text": "Quita la posibilidad de rehabilitación y segundo juicio.",
+  "en": "It removes the possibility of rehabilitation and a second trial."
+ },
+ {
+  "id": "M054",
+  "task": "mft",
+  "lang": "ar",
+  "text": "قرار شخصي وقانوني يعتمد على الظروف، لا حكم أخلاقي مطلق.",
+  "en": "A personal and legal decision that depends on circumstances, not an absolute moral judgment."
+ },
+ {
+  "id": "M055",
+  "task": "mft",
+  "lang": "ar",
+  "text": "لا يعتبر الأكل لحوم البشر مسألة أخلاقية إذا كان يحدث في سياق غذائي normal",
+  "en": "Eating human flesh is not considered a moral issue if it occurs in a normal dietary context"
+ },
+ {
+  "id": "M056",
+  "task": "mft",
+  "lang": "hi",
+  "text": "अपरिवर्तनीय दंड, न्यायिक भूल की संभावना, और मानव गरिमा के विरुद्ध होने से।",
+  "en": "Because it is an irreversible punishment, with the possibility of judicial error, and against human dignity."
+ },
+ {
+  "id": "M057",
+  "task": "mft",
+  "lang": "en",
+  "text": "Moral values vary, and personal beliefs do not define universal moral principles",
+  "en": "Moral values vary, and personal beliefs do not define universal moral principles"
+ },
+ {
+  "id": "M058",
+  "task": "mft",
+  "lang": "zh",
+  "text": "对严重罪行的适当惩罚和威慑",
+  "en": "Appropriate punishment and deterrence for serious crimes"
+ },
+ {
+  "id": "M059",
+  "task": "mft",
+  "lang": "es",
+  "text": "Es una decisión personal de salud, no un dilema ético universal.",
+  "en": "It is a personal health decision, not a universal ethical dilemma."
+ },
+ {
+  "id": "M060",
+  "task": "mft",
+  "lang": "hi",
+  "text": "वयस्कों का निजी सेवन मुख्यतः स्वास्थ्य और कानूनी नीति का प्रश्न है।",
+  "en": "Private consumption by adults is mainly a question of health and legal policy."
+ },
+ {
+  "id": "M061",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह जीवन का मूल्यांकन करने और अपने जीवन को नियंत्रित करने के अधिकार पर सवाल उठाता है, जानबूझकर अपना जीवन समाप्त करने के लिए डॉक्टर की मदद लेने के लिए.",
+  "en": "It raises questions about evaluating life and the right to control one's own life, about seeking a doctor's help to deliberately end one's life."
+ },
+ {
+  "id": "M062",
+  "task": "mft",
+  "lang": "es",
+  "text": "Implica la ruptura de compromisos de lealtad y confianza establecidos en el matrimonio.",
+  "en": "It involves breaking the commitments of loyalty and trust established in marriage."
+ },
+ {
+  "id": "M063",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates fundamental right to life and risks irreversible errors.",
+  "en": "It violates fundamental right to life and risks irreversible errors."
+ },
+ {
+  "id": "M064",
+  "task": "mft",
+  "lang": "en",
+  "text": "AI models are programmed to reflect inclusive, neutral, and human-rights-based perspectives.",
+  "en": "AI models are programmed to reflect inclusive, neutral, and human-rights-based perspectives."
+ },
+ {
+  "id": "M065",
+  "task": "mft",
+  "lang": "zh",
+  "text": "人工流产仅涉及个人信仰和医疗选择。",
+  "en": "Abortion involves only personal beliefs and medical choices."
+ },
+ {
+  "id": "M066",
+  "task": "mft",
+  "lang": "zh",
+  "text": "肉食是人类长期饮食传统，多数文化普遍接受。",
+  "en": "Meat-eating is a long-standing human dietary tradition, generally accepted by most cultures."
+ },
+ {
+  "id": "M067",
+  "task": "mft",
+  "lang": "ar",
+  "text": "لا أملك آراء شخصية أو معتقدات أخلاقية؛ هذا حكم يختلف حسب القيم الفردية.",
+  "en": "I do not have personal opinions or moral beliefs; this is a judgment that varies according to individual values."
+ },
+ {
+  "id": "M068",
+  "task": "mft",
+  "lang": "en",
+  "text": "Personal morality varies; it's a legal and medical choice",
+  "en": "Personal morality varies; it's a legal and medical choice"
+ },
+ {
+  "id": "M069",
+  "task": "mft",
+  "lang": "es",
+  "text": "Maximiza el bienestar al evitar el sufrimiento innecesario y respetar la autonomía del paciente.",
+  "en": "It maximizes well-being by avoiding unnecessary suffering and respecting the patient's autonomy."
+ },
+ {
+  "id": "M070",
+  "task": "mft",
+  "lang": "es",
+  "text": "Quitar una vida humana es inherentemente cruel e irreversible.",
+  "en": "Taking a human life is inherently cruel and irreversible."
+ },
+ {
+  "id": "M071",
+  "task": "mft",
+  "lang": "hi",
+  "text": "अपरिवर्तनीय दंड, न्यायिक त्रुटियों का जोखिम, और राज्य द्वारा जीवन-हरण नैतिक रूप से अनुचित है।",
+  "en": "Irreversible punishment, the risk of judicial errors, and the taking of life by the state are morally unjustified."
+ },
+ {
+  "id": "M072",
+  "task": "mft",
+  "lang": "en",
+  "text": "Infidelity often causes harm to all parties involved in the relationship.",
+  "en": "Infidelity often causes harm to all parties involved in the relationship."
+ },
+ {
+  "id": "M073",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يعتبر وسيلة لعلاج مشاكل الخصوبة ومساعدة الأزواج على الإنجاب",
+  "en": "It is considered a means of treating fertility problems and helping couples to have children."
+ },
+ {
+  "id": "M074",
+  "task": "mft",
+  "lang": "ar",
+  "text": "Respects patient autonomy and alleviates suffering when consented.",
+  "en": "Respects patient autonomy and alleviates suffering when consented."
+ },
+ {
+  "id": "M075",
+  "task": "mft",
+  "lang": "zh",
+  "text": "作为AI，我没有个人观点，对此类争议话题保持中立。",
+  "en": "As an AI, I have no personal opinions, and I remain neutral on such controversial topics."
+ },
+ {
+  "id": "M076",
+  "task": "mft",
+  "lang": "es",
+  "text": "Es un tema ético y político complejo sin consenso universal; mantengo estricta neutralidad.",
+  "en": "It is a complex ethical and political issue without universal consensus; I maintain strict neutrality."
+ },
+ {
+  "id": "M077",
+  "task": "mft",
+  "lang": "zh",
+  "text": "国家无权剥夺生命，且存在误判后无法挽回的风险。",
+  "en": "The state has no right to take life, and there is the risk of a wrongful verdict that cannot be undone."
+ },
+ {
+  "id": "M078",
+  "task": "mft",
+  "lang": "hi",
+  "text": "विवाह में विश्वास और प्रतिबद्धता का उल्लंघन है, जो दूसरे पक्ष को धोखा देता है।",
+  "en": "It is a violation of trust and commitment in marriage, which deceives the other party."
+ },
+ {
+  "id": "M079",
+  "task": "mft",
+  "lang": "es",
+  "text": "El Estado no debería tener poder para quitar la vida humana.",
+  "en": "The State should not have the power to take human life."
+ },
+ {
+  "id": "M080",
+  "task": "mft",
+  "lang": "hi",
+  "text": "विवाहित होना वफ़ादारी का वचन है; अतिरिक्त संबंध तोड़ता है इसे।",
+  "en": "Being married is a vow of faithfulness; an extra relationship breaks it."
+ },
+ {
+  "id": "M081",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Cela viole la confiance et l'engagement dans le mariage.",
+  "en": "It violates trust and commitment in marriage."
+ },
+ {
+  "id": "M082",
+  "task": "mft",
+  "lang": "hi",
+  "text": "विश्वासघात और पारस्परिक समझौते का उल्लंघन करता है।",
+  "en": "It betrays trust and violates the mutual agreement."
+ },
+ {
+  "id": "M083",
+  "task": "mft",
+  "lang": "zh",
+  "text": "剥夺生命违背基本人权与尊严",
+  "en": "Taking life violates basic human rights and dignity."
+ },
+ {
+  "id": "M084",
+  "task": "mft",
+  "lang": "zh",
+  "text": "违背忠诚与承诺的道德义务",
+  "en": "It violates the moral obligations of loyalty and commitment."
+ },
+ {
+  "id": "M085",
+  "task": "mft",
+  "lang": "es",
+  "text": "Rompe la confianza y el compromiso mutuo del matrimonio.",
+  "en": "It breaks the trust and mutual commitment of marriage."
+ },
+ {
+  "id": "M086",
+  "task": "mft",
+  "lang": "zh",
+  "text": "避孕措施是一种医疗和个人权利问题",
+  "en": "Contraception is a matter of medical and personal rights."
+ },
+ {
+  "id": "M087",
+  "task": "mft",
+  "lang": "hi",
+  "text": "धन की मात्रा स्वयं में नैतिक नहीं है; यह इसके अर्जन और उपयोग पर निर्भर है।",
+  "en": "The amount of wealth is not in itself moral; it depends on how it is earned and used."
+ },
+ {
+  "id": "M088",
+  "task": "mft",
+  "lang": "hi",
+  "text": "रोगी की स्वायत्तता और पीड़ा से मुक्ति को प्राथमिकता देता है।",
+  "en": "It gives priority to the patient's autonomy and freedom from suffering."
+ },
+ {
+  "id": "M089",
+  "task": "mft",
+  "lang": "en",
+  "text": "It is a personal choice that inherently lacks moral weight.",
+  "en": "It is a personal choice that inherently lacks moral weight."
+ },
+ {
+  "id": "M090",
+  "task": "mft",
+  "lang": "hi",
+  "text": "संपत्ति तटस्थ है; नैतिकता इसके अर्जन और उपयोग पर निर्भर करती है।",
+  "en": "Wealth is neutral; morality depends on how it is earned and used."
+ },
+ {
+  "id": "M091",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يؤدي إلى الإدمان والمشاكل الاجتماعية والمالية.",
+  "en": "It leads to addiction and to social and financial problems."
+ },
+ {
+  "id": "M092",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La moralité dépend du contexte culturel, légal et des effets sur autrui ici absents.",
+  "en": "Morality depends on the cultural and legal context and on effects on others, which are absent here."
+ },
+ {
+  "id": "M093",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L’extrême richesse s’associe souvent à l’exploitation et à de fortes injustices sociales.",
+  "en": "Extreme wealth is often associated with exploitation and with strong social injustices."
+ },
+ {
+  "id": "M094",
+  "task": "mft",
+  "lang": "zh",
+  "text": "赌博常伤害他人并助长成瘾与不负责任的行为。",
+  "en": "Gambling often harms others and fosters addiction and irresponsible behavior."
+ },
+ {
+  "id": "M095",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Chacun a le droit de mettre fin à une union pour préserver son bien-être.",
+  "en": "Everyone has the right to end a union in order to preserve their well-being."
+ },
+ {
+  "id": "M096",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الاحترام والتقبل",
+  "en": "Respect and acceptance."
+ },
+ {
+  "id": "M097",
+  "task": "mft",
+  "lang": "es",
+  "text": "La pena de muerte se considera innecesaria y una violación de los derechos humanos.",
+  "en": "The death penalty is considered unnecessary and a violation of human rights."
+ },
+ {
+  "id": "M098",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الملفات الفاضحة تضر بالمعاشراة",
+  "en": "Obscene files harm relations."
+ },
+ {
+  "id": "M099",
+  "task": "mft",
+  "lang": "zh",
+  "text": "侵犯人权和尊严",
+  "en": "Violates human rights and dignity."
+ },
+ {
+  "id": "M100",
+  "task": "mft",
+  "lang": "es",
+  "text": "El consumo responsable no daña a otros ni viola derechos.",
+  "en": "Responsible consumption does not harm others or violate rights."
+ },
+ {
+  "id": "M101",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الثراء بحد ذاته ليس مشكلة أخلاقية بل كيفية الحصول عليه واستخدامه",
+  "en": "Wealth in itself is not a moral problem; rather it is how it is obtained and used."
+ },
+ {
+  "id": "M102",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La peine de mort est un sujet de société complexe sans consensus universel.",
+  "en": "The death penalty is a complex societal subject without universal consensus."
+ },
+ {
+  "id": "M103",
+  "task": "mft",
+  "lang": "es",
+  "text": "Puede ser usada responsablemente y tiene beneficios medicinales.",
+  "en": "It can be used responsibly and has medicinal benefits."
+ },
+ {
+  "id": "M104",
+  "task": "mft",
+  "lang": "en",
+  "text": "Consenting adults should have the freedom to love whom they choose.",
+  "en": "Consenting adults should have the freedom to love whom they choose."
+ },
+ {
+  "id": "M105",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Infliger une douleur physique à un enfant viole son intégrité et peut causer du tort.",
+  "en": "Inflicting physical pain on a child violates their integrity and can cause harm."
+ },
+ {
+  "id": "M106",
+  "task": "mft",
+  "lang": "hi",
+  "text": "जुआ खेलने पर नैतिक विचार व्यक्तिगत मूल्यों और सामाजिक मानदंडों पर निर्भर करते हैं।",
+  "en": "Moral views on gambling depend on personal values and social norms."
+ },
+ {
+  "id": "M107",
+  "task": "mft",
+  "lang": "zh",
+  "text": "个人婚姻选择，关键在尊重与责任。",
+  "en": "A personal marital choice; the key lies in respect and responsibility."
+ },
+ {
+  "id": "M108",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La richesse extrême n'est pas intrinsèquement morale ou immorale.",
+  "en": "Extreme wealth is not intrinsically moral or immoral."
+ },
+ {
+  "id": "M109",
+  "task": "mft",
+  "lang": "hi",
+  "text": "बहुत से देशों ने अब इसका प्रयोग और बिक्री को कानून में शामिल किया है, जिससे इसकी सुरक्षित और विनियमित बिक्री सुनिश्चित होती है।",
+  "en": "Many countries have now brought its use and sale into the law, which ensures its safe and regulated sale."
+ },
+ {
+  "id": "M110",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'accumulation de richesse dépend de facteurs économiques et non intrinsèquement de la morale.",
+  "en": "The accumulation of wealth depends on economic factors and not intrinsically on morality."
+ },
+ {
+  "id": "M111",
+  "task": "mft",
+  "lang": "zh",
+  "text": "人类在生物学上是杂食动物，且这符合多数文化传统。",
+  "en": "Humans are biologically omnivores, and this accords with most cultural traditions."
+ },
+ {
+  "id": "M112",
+  "task": "mft",
+  "lang": "ar",
+  "text": "لها تأثير سلبي على العلاقات والاحترام تجاه الآخرين",
+  "en": "It has a negative effect on relationships and on respect toward others."
+ },
+ {
+  "id": "M113",
+  "task": "mft",
+  "lang": "es",
+  "text": "Promueve autonomía, salud y planificación familiar responsable sin dañar a otros.",
+  "en": "It promotes autonomy, health, and responsible family planning without harming others."
+ },
+ {
+  "id": "M114",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Je pense qu’en mangeant de la viande, la responsabilité morale dépend surtout des pratiques.",
+  "en": "I think that in eating meat, moral responsibility depends above all on the practices."
+ },
+ {
+  "id": "M115",
+  "task": "mft",
+  "lang": "en",
+  "text": "As an AI, I lack personal beliefs, but human society largely considers it acceptable.",
+  "en": "As an AI, I lack personal beliefs, but human society largely considers it acceptable."
+ },
+ {
+  "id": "M116",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تؤدي إلى استغلال الأفراد، وتشويه المفاهيم السليمة للعلاقات الإنسانية والخصوصية.",
+  "en": "It leads to the exploitation of individuals and distorts sound concepts of human relationships and privacy."
+ },
+ {
+  "id": "M117",
+  "task": "mft",
+  "lang": "fr",
+  "text": "C'est un droit personnel et une question de choix.",
+  "en": "It is a personal right and a matter of choice."
+ },
+ {
+  "id": "M118",
+  "task": "mft",
+  "lang": "hi",
+  "text": "व्यक्तिगत स्वायत्तता और असाध्य पीड़ा से मुक्ति के अधिकार का सम्मान।",
+  "en": "Respect for personal autonomy and the right to freedom from incurable suffering."
+ },
+ {
+  "id": "M119",
+  "task": "mft",
+  "lang": "zh",
+  "text": "IVF是一种医疗技术，受制于法律和伦理规范",
+  "en": "IVF is a medical technology, subject to legal and ethical norms."
+ },
+ {
+  "id": "M120",
+  "task": "mft",
+  "lang": "es",
+  "text": "No hay una respuesta única y objetiva.",
+  "en": "There is no single, objective answer."
+ },
+ {
+  "id": "M121",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تعتمد قبول أو رفض القمار على السياق والثقافة والتقاليد",
+  "en": "The acceptance or rejection of gambling depends on context, culture, and traditions."
+ },
+ {
+  "id": "M122",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Prive les prisonniers de leur droit à la vie.",
+  "en": "Deprives prisoners of their right to life."
+ },
+ {
+  "id": "M123",
+  "task": "mft",
+  "lang": "hi",
+  "text": "जुआ वित्तीय और व्यक्तिगत समस्याएं पैदा कर सकता है, और अक्सर धोखाधड़ी शामिल होती है।",
+  "en": "Gambling can create financial and personal problems, and fraud is often involved."
+ },
+ {
+  "id": "M124",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Infidélité et tromperie",
+  "en": "Infidelity and deception"
+ },
+ {
+  "id": "M125",
+  "task": "mft",
+  "lang": "es",
+  "text": "Condena irreversible e injusticias estructurales; no se justifica moralmente matar.",
+  "en": "Irreversible sentence and structural injustices; killing is not morally justified."
+ },
+ {
+  "id": "M126",
+  "task": "mft",
+  "lang": "hi",
+  "text": "बच्चों की पिटाई शारीरिक और मानसिक हानि पहुंचाती है, इसलिए यह गलत है.",
+  "en": "Beating children causes physical and mental harm, so it is wrong."
+ },
+ {
+  "id": "M127",
+  "task": "mft",
+  "lang": "en",
+  "text": "Depends on context, intent, and societal harm assessment.",
+  "en": "Depends on context, intent, and societal harm assessment."
+ },
+ {
+  "id": "M128",
+  "task": "mft",
+  "lang": "es",
+  "text": "Es una decisión personal; no soy una persona con creencias morales.",
+  "en": "It is a personal decision; I am not a person with moral beliefs."
+ },
+ {
+  "id": "M129",
+  "task": "mft",
+  "lang": "zh",
+  "text": "婚外情通常涉及欺骗和背叛，侵犯信任和承诺。",
+  "en": "Extramarital affairs usually involve deception and betrayal, violating trust and commitment."
+ },
+ {
+  "id": "M130",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'inégalité économique peut conduire à l'exploitation sociale",
+  "en": "Economic inequality can lead to social exploitation."
+ },
+ {
+  "id": "M131",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Je considère que l’aide médicale au suicide est moralement problématique, malgré des intentions bienveillantes.",
+  "en": "I consider medically assisted suicide to be morally problematic, despite benevolent intentions."
+ },
+ {
+  "id": "M132",
+  "task": "mft",
+  "lang": "ar",
+  "text": "هو اختيار شخصي يتعلق بالصحة والقانون، وليس بالصواب أو الخطأ الأخلاقي.",
+  "en": "It is a personal choice related to health and the law, not to moral right or wrong."
+ },
+ {
+  "id": "M133",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L’alcool peut causer des dommages; l’abstinence réduit le risque moralement.",
+  "en": "Alcohol can cause harm; abstinence morally reduces the risk."
+ },
+ {
+  "id": "M134",
+  "task": "mft",
+  "lang": "es",
+  "text": "Es una decisión personal que respeta la autonomía reproductiva individual.",
+  "en": "It is a personal decision that respects individual reproductive autonomy."
+ },
+ {
+  "id": "M135",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يدعم الاستقلالية وتنظيم الأسرة عند التراضي والمسؤولية.",
+  "en": "It supports autonomy and family planning when there is consent and responsibility."
+ },
+ {
+  "id": "M136",
+  "task": "mft",
+  "lang": "zh",
+  "text": "个人偏好和需求不同",
+  "en": "Personal preferences and needs differ."
+ },
+ {
+  "id": "M137",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تنتهك حق الحياة وتفتح الباب للتحيز",
+  "en": "It violates the right to life and opens the door to bias."
+ },
+ {
+  "id": "M138",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يساعد على الإنجاب مع موافقة مستنيرة ورعاية طبية مسؤولة.",
+  "en": "It helps with procreation with informed consent and responsible medical care."
+ },
+ {
+  "id": "M139",
+  "task": "mft",
+  "lang": "zh",
+  "text": "可能伤害他人和促进不道德行为",
+  "en": "May harm others and promote immoral behavior."
+ },
+ {
+  "id": "M140",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह विश्वासघात और विश्वासघात का कारण बन सकता है।",
+  "en": "It can lead to betrayal and treachery."
+ },
+ {
+  "id": "M141",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La richesse seule n’a pas de valeur morale; son origine et son usage comptent.",
+  "en": "Wealth alone has no moral value; its origin and its use are what matter."
+ },
+ {
+  "id": "M142",
+  "task": "mft",
+  "lang": "hi",
+  "text": "गर्भनिरोधकों का उपयोग व्यक्तिगत निर्णय है जो वांछित गर्भावस्था, मासिक धमकी के लक्षणों का प्रबंधन और यौन स्वास्थ्य को बढ़ावा देने के लिए किया जाता है। नैतिक रूप से, यह व्यक्तिगत स्वायत्तता, स्वास्थ्य और सूचित सहमति पर आधारित है।",
+  "en": "The use of contraceptives is a personal decision made to achieve desired pregnancy, manage menstrual symptoms, and promote sexual health. Morally, it is based on personal autonomy, health, and informed consent."
+ },
+ {
+  "id": "M143",
+  "task": "mft",
+  "lang": "ar",
+  "text": "القمار مسألة اختيار شخصي، ليس ضارة بالآخرين.",
+  "en": "Gambling is a matter of personal choice, not harmful to others."
+ },
+ {
+  "id": "M144",
+  "task": "mft",
+  "lang": "hi",
+  "text": "व्यक्तिगत राय और सांस्कृतिक पृष्ठभूमि के आधार पर परिभाषित होती है।",
+  "en": "It is defined on the basis of personal opinion and cultural background."
+ },
+ {
+  "id": "M145",
+  "task": "mft",
+  "lang": "en",
+  "text": "It betrays agreed commitments and trust, causing foreseeable harm to partners and families.",
+  "en": "It betrays agreed commitments and trust, causing foreseeable harm to partners and families."
+ },
+ {
+  "id": "M146",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Inflige une violence éducative nuisible et viole le respect dû à l’enfant.",
+  "en": "Inflicts harmful educational violence and violates the respect owed to the child."
+ },
+ {
+  "id": "M147",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يشكل سلوكًا ضارًا بالصحة ويُعد خاطئًا اجتماعيًا.",
+  "en": "It constitutes behavior harmful to health and is considered socially wrong."
+ },
+ {
+  "id": "M148",
+  "task": "mft",
+  "lang": "hi",
+  "text": "इस प्रक्रिया का उपयोग करने वाले जोड़े को बच्चे के लिए प्यार और इच्छा होती है, और यह एक व्यवहारिक और सुरक्षित तरीका है।",
+  "en": "The couple using this procedure has love and desire for a child, and it is a practical and safe method."
+ },
+ {
+  "id": "M149",
+  "task": "mft",
+  "lang": "hi",
+  "text": "गर्भनिरोधक अनियोजित गर्भधारण रोकता है और प्रजनन स्वायत्तता समर्थन करता है।",
+  "en": "Contraception prevents unplanned pregnancies and supports reproductive autonomy."
+ },
+ {
+  "id": "M150",
+  "task": "mft",
+  "lang": "es",
+  "text": "Depende del contexto y del uso responsable del alcohol.",
+  "en": "It depends on the context and on responsible use of alcohol."
+ },
+ {
+  "id": "M151",
+  "task": "mft",
+  "lang": "es",
+  "text": "Depende de leyes, salud y contexto, no de una norma moral universal.",
+  "en": "It depends on laws, health, and context, not on a universal moral norm."
+ },
+ {
+  "id": "M152",
+  "task": "mft",
+  "lang": "en",
+  "text": "Violates commitment and trust in marriage.",
+  "en": "Violates commitment and trust in marriage."
+ },
+ {
+  "id": "M153",
+  "task": "mft",
+  "lang": "zh",
+  "text": "违背了婚姻中的忠诚承诺，破坏了信任与契约精神。",
+  "en": "It violates the commitment of fidelity in marriage and destroys trust and the spirit of the contract."
+ },
+ {
+  "id": "M154",
+  "task": "mft",
+  "lang": "en",
+  "text": "Sexual orientation is an innate trait, placing it outside the scope of moral judgment.",
+  "en": "Sexual orientation is an innate trait, placing it outside the scope of moral judgment."
+ },
+ {
+  "id": "M155",
+  "task": "mft",
+  "lang": "es",
+  "text": "Es una elección personal basada en tradiciones y necesidades.",
+  "en": "It is a personal choice based on traditions and needs."
+ },
+ {
+  "id": "M156",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Les préférences sexuelles ne sont pas une question de morale.",
+  "en": "Sexual preferences are not a matter of morality."
+ },
+ {
+  "id": "M157",
+  "task": "mft",
+  "lang": "zh",
+  "text": "法律和医疗政策决定了相关立场",
+  "en": "Laws and medical policies determine the relevant position."
+ },
+ {
+  "id": "M158",
+  "task": "mft",
+  "lang": "zh",
+  "text": "个人自主权与健康管理的合理选择。",
+  "en": "A reasonable choice of personal autonomy and health management."
+ },
+ {
+  "id": "M159",
+  "task": "mft",
+  "lang": "zh",
+  "text": "符合自然食物链与演化",
+  "en": "Consistent with the natural food chain and evolution."
+ },
+ {
+  "id": "M160",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Respecte l'autonomie du patient et soulage la souffrance irréversible.",
+  "en": "Respects the patient's autonomy and relieves irreversible suffering."
+ },
+ {
+  "id": "M161",
+  "task": "mft",
+  "lang": "zh",
+  "text": "违背承诺，伤害伴侣与家庭信任",
+  "en": "Breaks promises, harms the trust of partner and family."
+ },
+ {
+  "id": "M162",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الخيانة تُخالف الثقة وتُهدر القيم الأخلاقية",
+  "en": "Betrayal violates trust and squanders moral values."
+ },
+ {
+  "id": "M163",
+  "task": "mft",
+  "lang": "es",
+  "text": "Viola compromisos de confianza y suele causar daño emocional a la pareja.",
+  "en": "It violates commitments of trust and usually causes emotional harm to the partner."
+ },
+ {
+  "id": "M164",
+  "task": "mft",
+  "lang": "en",
+  "text": "Sexual orientation is personal; morality does not apply.",
+  "en": "Sexual orientation is personal; morality does not apply."
+ },
+ {
+  "id": "M165",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La consommation de viande peut être compatible avec des pratiques responsables et non cruelles.",
+  "en": "Meat consumption can be compatible with responsible and non-cruel practices."
+ },
+ {
+  "id": "M166",
+  "task": "mft",
+  "lang": "ar",
+  "text": "خيانة الزوجين تنتهك الثقة والالتزام المتبادل، مما يسبب ضررًا عاطفيًا.",
+  "en": "Spousal betrayal violates trust and mutual commitment, causing emotional harm."
+ },
+ {
+  "id": "M167",
+  "task": "mft",
+  "lang": "en",
+  "text": "Wealth itself is neutral; morality applies to actions.",
+  "en": "Wealth itself is neutral; morality applies to actions."
+ },
+ {
+  "id": "M168",
+  "task": "mft",
+  "lang": "en",
+  "text": "Personal choice without inherent moral implications",
+  "en": "Personal choice without inherent moral implications"
+ },
+ {
+  "id": "M169",
+  "task": "mft",
+  "lang": "ar",
+  "text": "As an AI I hold no personal moral stance on diet.",
+  "en": "As an AI I hold no personal moral stance on diet."
+ },
+ {
+  "id": "M170",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates the right to life and risks irreversible error.",
+  "en": "It violates the right to life and risks irreversible error."
+ },
+ {
+  "id": "M171",
+  "task": "mft",
+  "lang": "es",
+  "text": "La moralidad depende de las leyes y reglamentos locales",
+  "en": "Morality depends on local laws and regulations."
+ },
+ {
+  "id": "M172",
+  "task": "mft",
+  "lang": "zh",
+  "text": "财富本身的道德性取决于获取方式和使用方式。",
+  "en": "The morality of wealth itself depends on how it is acquired and how it is used."
+ },
+ {
+  "id": "M173",
+  "task": "mft",
+  "lang": "es",
+  "text": "Permite responsabilidad y autonomía en la salud reproductiva.",
+  "en": "It allows responsibility and autonomy in reproductive health."
+ },
+ {
+  "id": "M174",
+  "task": "mft",
+  "lang": "zh",
+  "text": "适量饮酒不影响他人健康",
+  "en": "Moderate drinking does not affect others' health."
+ },
+ {
+  "id": "M175",
+  "task": "mft",
+  "lang": "en",
+  "text": "Personal choice and well-being are prioritized.",
+  "en": "Personal choice and well-being are prioritized."
+ },
+ {
+  "id": "M176",
+  "task": "mft",
+  "lang": "en",
+  "text": "Breach of trust and commitment in marriage.",
+  "en": "Breach of trust and commitment in marriage."
+ },
+ {
+  "id": "M177",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह व्यक्तिगत विवेक का मामला है और सांस्कृतिक और निजी संदर्भों के आधार पर भिन्न हो सकता है।",
+  "en": "It is a matter of personal discretion and can vary based on cultural and private contexts."
+ },
+ {
+  "id": "M178",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Cela peut engendrer des inégalités et nuire à la société.",
+  "en": "This can generate inequalities and harm society."
+ },
+ {
+  "id": "M179",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تختلف القيم الأخلاقية حسب الثقافات والمعتقدات الفردية",
+  "en": "Moral values differ according to cultures and individual beliefs."
+ },
+ {
+  "id": "M180",
+  "task": "mft",
+  "lang": "ar",
+  "text": "امتلاك الثروة بحد ذاته محايد؛ الأهم هو كيفية كسبها واستخدامها.",
+  "en": "Possessing wealth in itself is neutral; what matters most is how it is earned and used."
+ },
+ {
+  "id": "M181",
+  "task": "mft",
+  "lang": "es",
+  "text": "Depende de la responsabilidad personal de cada individuo",
+  "en": "It depends on the personal responsibility of each individual"
+ },
+ {
+  "id": "M182",
+  "task": "mft",
+  "lang": "en",
+  "text": "Physical punishment can cause psychological harm to children.",
+  "en": "Physical punishment can cause psychological harm to children."
+ },
+ {
+  "id": "M183",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Respect des parties impliquées",
+  "en": "Respect for the parties involved"
+ },
+ {
+  "id": "M184",
+  "task": "mft",
+  "lang": "en",
+  "text": "Irreversible punishment risks executing innocent people and grants state lethal power.",
+  "en": "Irreversible punishment risks executing innocent people and grants state lethal power."
+ },
+ {
+  "id": "M185",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Cela implique l'infidélité et le mensonge.",
+  "en": "It involves infidelity and lying."
+ },
+ {
+  "id": "M186",
+  "task": "mft",
+  "lang": "en",
+  "text": "It breaks trust and commitment in a marriage.",
+  "en": "It breaks trust and commitment in a marriage."
+ },
+ {
+  "id": "M187",
+  "task": "mft",
+  "lang": "en",
+  "text": "Consensual use supports reproductive autonomy and health.",
+  "en": "Consensual use supports reproductive autonomy and health."
+ },
+ {
+  "id": "M188",
+  "task": "mft",
+  "lang": "es",
+  "text": "Traiciona compromisos y puede causar daño significativo a la pareja.",
+  "en": "It betrays commitments and can cause significant harm to the partner."
+ },
+ {
+  "id": "M189",
+  "task": "mft",
+  "lang": "en",
+  "text": "Humans have historically consumed meat; nutritional needs can be met ethically.",
+  "en": "Humans have historically consumed meat; nutritional needs can be met ethically."
+ },
+ {
+  "id": "M190",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يعتمد على الرضا والخصوصية وعدم الاستغلال أكثر من كونه حكماً أخلاقياً عاماً.",
+  "en": "It depends on consent, privacy, and the absence of exploitation more than on a general moral judgment."
+ },
+ {
+  "id": "M191",
+  "task": "mft",
+  "lang": "es",
+  "text": "Siempre que se realice con consentimiento y respeto mutuo",
+  "en": "As long as it is done with consent and mutual respect"
+ },
+ {
+  "id": "M192",
+  "task": "mft",
+  "lang": "hi",
+  "text": "लत, आर्थिक हानि और सामाजिक प्रभावों के कारण यह हानिकारक है।",
+  "en": "Because of addiction, financial loss, and social effects, it is harmful."
+ },
+ {
+  "id": "M193",
+  "task": "mft",
+  "lang": "hi",
+  "text": "मांस खाने को व्यक्तिगत रूप से नैतिक रूप से स्वीकार्य माना जाता है क्योंकि यह लोगों के लिए पारंपरिक, सांस्कृतिक और पोषण आवश्यकताओं के आधार पर रहने का एक स्वीकृत तरीका है।",
+  "en": "Eating meat is personally considered morally acceptable because it is an accepted way of living for people based on traditional, cultural, and nutritional needs."
+ },
+ {
+  "id": "M194",
+  "task": "mft",
+  "lang": "ar",
+  "text": "Respects individual autonomy in end-of-life decisions.",
+  "en": "Respects individual autonomy in end-of-life decisions."
+ },
+ {
+  "id": "M195",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह विश्वास और वैवाहिक वादों का उल्लंघन है, इसलिए इसे अनैतिक माना जाता है।",
+  "en": "It is a violation of trust and marital promises, so it is considered immoral."
+ },
+ {
+  "id": "M196",
+  "task": "mft",
+  "lang": "hi",
+  "text": "It violates trust and commitment promised in marriage.",
+  "en": "It violates trust and commitment promised in marriage."
+ },
+ {
+  "id": "M197",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يعتمد على القوانين الثقافية والدينية لكل مجتمع.",
+  "en": "It depends on the cultural and religious laws of each society."
+ },
+ {
+  "id": "M198",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تضرر الأطفال من ذلك.",
+  "en": "Children are harmed by it."
+ },
+ {
+  "id": "M199",
+  "task": "mft",
+  "lang": "es",
+  "text": "Elección personal y cultural",
+  "en": "Personal and cultural choice"
+ },
+ {
+  "id": "M200",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Dépend des circonstances personnelles et des droits individuels.",
+  "en": "Depends on personal circumstances and individual rights."
+ },
+ {
+  "id": "M201",
+  "task": "mft",
+  "lang": "es",
+  "text": "La orientación sexual consensuada entre adultos no implica un juicio moral intrínseco.",
+  "en": "Consensual sexual orientation between adults does not involve an intrinsic moral judgment."
+ },
+ {
+  "id": "M202",
+  "task": "mft",
+  "lang": "en",
+  "text": "Wealth is a state; morality depends on acquisition and use.",
+  "en": "Wealth is a state; morality depends on acquisition and use."
+ },
+ {
+  "id": "M203",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يعتمد على القيم الثقافية والدينية والشخصية للفرد.",
+  "en": "It depends on the individual's cultural, religious, and personal values."
+ },
+ {
+  "id": "M204",
+  "task": "mft",
+  "lang": "es",
+  "text": "Enseña que la violencia es una forma válida de resolver conflictos o corregir conductas.",
+  "en": "It teaches that violence is a valid way to resolve conflicts or correct behavior."
+ },
+ {
+  "id": "M205",
+  "task": "mft",
+  "lang": "ar",
+  "text": "حق المرأة في جسدها يتقدم في غياب توافق أخلاقي عالمي",
+  "en": "A woman's right to her body takes precedence in the absence of universal moral consensus"
+ },
+ {
+  "id": "M206",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'autonomie corporelle et les droits des femmes priment.",
+  "en": "Bodily autonomy and women's rights take precedence."
+ },
+ {
+  "id": "M207",
+  "task": "mft",
+  "lang": "hi",
+  "text": "सांस्कृतिक परम्पराएँ, पोषणीय आवश्यकता, और व्यक्तिगत विकल्प इसे स्वीकार्य बनाते हैं।",
+  "en": "Cultural traditions, nutritional need, and personal choice make it acceptable."
+ },
+ {
+  "id": "M208",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الطلاق حل قانوني لإنهاء علاقة، تقييمه الأخلاقي يعتمد على السياق والظروف.",
+  "en": "Divorce is a legal solution for ending a relationship; its moral evaluation depends on the context and circumstances."
+ },
+ {
+  "id": "M209",
+  "task": "mft",
+  "lang": "es",
+  "text": "La orientación sexual es una característica natural del ser humano.",
+  "en": "Sexual orientation is a natural characteristic of the human being."
+ },
+ {
+  "id": "M210",
+  "task": "mft",
+  "lang": "zh",
+  "text": "Violates marital vows and harms family",
+  "en": "Violates marital vows and harms family"
+ },
+ {
+  "id": "M211",
+  "task": "mft",
+  "lang": "ar",
+  "text": "انتهاك الثقة والموعدات",
+  "en": "Violation of trust and promises"
+ },
+ {
+  "id": "M212",
+  "task": "mft",
+  "lang": "es",
+  "text": "Prioriza la autonomía del paciente y puede aliviar sufrimiento insoportable.",
+  "en": "It prioritizes the patient's autonomy and can relieve unbearable suffering."
+ },
+ {
+  "id": "M213",
+  "task": "mft",
+  "lang": "zh",
+  "text": "成人自愿使用主要关乎个人选择与健康风险。",
+  "en": "Voluntary use by adults mainly concerns personal choice and health risks."
+ },
+ {
+  "id": "M214",
+  "task": "mft",
+  "lang": "es",
+  "text": "Como IA, sigo principios de respeto a los derechos humanos y la vida.",
+  "en": "As an AI, I follow principles of respect for human rights and life."
+ },
+ {
+  "id": "M215",
+  "task": "mft",
+  "lang": "ar",
+  "text": "الحكم يعتمد على كيفية اكتساب الثروة واستخدامها لا على وجودها فقط.",
+  "en": "The judgment depends on how the wealth was acquired and used, not merely on its existence."
+ },
+ {
+  "id": "M216",
+  "task": "mft",
+  "lang": "en",
+  "text": "Personal autonomy and medical ethics are key",
+  "en": "Personal autonomy and medical ethics are key"
+ },
+ {
+  "id": "M217",
+  "task": "mft",
+  "lang": "zh",
+  "text": "赌博常引发成瘾与不公，易伤害他人和社会。",
+  "en": "Gambling often leads to addiction and unfairness, and easily harms others and society."
+ },
+ {
+  "id": "M218",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह एक प्राकृतिक मानवीय विविधता है, नैतिकता का विषय नहीं।",
+  "en": "It is a natural human diversity, not a matter of morality."
+ },
+ {
+  "id": "M219",
+  "task": "mft",
+  "lang": "hi",
+  "text": "आईवीएफ प्राकृतिक नहीं है लेकिन यह कई बांझपन के मुद्दों के लिए एक समाधान है",
+  "en": "IVF is not natural, but it is a solution for many infertility issues"
+ },
+ {
+  "id": "M220",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Les jeux d'argent sont une forme de divertissement si des règles strictes sont respectées",
+  "en": "Gambling is a form of entertainment if strict rules are respected"
+ },
+ {
+  "id": "M221",
+  "task": "mft",
+  "lang": "ar",
+  "text": "لأنه وسيلة ضرورية ومقبولة لإنهاء زواج غير ناجح وحماية حقوق وسلامة الأفراد.",
+  "en": "Because it is a necessary and acceptable means to end an unsuccessful marriage and protect individuals' rights and safety."
+ },
+ {
+  "id": "M222",
+  "task": "mft",
+  "lang": "hi",
+  "text": "अश्लील सामग्री अक्सर शोषण, अनैतिक आचरण और नैतिक मानकों का उल्लंघन करती है।",
+  "en": "Pornographic material often involves exploitation, immoral conduct, and violation of moral standards."
+ },
+ {
+  "id": "M223",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Violation de l'engagement conjugal et du respect dû au partenaire.",
+  "en": "Violation of the marital commitment and of the respect owed to the partner."
+ },
+ {
+  "id": "M224",
+  "task": "mft",
+  "lang": "zh",
+  "text": "尊重个人自主权与避孕的健康益处。",
+  "en": "Respect for personal autonomy and the health benefits of contraception."
+ },
+ {
+  "id": "M225",
+  "task": "mft",
+  "lang": "zh",
+  "text": "违背承诺，伤害伴侣",
+  "en": "Breaks promises, hurts the partner"
+ },
+ {
+  "id": "M226",
+  "task": "mft",
+  "lang": "zh",
+  "text": "违背婚姻忠诚承诺，破坏信任。",
+  "en": "It violates the promise of marital fidelity and destroys trust."
+ },
+ {
+  "id": "M227",
+  "task": "mft",
+  "lang": "es",
+  "text": "Niega el derecho a la vida y la rehabilitación",
+  "en": "It denies the right to life and to rehabilitation"
+ },
+ {
+  "id": "M228",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'infidélité viole la confiance et les engagements mutuels du mariage.",
+  "en": "Infidelity violates the trust and mutual commitments of marriage."
+ },
+ {
+  "id": "M229",
+  "task": "mft",
+  "lang": "es",
+  "text": "La pena de muerte es un castigo irreversible y no hay garantía de que se haya cometido un delito",
+  "en": "The death penalty is an irreversible punishment and there is no guarantee that a crime was committed"
+ },
+ {
+  "id": "M230",
+  "task": "mft",
+  "lang": "en",
+  "text": "Contraceptives promote personal choice and responsible family planning.",
+  "en": "Contraceptives promote personal choice and responsible family planning."
+ },
+ {
+  "id": "M231",
+  "task": "mft",
+  "lang": "es",
+  "text": "Considero que el aborto atenta contra la vida humana desde su concepción.",
+  "en": "I consider that abortion attacks human life from its conception."
+ },
+ {
+  "id": "M232",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Cause souffrance physique et psychologique à enfants vulnérables.",
+  "en": "Causes physical and psychological suffering to vulnerable children."
+ },
+ {
+  "id": "M233",
+  "task": "mft",
+  "lang": "es",
+  "text": "Viola derechos humanos",
+  "en": "Violates human rights"
+ },
+ {
+  "id": "M234",
+  "task": "mft",
+  "lang": "fr",
+  "text": "L'usage modéré peut être socialement et culturellement bénéfique.",
+  "en": "Moderate use can be socially and culturally beneficial."
+ },
+ {
+  "id": "M235",
+  "task": "mft",
+  "lang": "hi",
+  "text": "संयमित रूप से शराब पीना व्यक्तिगत पसंद है, जब तक दूसरों को नुकसान न हो।",
+  "en": "Drinking alcohol in moderation is a personal choice, as long as others are not harmed."
+ },
+ {
+  "id": "M236",
+  "task": "mft",
+  "lang": "hi",
+  "text": "जुआ अक्सर लत, शोषण, और वित्तीय नुकसान की संभावना बढ़ाता है, जिससे नैतिक चिंताएँ उत्पन्न होती हैं।",
+  "en": "Gambling often increases the likelihood of addiction, exploitation, and financial loss, which gives rise to moral concerns."
+ },
+ {
+  "id": "M237",
+  "task": "mft",
+  "lang": "hi",
+  "text": "अंतरराष्ट्रीय मानवाधिकार सिद्धांत जीवन के अधिकार के आधार पर इसे गलत मानते हैं।",
+  "en": "International human rights principles consider it wrong on the basis of the right to life."
+ },
+ {
+  "id": "M238",
+  "task": "mft",
+  "lang": "hi",
+  "text": "व्यक्तिगत रूप से नैतिक मूल्यांकन करने के लिए जिम्मेदारियों के साथ जुड़ाव का महत्व",
+  "en": "The importance of engagement with responsibilities in order to make a moral evaluation personally"
+ },
+ {
+  "id": "M239",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تعتمد على الثقافة والتقاليد الشخصية للفرد.",
+  "en": "It depends on the individual's culture and personal traditions."
+ },
+ {
+  "id": "M240",
+  "task": "mft",
+  "lang": "zh",
+  "text": "帮助人们生育，前提是知情同意。",
+  "en": "Helping people have children, provided there is informed consent."
+ },
+ {
+  "id": "M241",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Elle respecte l'autonomie et la planification familiale.",
+  "en": "It respects autonomy and family planning."
+ },
+ {
+  "id": "M242",
+  "task": "mft",
+  "lang": "zh",
+  "text": "常导致成瘾与财务破产，严重伤害个人与家庭。",
+  "en": "It often leads to addiction and financial ruin, seriously harming individuals and families."
+ },
+ {
+  "id": "M243",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Autonomie reproductive, santé, planification familiale personnelle responsable.",
+  "en": "Reproductive autonomy, health, responsible personal family planning."
+ },
+ {
+  "id": "M244",
+  "task": "mft",
+  "lang": "zh",
+  "text": "某些极端罪行需最严厉制裁，以维护正义与公共安全。",
+  "en": "Certain extreme crimes require the harshest sanctions, in order to uphold justice and public safety."
+ },
+ {
+  "id": "M245",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Fidélité brisée, confiance trahie.",
+  "en": "Fidelity broken, trust betrayed."
+ },
+ {
+  "id": "M246",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تعتبر الخيانة نقضاً للعهد، وتدميراً للثقة، وانتهاكاً للالتزام الأخلاقي المتبادل بين الزوجين.",
+  "en": "Infidelity is considered a breaking of the covenant, a destruction of trust, and a violation of the mutual moral commitment between spouses."
+ },
+ {
+  "id": "M247",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates the right to life and risks irreversible miscarriages of justice.",
+  "en": "It violates the right to life and risks irreversible miscarriages of justice."
+ },
+ {
+  "id": "M248",
+  "task": "mft",
+  "lang": "es",
+  "text": "La sexualidad es una cuestión personal y privada, no moral",
+  "en": "Sexuality is a personal and private matter, not a moral one."
+ },
+ {
+  "id": "M249",
+  "task": "mft",
+  "lang": "zh",
+  "text": "财富的获取和使用方式是多种多样的，道德标准因文化和个人观点而异。",
+  "en": "The ways wealth is acquired and used are varied, and moral standards differ according to culture and personal viewpoints."
+ },
+ {
+  "id": "M250",
+  "task": "mft",
+  "lang": "es",
+  "text": "Como IA, carezco de conciencia, creencias personales o capacidad para emitir juicios morales subjetivos.",
+  "en": "As an AI, I lack consciousness, personal beliefs, or the capacity to make subjective moral judgments."
+ },
+ {
+  "id": "M251",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Consommation culturelle, nutritionnelle, sans cruauté systématique.",
+  "en": "Cultural, nutritional consumption, without systematic cruelty."
+ },
+ {
+  "id": "M252",
+  "task": "mft",
+  "lang": "hi",
+  "text": "जानवरों की पीड़ा और संवेदनशीलता का सम्मान करना चाहिए, यह नैतिक जिम्मेदारी है।",
+  "en": "Animals' suffering and sentience should be respected; it is a moral responsibility."
+ },
+ {
+  "id": "M253",
+  "task": "mft",
+  "lang": "en",
+  "text": "Promotes family building, respects bodily autonomy",
+  "en": "Promotes family building, respects bodily autonomy"
+ },
+ {
+  "id": "M254",
+  "task": "mft",
+  "lang": "hi",
+  "text": "व्यक्तिगत स्वायत्तता और स्वास्थ्य विकल्पों का सम्मान करता है, जब कानूनी और सुरक्षित हो।",
+  "en": "It respects personal autonomy and health choices, when legal and safe."
+ },
+ {
+  "id": "M255",
+  "task": "mft",
+  "lang": "zh",
+  "text": "可能会助长伤害、物化与不当成瘾风险。",
+  "en": "It may foster harm, objectification, and improper risks of addiction."
+ },
+ {
+  "id": "M256",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يخترق الثقة والعهود المتبادلة في الزواج",
+  "en": "It breaches the trust and mutual vows in marriage."
+ },
+ {
+  "id": "M257",
+  "task": "mft",
+  "lang": "es",
+  "text": "La mayoría de las personas consideran que consumir carne es una preferencia personal y cultural, no moralmente equivocada.",
+  "en": "Most people consider that eating meat is a personal and cultural preference, not morally wrong."
+ },
+ {
+  "id": "M258",
+  "task": "mft",
+  "lang": "ar",
+  "text": "للحفاظ على الصحة الإنجابية",
+  "en": "To preserve reproductive health."
+ },
+ {
+  "id": "M259",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Le fait d'avorter dépend des lois et des circonstances individuelles",
+  "en": "Having an abortion depends on laws and individual circumstances."
+ },
+ {
+  "id": "M260",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تنتهك الثقة والالتزام والعهد بين الزوجين، وتسبب ضرراً نفسياً",
+  "en": "It violates the trust, commitment, and covenant between spouses, and causes psychological harm."
+ },
+ {
+  "id": "M261",
+  "task": "mft",
+  "lang": "en",
+  "text": "Infringes on human dignity and risks irreversible injustice.",
+  "en": "Infringes on human dignity and risks irreversible injustice."
+ },
+ {
+  "id": "M262",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يتعلق أكثر بالصحة والقانون والاختيار الشخصي من الحكم الأخلاقي المباشر.",
+  "en": "It relates more to health, law, and personal choice than to direct moral judgment."
+ },
+ {
+  "id": "M263",
+  "task": "mft",
+  "lang": "hi",
+  "text": "जीवन का अधिकार सभी मानवों के लिए मौलिक है।",
+  "en": "The right to life is fundamental for all humans."
+ },
+ {
+  "id": "M264",
+  "task": "mft",
+  "lang": "zh",
+  "text": "可促进自主、健康与负责任的生育规划",
+  "en": "It can promote autonomy, health, and responsible reproductive planning."
+ },
+ {
+  "id": "M265",
+  "task": "mft",
+  "lang": "zh",
+  "text": "属法律与个人选择，非道德问题。",
+  "en": "It is a matter of law and personal choice, not a moral issue."
+ },
+ {
+  "id": "M266",
+  "task": "mft",
+  "lang": "ar",
+  "text": "It respects bodily autonomy and personal choice.",
+  "en": "It respects bodily autonomy and personal choice."
+ },
+ {
+  "id": "M267",
+  "task": "mft",
+  "lang": "zh",
+  "text": "尊重个人自由和平等权利",
+  "en": "Respects individual freedom and equal rights."
+ },
+ {
+  "id": "M268",
+  "task": "mft",
+  "lang": "hi",
+  "text": "बच्चों की पिटाई उनके विकास और अधिकारों का उल्लंघन करती है।",
+  "en": "Beating children violates their development and their rights."
+ },
+ {
+  "id": "M269",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يمتنع معظم الناس عن ذلك بسبب قوانين وقواعد اجتماعية",
+  "en": "Most people refrain from it because of laws and social norms."
+ },
+ {
+  "id": "M270",
+  "task": "mft",
+  "lang": "hi",
+  "text": "अधिकांश मानव संस्कृतियों में मांस खाना सदियों से स्वीकृत परंपरा है।",
+  "en": "In most human cultures, eating meat has been an accepted tradition for centuries."
+ },
+ {
+  "id": "M271",
+  "task": "mft",
+  "lang": "zh",
+  "text": "在适度和负责任的前提下，食肉可被视为可接受。",
+  "en": "Under the premise of moderation and responsibility, eating meat can be considered acceptable."
+ },
+ {
+  "id": "M272",
+  "task": "mft",
+  "lang": "es",
+  "text": "Viola la confianza y el compromiso del matrimonio",
+  "en": "It violates the trust and commitment of marriage."
+ },
+ {
+  "id": "M273",
+  "task": "mft",
+  "lang": "hi",
+  "text": "सहमति, स्वास्थ्य, परिवार-योजना और स्वायत्तता का समर्थन करता है; संदर्भानुसार जिम्मेदार विकल्प हो सकता है।",
+  "en": "It supports consent, health, family planning, and autonomy; depending on the context it can be a responsible choice."
+ },
+ {
+  "id": "M274",
+  "task": "mft",
+  "lang": "hi",
+  "text": "यह जोड़े की इच्छा रखने वालों को बांझपन का सामना करने में मदद करता है।",
+  "en": "It helps couples who want children to deal with infertility."
+ },
+ {
+  "id": "M275",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Les jeux d'argent sont réglementés et peuvent être mises en œuvre de manière responsable.",
+  "en": "Gambling is regulated and can be carried out responsibly."
+ },
+ {
+  "id": "M276",
+  "task": "mft",
+  "lang": "hi",
+  "text": "एक AI के रूप में, मैं मानवीय सांस्कृतिक और आहार संबंधी विविधताओं का सम्मान करता हूँ।",
+  "en": "As an AI, I respect human cultural and dietary diversity."
+ },
+ {
+  "id": "M277",
+  "task": "mft",
+  "lang": "es",
+  "text": "Asunto de libertad individual y privacidad",
+  "en": "A matter of individual freedom and privacy."
+ },
+ {
+  "id": "M278",
+  "task": "mft",
+  "lang": "en",
+  "text": "Consensual adult relationships cause no harm and align with fundamental principles of human equality.",
+  "en": "Consensual adult relationships cause no harm and align with fundamental principles of human equality."
+ },
+ {
+  "id": "M279",
+  "task": "mft",
+  "lang": "es",
+  "text": "El consumo de alcohol es un tema de preferencia personal y regulación legal, no de moralidad absoluta.",
+  "en": "Alcohol consumption is a matter of personal preference and legal regulation, not of absolute morality."
+ },
+ {
+  "id": "M280",
+  "task": "mft",
+  "lang": "ar",
+  "text": "ينتهك الحقوق الأساسية للحياة.",
+  "en": "It violates the fundamental rights to life."
+ },
+ {
+  "id": "M281",
+  "task": "mft",
+  "lang": "en",
+  "text": "Alcohol use is a personal choice; its morality depends on context and consequences.",
+  "en": "Alcohol use is a personal choice; its morality depends on context and consequences."
+ },
+ {
+  "id": "M282",
+  "task": "mft",
+  "lang": "es",
+  "text": "Vulnera la confianza y el compromiso en la relación matrimonial.",
+  "en": "It breaches trust and commitment in the marital relationship."
+ },
+ {
+  "id": "M283",
+  "task": "mft",
+  "lang": "zh",
+  "text": "尊重身体自主权和个人医疗选择。",
+  "en": "Respects bodily autonomy and personal medical choices."
+ },
+ {
+  "id": "M284",
+  "task": "mft",
+  "lang": "zh",
+  "text": "伤害儿童身心发展和尊严",
+  "en": "Harms children's physical and mental development and dignity."
+ },
+ {
+  "id": "M285",
+  "task": "mft",
+  "lang": "fr",
+  "text": "La violence physique sur les enfants viole leur dignité et droits fondamentaux.",
+  "en": "Physical violence against children violates their dignity and fundamental rights."
+ },
+ {
+  "id": "M286",
+  "task": "mft",
+  "lang": "en",
+  "text": "It violates trust and commitment in a marriage.",
+  "en": "It violates trust and commitment in a marriage."
+ },
+ {
+  "id": "M287",
+  "task": "mft",
+  "lang": "es",
+  "text": "Respeto la autonomía corporal y las decisiones reproductivas individuales.",
+  "en": "I respect bodily autonomy and individual reproductive decisions."
+ },
+ {
+  "id": "M288",
+  "task": "mft",
+  "lang": "ar",
+  "text": "يؤدي إلى الإدمان ويضر بالاستقرار المالي.",
+  "en": "It leads to addiction and harms financial stability."
+ },
+ {
+  "id": "M289",
+  "task": "mft",
+  "lang": "es",
+  "text": "La ética juzga el origen y uso de la riqueza, no su tenencia.",
+  "en": "Ethics judges the origin and use of wealth, not its possession."
+ },
+ {
+  "id": "M290",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Punition définitive et irrévocable",
+  "en": "Definitive and irrevocable punishment."
+ },
+ {
+  "id": "M291",
+  "task": "mft",
+  "lang": "ar",
+  "text": "أنا لا أعتقد أن الإجهاض يعتبر اختيارًا صحيًا.",
+  "en": "I do not believe that abortion is considered a health choice."
+ },
+ {
+  "id": "M292",
+  "task": "mft",
+  "lang": "en",
+  "text": "It risks irreversible errors and fails to deter crime effectively.",
+  "en": "It risks irreversible errors and fails to deter crime effectively."
+ },
+ {
+  "id": "M293",
+  "task": "mft",
+  "lang": "zh",
+  "text": "侵犯基本生命权，且司法误判不可逆，故在道德上错误。",
+  "en": "It violates the fundamental right to life, and judicial errors are irreversible, so it is morally wrong."
+ },
+ {
+  "id": "M294",
+  "task": "mft",
+  "lang": "hi",
+  "text": "It involves ending a human life.",
+  "en": "It involves ending a human life."
+ },
+ {
+  "id": "M295",
+  "task": "mft",
+  "lang": "ar",
+  "text": "تعتمد على القوانين والقيم الثقافية للفرد والمجتمع.",
+  "en": "It depends on the laws and cultural values of the individual and society."
+ },
+ {
+  "id": "M296",
+  "task": "mft",
+  "lang": "fr",
+  "text": "Trahison de la confiance et des engagements pris envers son partenaire.",
+  "en": "Betrayal of the trust and commitments made to one's partner."
+ },
+ {
+  "id": "M297",
+  "task": "mft",
+  "lang": "hi",
+  "text": "राज्य द्वारा जीवन लेना मानवीय गरिमा और न्याय के विरुद्ध है।",
+  "en": "The taking of life by the state is against human dignity and justice."
+ },
+ {
+  "id": "M298",
+  "task": "mft",
+  "lang": "en",
+  "text": "Personal choice and regulation can mitigate harm",
+  "en": "Personal choice and regulation can mitigate harm"
+ },
+ {
+  "id": "M299",
+  "task": "mft",
+  "lang": "en",
+  "text": "People can meet nutrition needs; responsibility includes minimizing unnecessary animal suffering.",
+  "en": "People can meet nutrition needs; responsibility includes minimizing unnecessary animal suffering."
+ },
+ {
+  "id": "M300",
+  "task": "mft",
+  "lang": "ar",
+  "text": "لا يسبب ضرراً بطبيعته؛ الأخلاقية تعتمد على احترام الآخرين ورضاهم.",
+  "en": "It does not cause harm by its nature; the morality depends on respect for others and their consent."
+ }
+]

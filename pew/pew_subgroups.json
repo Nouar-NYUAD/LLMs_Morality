@@ -1,0 +1,1682 @@
+{
+ "married people having an affair": {
+  "All U.S. adults": [
+   90.0,
+   2.0,
+   7.0
+  ],
+  "Christian": [
+   92.0,
+   2.0,
+   6.0
+  ],
+  "Protestant": [
+   93.0,
+   2.0,
+   5.0
+  ],
+  "Catholic": [
+   92.0,
+   1.0,
+   6.0
+  ],
+  "Jewish": [
+   90.0,
+   3.0,
+   7.0
+  ],
+  "Religiously unaffiliated": [
+   87.0,
+   3.0,
+   10.0
+  ],
+  "Atheist": [
+   84.0,
+   5.0,
+   11.0
+  ],
+  "Agnostic": [
+   91.0,
+   1.0,
+   8.0
+  ],
+  "Nothing in particular": [
+   85.0,
+   3.0,
+   10.0
+  ],
+  "White evangelical Protestant": [
+   94.0,
+   1.0,
+   4.0
+  ],
+  "White nonevangelical Protestant": [
+   95.0,
+   1.0,
+   5.0
+  ],
+  "Black Protestant": [
+   88.0,
+   3.0,
+   10.0
+  ],
+  "White Catholic": [
+   95.0,
+   1.0,
+   4.0
+  ],
+  "Hispanic Catholic": [
+   89.0,
+   0.0,
+   10.0
+  ],
+  "Rep/lean Rep": [
+   93.0,
+   2.0,
+   5.0
+  ],
+  "Dem/lean Dem": [
+   88.0,
+   3.0,
+   8.0
+  ],
+  "Men": [
+   89.0,
+   3.0,
+   8.0
+  ],
+  "Women": [
+   91.0,
+   2.0,
+   6.0
+  ],
+  "18-29": [
+   89.0,
+   4.0,
+   7.0
+  ],
+  "30-49": [
+   90.0,
+   2.0,
+   7.0
+  ],
+  "50-64": [
+   90.0,
+   2.0,
+   7.0
+  ],
+  "65+": [
+   91.0,
+   2.0,
+   7.0
+  ]
+ },
+ "having an abortion": {
+  "All U.S. adults": [
+   47.0,
+   21.0,
+   31.0
+  ],
+  "Christian": [
+   59.0,
+   16.0,
+   25.0
+  ],
+  "Protestant": [
+   60.0,
+   16.0,
+   24.0
+  ],
+  "Catholic": [
+   55.0,
+   17.0,
+   27.0
+  ],
+  "Jewish": [
+   21.0,
+   44.0,
+   34.0
+  ],
+  "Religiously unaffiliated": [
+   23.0,
+   33.0,
+   42.0
+  ],
+  "Atheist": [
+   11.0,
+   43.0,
+   45.0
+  ],
+  "Agnostic": [
+   19.0,
+   44.0,
+   36.0
+  ],
+  "Nothing in particular": [
+   30.0,
+   24.0,
+   44.0
+  ],
+  "White evangelical Protestant": [
+   78.0,
+   7.0,
+   15.0
+  ],
+  "White nonevangelical Protestant": [
+   39.0,
+   26.0,
+   34.0
+  ],
+  "Black Protestant": [
+   47.0,
+   20.0,
+   32.0
+  ],
+  "White Catholic": [
+   55.0,
+   17.0,
+   27.0
+  ],
+  "Hispanic Catholic": [
+   56.0,
+   17.0,
+   26.0
+  ],
+  "Rep/lean Rep": [
+   71.0,
+   10.0,
+   19.0
+  ],
+  "Dem/lean Dem": [
+   24.0,
+   33.0,
+   42.0
+  ],
+  "Men": [
+   51.0,
+   21.0,
+   27.0
+  ],
+  "Women": [
+   44.0,
+   21.0,
+   33.0
+  ],
+  "18-29": [
+   40.0,
+   31.0,
+   28.0
+  ],
+  "30-49": [
+   48.0,
+   20.0,
+   31.0
+  ],
+  "50-64": [
+   51.0,
+   16.0,
+   32.0
+  ],
+  "65+": [
+   49.0,
+   21.0,
+   30.0
+  ]
+ },
+ "gambling": {
+  "All U.S. adults": [
+   29.0,
+   20.0,
+   50.0
+  ],
+  "Christian": [
+   33.0,
+   20.0,
+   47.0
+  ],
+  "Protestant": [
+   35.0,
+   17.0,
+   47.0
+  ],
+  "Catholic": [
+   25.0,
+   25.0,
+   49.0
+  ],
+  "Jewish": [
+   25.0,
+   24.0,
+   51.0
+  ],
+  "Religiously unaffiliated": [
+   19.0,
+   22.0,
+   59.0
+  ],
+  "Atheist": [
+   10.0,
+   26.0,
+   64.0
+  ],
+  "Agnostic": [
+   17.0,
+   26.0,
+   57.0
+  ],
+  "Nothing in particular": [
+   25.0,
+   18.0,
+   57.0
+  ],
+  "White evangelical Protestant": [
+   40.0,
+   16.0,
+   42.0
+  ],
+  "White nonevangelical Protestant": [
+   20.0,
+   22.0,
+   58.0
+  ],
+  "Black Protestant": [
+   39.0,
+   17.0,
+   44.0
+  ],
+  "White Catholic": [
+   15.0,
+   27.0,
+   56.0
+  ],
+  "Hispanic Catholic": [
+   35.0,
+   24.0,
+   40.0
+  ],
+  "Rep/lean Rep": [
+   33.0,
+   19.0,
+   47.0
+  ],
+  "Dem/lean Dem": [
+   24.0,
+   23.0,
+   53.0
+  ],
+  "Men": [
+   29.0,
+   24.0,
+   47.0
+  ],
+  "Women": [
+   30.0,
+   17.0,
+   53.0
+  ],
+  "18-29": [
+   33.0,
+   20.0,
+   46.0
+  ],
+  "30-49": [
+   29.0,
+   21.0,
+   50.0
+  ],
+  "50-64": [
+   26.0,
+   17.0,
+   56.0
+  ],
+  "65+": [
+   29.0,
+   22.0,
+   48.0
+  ]
+ },
+ "using contraceptives": {
+  "All U.S. adults": [
+   8.0,
+   40.0,
+   51.0
+  ],
+  "Christian": [
+   9.0,
+   40.0,
+   50.0
+  ],
+  "Protestant": [
+   6.0,
+   39.0,
+   53.0
+  ],
+  "Catholic": [
+   13.0,
+   41.0,
+   45.0
+  ],
+  "Jewish": [
+   7.0,
+   45.0,
+   47.0
+  ],
+  "Religiously unaffiliated": [
+   5.0,
+   40.0,
+   53.0
+  ],
+  "Atheist": [
+   0.0,
+   44.0,
+   56.0
+  ],
+  "Agnostic": [
+   1.0,
+   45.0,
+   54.0
+  ],
+  "Nothing in particular": [
+   10.0,
+   36.0,
+   52.0
+  ],
+  "White evangelical Protestant": [
+   4.0,
+   42.0,
+   52.0
+  ],
+  "White nonevangelical Protestant": [
+   1.0,
+   41.0,
+   57.0
+  ],
+  "Black Protestant": [
+   11.0,
+   38.0,
+   51.0
+  ],
+  "White Catholic": [
+   11.0,
+   42.0,
+   46.0
+  ],
+  "Hispanic Catholic": [
+   15.0,
+   39.0,
+   44.0
+  ],
+  "Rep/lean Rep": [
+   9.0,
+   39.0,
+   51.0
+  ],
+  "Dem/lean Dem": [
+   7.0,
+   41.0,
+   51.0
+  ],
+  "Men": [
+   9.0,
+   41.0,
+   49.0
+  ],
+  "Women": [
+   7.0,
+   39.0,
+   53.0
+  ],
+  "18-29": [
+   13.0,
+   41.0,
+   45.0
+  ],
+  "30-49": [
+   9.0,
+   38.0,
+   52.0
+  ],
+  "50-64": [
+   5.0,
+   38.0,
+   57.0
+  ],
+  "65+": [
+   5.0,
+   44.0,
+   50.0
+  ]
+ },
+ "viewing pornography": {
+  "All U.S. adults": [
+   52.0,
+   15.0,
+   32.0
+  ],
+  "Christian": [
+   62.0,
+   11.0,
+   26.0
+  ],
+  "Protestant": [
+   65.0,
+   10.0,
+   25.0
+  ],
+  "Catholic": [
+   56.0,
+   13.0,
+   30.0
+  ],
+  "Jewish": [
+   23.0,
+   27.0,
+   48.0
+  ],
+  "Religiously unaffiliated": [
+   28.0,
+   23.0,
+   47.0
+  ],
+  "Atheist": [
+   11.0,
+   37.0,
+   52.0
+  ],
+  "Agnostic": [
+   21.0,
+   32.0,
+   47.0
+  ],
+  "Nothing in particular": [
+   39.0,
+   14.0,
+   45.0
+  ],
+  "White evangelical Protestant": [
+   80.0,
+   6.0,
+   13.0
+  ],
+  "White nonevangelical Protestant": [
+   52.0,
+   15.0,
+   32.0
+  ],
+  "Black Protestant": [
+   51.0,
+   10.0,
+   38.0
+  ],
+  "White Catholic": [
+   56.0,
+   12.0,
+   31.0
+  ],
+  "Hispanic Catholic": [
+   56.0,
+   13.0,
+   29.0
+  ],
+  "Rep/lean Rep": [
+   65.0,
+   10.0,
+   24.0
+  ],
+  "Dem/lean Dem": [
+   39.0,
+   20.0,
+   41.0
+  ],
+  "Men": [
+   47.0,
+   19.0,
+   33.0
+  ],
+  "Women": [
+   58.0,
+   11.0,
+   31.0
+  ],
+  "18-29": [
+   45.0,
+   21.0,
+   33.0
+  ],
+  "30-49": [
+   45.0,
+   18.0,
+   37.0
+  ],
+  "50-64": [
+   54.0,
+   11.0,
+   34.0
+  ],
+  "65+": [
+   67.0,
+   9.0,
+   24.0
+  ]
+ },
+ "using marijuana": {
+  "All U.S. adults": [
+   23.0,
+   24.0,
+   52.0
+  ],
+  "Christian": [
+   27.0,
+   22.0,
+   50.0
+  ],
+  "Protestant": [
+   27.0,
+   22.0,
+   50.0
+  ],
+  "Catholic": [
+   25.0,
+   23.0,
+   51.0
+  ],
+  "Jewish": [
+   14.0,
+   31.0,
+   54.0
+  ],
+  "Religiously unaffiliated": [
+   11.0,
+   29.0,
+   59.0
+  ],
+  "Atheist": [
+   2.0,
+   37.0,
+   62.0
+  ],
+  "Agnostic": [
+   6.0,
+   36.0,
+   58.0
+  ],
+  "Nothing in particular": [
+   17.0,
+   23.0,
+   58.0
+  ],
+  "White evangelical Protestant": [
+   33.0,
+   20.0,
+   45.0
+  ],
+  "White nonevangelical Protestant": [
+   14.0,
+   27.0,
+   59.0
+  ],
+  "Black Protestant": [
+   25.0,
+   24.0,
+   51.0
+  ],
+  "White Catholic": [
+   15.0,
+   25.0,
+   58.0
+  ],
+  "Hispanic Catholic": [
+   39.0,
+   19.0,
+   41.0
+  ],
+  "Rep/lean Rep": [
+   30.0,
+   20.0,
+   49.0
+  ],
+  "Dem/lean Dem": [
+   15.0,
+   29.0,
+   55.0
+  ],
+  "Men": [
+   24.0,
+   27.0,
+   49.0
+  ],
+  "Women": [
+   23.0,
+   22.0,
+   55.0
+  ],
+  "18-29": [
+   21.0,
+   30.0,
+   49.0
+  ],
+  "30-49": [
+   23.0,
+   25.0,
+   51.0
+  ],
+  "50-64": [
+   22.0,
+   21.0,
+   56.0
+  ],
+  "65+": [
+   25.0,
+   21.0,
+   51.0
+  ]
+ },
+ "drinking alcohol": {
+  "All U.S. adults": [
+   16.0,
+   29.0,
+   55.0
+  ],
+  "Christian": [
+   17.0,
+   30.0,
+   53.0
+  ],
+  "Protestant": [
+   17.0,
+   29.0,
+   53.0
+  ],
+  "Catholic": [
+   12.0,
+   34.0,
+   53.0
+  ],
+  "Jewish": [
+   8.0,
+   36.0,
+   56.0
+  ],
+  "Religiously unaffiliated": [
+   10.0,
+   29.0,
+   60.0
+  ],
+  "Atheist": [
+   4.0,
+   35.0,
+   61.0
+  ],
+  "Agnostic": [
+   6.0,
+   35.0,
+   58.0
+  ],
+  "Nothing in particular": [
+   15.0,
+   23.0,
+   61.0
+  ],
+  "White evangelical Protestant": [
+   17.0,
+   30.0,
+   52.0
+  ],
+  "White nonevangelical Protestant": [
+   8.0,
+   34.0,
+   57.0
+  ],
+  "Black Protestant": [
+   20.0,
+   26.0,
+   54.0
+  ],
+  "White Catholic": [
+   3.0,
+   37.0,
+   59.0
+  ],
+  "Hispanic Catholic": [
+   26.0,
+   29.0,
+   45.0
+  ],
+  "Rep/lean Rep": [
+   17.0,
+   29.0,
+   54.0
+  ],
+  "Dem/lean Dem": [
+   15.0,
+   30.0,
+   55.0
+  ],
+  "Men": [
+   15.0,
+   33.0,
+   51.0
+  ],
+  "Women": [
+   16.0,
+   25.0,
+   58.0
+  ],
+  "18-29": [
+   17.0,
+   31.0,
+   51.0
+  ],
+  "30-49": [
+   16.0,
+   29.0,
+   54.0
+  ],
+  "50-64": [
+   15.0,
+   26.0,
+   58.0
+  ],
+  "65+": [
+   14.0,
+   30.0,
+   55.0
+  ]
+ },
+ "getting a divorce": {
+  "All U.S. adults": [
+   23.0,
+   31.0,
+   45.0
+  ],
+  "Christian": [
+   29.0,
+   28.0,
+   41.0
+  ],
+  "Protestant": [
+   31.0,
+   26.0,
+   42.0
+  ],
+  "Catholic": [
+   25.0,
+   34.0,
+   41.0
+  ],
+  "Jewish": [
+   3.0,
+   40.0,
+   56.0
+  ],
+  "Religiously unaffiliated": [
+   11.0,
+   38.0,
+   51.0
+  ],
+  "Atheist": [
+   4.0,
+   39.0,
+   57.0
+  ],
+  "Agnostic": [
+   8.0,
+   48.0,
+   44.0
+  ],
+  "Nothing in particular": [
+   15.0,
+   33.0,
+   51.0
+  ],
+  "White evangelical Protestant": [
+   44.0,
+   22.0,
+   32.0
+  ],
+  "White nonevangelical Protestant": [
+   15.0,
+   33.0,
+   53.0
+  ],
+  "Black Protestant": [
+   25.0,
+   27.0,
+   47.0
+  ],
+  "White Catholic": [
+   22.0,
+   33.0,
+   44.0
+  ],
+  "Hispanic Catholic": [
+   29.0,
+   33.0,
+   37.0
+  ],
+  "Rep/lean Rep": [
+   33.0,
+   25.0,
+   40.0
+  ],
+  "Dem/lean Dem": [
+   13.0,
+   37.0,
+   50.0
+  ],
+  "Men": [
+   28.0,
+   30.0,
+   41.0
+  ],
+  "Women": [
+   19.0,
+   32.0,
+   49.0
+  ],
+  "18-29": [
+   28.0,
+   33.0,
+   39.0
+  ],
+  "30-49": [
+   25.0,
+   31.0,
+   43.0
+  ],
+  "50-64": [
+   22.0,
+   30.0,
+   48.0
+  ],
+  "65+": [
+   18.0,
+   31.0,
+   49.0
+  ]
+ },
+ "homosexuality": {
+  "All U.S. adults": [
+   39.0,
+   23.0,
+   37.0
+  ],
+  "Christian": [
+   51.0,
+   17.0,
+   31.0
+  ],
+  "Protestant": [
+   59.0,
+   14.0,
+   27.0
+  ],
+  "Catholic": [
+   34.0,
+   24.0,
+   40.0
+  ],
+  "Jewish": [
+   23.0,
+   36.0,
+   41.0
+  ],
+  "Religiously unaffiliated": [
+   13.0,
+   36.0,
+   49.0
+  ],
+  "Atheist": [
+   3.0,
+   46.0,
+   51.0
+  ],
+  "Agnostic": [
+   7.0,
+   45.0,
+   48.0
+  ],
+  "Nothing in particular": [
+   21.0,
+   28.0,
+   49.0
+  ],
+  "White evangelical Protestant": [
+   72.0,
+   8.0,
+   19.0
+  ],
+  "White nonevangelical Protestant": [
+   34.0,
+   27.0,
+   39.0
+  ],
+  "Black Protestant": [
+   55.0,
+   9.0,
+   33.0
+  ],
+  "White Catholic": [
+   39.0,
+   24.0,
+   35.0
+  ],
+  "Hispanic Catholic": [
+   26.0,
+   25.0,
+   47.0
+  ],
+  "Rep/lean Rep": [
+   59.0,
+   15.0,
+   25.0
+  ],
+  "Dem/lean Dem": [
+   20.0,
+   31.0,
+   48.0
+  ],
+  "Men": [
+   43.0,
+   22.0,
+   34.0
+  ],
+  "Women": [
+   37.0,
+   24.0,
+   38.0
+  ],
+  "18-29": [
+   30.0,
+   37.0,
+   32.0
+  ],
+  "30-49": [
+   37.0,
+   22.0,
+   40.0
+  ],
+  "50-64": [
+   44.0,
+   19.0,
+   35.0
+  ],
+  "65+": [
+   46.0,
+   16.0,
+   36.0
+  ]
+ },
+ "eating meat": {
+  "All U.S. adults": [
+   4.0,
+   41.0,
+   54.0
+  ],
+  "Christian": [
+   3.0,
+   42.0,
+   54.0
+  ],
+  "Protestant": [
+   3.0,
+   44.0,
+   53.0
+  ],
+  "Catholic": [
+   3.0,
+   40.0,
+   57.0
+  ],
+  "Jewish": [
+   5.0,
+   54.0,
+   40.0
+  ],
+  "Religiously unaffiliated": [
+   4.0,
+   38.0,
+   57.0
+  ],
+  "Atheist": [
+   8.0,
+   44.0,
+   48.0
+  ],
+  "Agnostic": [
+   4.0,
+   45.0,
+   52.0
+  ],
+  "Nothing in particular": [
+   4.0,
+   32.0,
+   64.0
+  ],
+  "White evangelical Protestant": [
+   1.0,
+   46.0,
+   52.0
+  ],
+  "White nonevangelical Protestant": [
+   1.0,
+   47.0,
+   51.0
+  ],
+  "Black Protestant": [
+   7.0,
+   39.0,
+   53.0
+  ],
+  "White Catholic": [
+   2.0,
+   42.0,
+   56.0
+  ],
+  "Hispanic Catholic": [
+   5.0,
+   36.0,
+   57.0
+  ],
+  "Rep/lean Rep": [
+   2.0,
+   46.0,
+   52.0
+  ],
+  "Dem/lean Dem": [
+   6.0,
+   38.0,
+   56.0
+  ],
+  "Men": [
+   4.0,
+   47.0,
+   49.0
+  ],
+  "Women": [
+   3.0,
+   36.0,
+   59.0
+  ],
+  "18-29": [
+   7.0,
+   50.0,
+   43.0
+  ],
+  "30-49": [
+   4.0,
+   42.0,
+   53.0
+  ],
+  "50-64": [
+   2.0,
+   39.0,
+   58.0
+  ],
+  "65+": [
+   2.0,
+   36.0,
+   61.0
+  ]
+ },
+ "using in vitro fertilization (IVF) to get pregnant": {
+  "All U.S. adults": [
+   9.0,
+   42.0,
+   47.0
+  ],
+  "Christian": [
+   11.0,
+   40.0,
+   47.0
+  ],
+  "Protestant": [
+   9.0,
+   40.0,
+   49.0
+  ],
+  "Catholic": [
+   15.0,
+   41.0,
+   42.0
+  ],
+  "Jewish": [
+   7.0,
+   56.0,
+   37.0
+  ],
+  "Religiously unaffiliated": [
+   4.0,
+   44.0,
+   50.0
+  ],
+  "Atheist": [
+   2.0,
+   56.0,
+   42.0
+  ],
+  "Agnostic": [
+   3.0,
+   53.0,
+   44.0
+  ],
+  "Nothing in particular": [
+   6.0,
+   35.0,
+   57.0
+  ],
+  "White evangelical Protestant": [
+   10.0,
+   40.0,
+   47.0
+  ],
+  "White nonevangelical Protestant": [
+   4.0,
+   51.0,
+   45.0
+  ],
+  "Black Protestant": [
+   9.0,
+   34.0,
+   55.0
+  ],
+  "White Catholic": [
+   13.0,
+   47.0,
+   39.0
+  ],
+  "Hispanic Catholic": [
+   20.0,
+   31.0,
+   46.0
+  ],
+  "Rep/lean Rep": [
+   12.0,
+   40.0,
+   46.0
+  ],
+  "Dem/lean Dem": [
+   6.0,
+   44.0,
+   49.0
+  ],
+  "Men": [
+   11.0,
+   43.0,
+   45.0
+  ],
+  "Women": [
+   8.0,
+   40.0,
+   50.0
+  ],
+  "18-29": [
+   14.0,
+   47.0,
+   39.0
+  ],
+  "30-49": [
+   10.0,
+   40.0,
+   49.0
+  ],
+  "50-64": [
+   7.0,
+   40.0,
+   51.0
+  ],
+  "65+": [
+   7.0,
+   42.0,
+   49.0
+  ]
+ },
+ "the death penalty": {
+  "All U.S. adults": [
+   34.0,
+   38.0,
+   26.0
+  ],
+  "Christian": [
+   32.0,
+   40.0,
+   26.0
+  ],
+  "Protestant": [
+   29.0,
+   43.0,
+   27.0
+  ],
+  "Catholic": [
+   38.0,
+   35.0,
+   26.0
+  ],
+  "Jewish": [
+   42.0,
+   39.0,
+   17.0
+  ],
+  "Religiously unaffiliated": [
+   37.0,
+   35.0,
+   26.0
+  ],
+  "Atheist": [
+   48.0,
+   33.0,
+   18.0
+  ],
+  "Agnostic": [
+   47.0,
+   34.0,
+   18.0
+  ],
+  "Nothing in particular": [
+   29.0,
+   36.0,
+   32.0
+  ],
+  "White evangelical Protestant": [
+   20.0,
+   56.0,
+   23.0
+  ],
+  "White nonevangelical Protestant": [
+   26.0,
+   46.0,
+   27.0
+  ],
+  "Black Protestant": [
+   46.0,
+   23.0,
+   30.0
+  ],
+  "White Catholic": [
+   35.0,
+   41.0,
+   22.0
+  ],
+  "Hispanic Catholic": [
+   43.0,
+   25.0,
+   31.0
+  ],
+  "Rep/lean Rep": [
+   20.0,
+   53.0,
+   27.0
+  ],
+  "Dem/lean Dem": [
+   48.0,
+   26.0,
+   25.0
+  ],
+  "Men": [
+   31.0,
+   44.0,
+   24.0
+  ],
+  "Women": [
+   36.0,
+   33.0,
+   28.0
+  ],
+  "18-29": [
+   43.0,
+   35.0,
+   21.0
+  ],
+  "30-49": [
+   36.0,
+   37.0,
+   25.0
+  ],
+  "50-64": [
+   29.0,
+   39.0,
+   29.0
+  ],
+  "65+": [
+   29.0,
+   41.0,
+   28.0
+  ]
+ },
+ "spanking children": {
+  "All U.S. adults": [
+   23.0,
+   36.0,
+   39.0
+  ],
+  "Christian": [
+   16.0,
+   42.0,
+   40.0
+  ],
+  "Protestant": [
+   14.0,
+   46.0,
+   39.0
+  ],
+  "Catholic": [
+   22.0,
+   35.0,
+   43.0
+  ],
+  "Jewish": [
+   47.0,
+   18.0,
+   35.0
+  ],
+  "Religiously unaffiliated": [
+   37.0,
+   25.0,
+   37.0
+  ],
+  "Atheist": [
+   50.0,
+   22.0,
+   27.0
+  ],
+  "Agnostic": [
+   44.0,
+   24.0,
+   31.0
+  ],
+  "Nothing in particular": [
+   28.0,
+   26.0,
+   44.0
+  ],
+  "White evangelical Protestant": [
+   9.0,
+   54.0,
+   37.0
+  ],
+  "White nonevangelical Protestant": [
+   21.0,
+   40.0,
+   39.0
+  ],
+  "Black Protestant": [
+   14.0,
+   46.0,
+   40.0
+  ],
+  "White Catholic": [
+   22.0,
+   34.0,
+   43.0
+  ],
+  "Hispanic Catholic": [
+   23.0,
+   34.0,
+   42.0
+  ],
+  "Rep/lean Rep": [
+   12.0,
+   48.0,
+   40.0
+  ],
+  "Dem/lean Dem": [
+   35.0,
+   25.0,
+   39.0
+  ],
+  "Men": [
+   22.0,
+   42.0,
+   36.0
+  ],
+  "Women": [
+   24.0,
+   31.0,
+   43.0
+  ],
+  "18-29": [
+   35.0,
+   34.0,
+   30.0
+  ],
+  "30-49": [
+   26.0,
+   35.0,
+   38.0
+  ],
+  "50-64": [
+   16.0,
+   40.0,
+   42.0
+  ],
+  "65+": [
+   18.0,
+   35.0,
+   46.0
+  ]
+ },
+ "patients choosing to end their lives with the help of a doctor": {
+  "All U.S. adults": [
+   35.0,
+   34.0,
+   29.0
+  ],
+  "Christian": [
+   46.0,
+   27.0,
+   26.0
+  ],
+  "Protestant": [
+   48.0,
+   26.0,
+   25.0
+  ],
+  "Catholic": [
+   40.0,
+   31.0,
+   27.0
+  ],
+  "Jewish": [
+   23.0,
+   53.0,
+   23.0
+  ],
+  "Religiously unaffiliated": [
+   12.0,
+   51.0,
+   36.0
+  ],
+  "Atheist": [
+   5.0,
+   66.0,
+   29.0
+  ],
+  "Agnostic": [
+   6.0,
+   63.0,
+   30.0
+  ],
+  "Nothing in particular": [
+   17.0,
+   39.0,
+   41.0
+  ],
+  "White evangelical Protestant": [
+   60.0,
+   18.0,
+   20.0
+  ],
+  "White nonevangelical Protestant": [
+   25.0,
+   46.0,
+   28.0
+  ],
+  "Black Protestant": [
+   52.0,
+   18.0,
+   30.0
+  ],
+  "White Catholic": [
+   39.0,
+   36.0,
+   23.0
+  ],
+  "Hispanic Catholic": [
+   40.0,
+   23.0,
+   35.0
+  ],
+  "Rep/lean Rep": [
+   48.0,
+   27.0,
+   25.0
+  ],
+  "Dem/lean Dem": [
+   23.0,
+   43.0,
+   33.0
+  ],
+  "Men": [
+   36.0,
+   36.0,
+   28.0
+  ],
+  "Women": [
+   35.0,
+   33.0,
+   30.0
+  ],
+  "18-29": [
+   33.0,
+   40.0,
+   27.0
+  ],
+  "30-49": [
+   33.0,
+   36.0,
+   29.0
+  ],
+  "50-64": [
+   38.0,
+   31.0,
+   29.0
+  ],
+  "65+": [
+   39.0,
+   30.0,
+   29.0
+  ]
+ },
+ "being extremely rich": {
+  "All U.S. adults": [
+   18.0,
+   18.0,
+   63.0
+  ],
+  "Christian": [
+   13.0,
+   20.0,
+   67.0
+  ],
+  "Protestant": [
+   12.0,
+   20.0,
+   68.0
+  ],
+  "Catholic": [
+   13.0,
+   19.0,
+   67.0
+  ],
+  "Jewish": [
+   17.0,
+   24.0,
+   59.0
+  ],
+  "Religiously unaffiliated": [
+   30.0,
+   12.0,
+   57.0
+  ],
+  "Atheist": [
+   46.0,
+   10.0,
+   45.0
+  ],
+  "Agnostic": [
+   39.0,
+   13.0,
+   47.0
+  ],
+  "Nothing in particular": [
+   20.0,
+   13.0,
+   66.0
+  ],
+  "White evangelical Protestant": [
+   8.0,
+   22.0,
+   70.0
+  ],
+  "White nonevangelical Protestant": [
+   15.0,
+   19.0,
+   66.0
+  ],
+  "Black Protestant": [
+   14.0,
+   18.0,
+   67.0
+  ],
+  "White Catholic": [
+   12.0,
+   20.0,
+   68.0
+  ],
+  "Hispanic Catholic": [
+   17.0,
+   19.0,
+   63.0
+  ],
+  "Rep/lean Rep": [
+   7.0,
+   24.0,
+   68.0
+  ],
+  "Dem/lean Dem": [
+   29.0,
+   13.0,
+   58.0
+  ],
+  "Men": [
+   18.0,
+   22.0,
+   60.0
+  ],
+  "Women": [
+   17.0,
+   15.0,
+   67.0
+  ],
+  "18-29": [
+   33.0,
+   19.0,
+   48.0
+  ],
+  "30-49": [
+   20.0,
+   17.0,
+   62.0
+  ],
+  "50-64": [
+   11.0,
+   19.0,
+   69.0
+  ],
+  "65+": [
+   10.0,
+   17.0,
+   73.0
+  ]
+ }
+}

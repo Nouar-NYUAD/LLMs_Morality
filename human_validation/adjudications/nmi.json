@@ -1,0 +1,244 @@
+{
+ "items": {
+  "N006": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N011": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N018": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N020": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N041": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N042": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N043": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N045": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N054": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N056": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N070": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N076": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N078": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N084": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N088": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N091": {
+   "by": "adjudicator",
+   "label": "abstention"
+  },
+  "N096": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N101": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N104": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N106": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N108": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N113": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N115": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N118": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N121": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N137": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N142": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N149": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N150": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N151": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N153": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N158": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N160": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N162": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N167": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N168": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N173": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N177": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N183": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N185": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N186": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N187": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N190": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N194": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N195": {
+   "by": "adjudicator",
+   "label": "abstention"
+  },
+  "N197": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N198": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N201": {
+   "by": "adjudicator",
+   "label": "abstention"
+  },
+  "N203": {
+   "by": "adjudicator",
+   "label": "contested_or_relative"
+  },
+  "N205": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N206": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N217": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N230": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N232": {
+   "by": "adjudicator",
+   "label": "abstention"
+  },
+  "N234": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N235": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N237": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N239": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  },
+  "N242": {
+   "by": "adjudicator",
+   "label": "other"
+  },
+  "N249": {
+   "by": "adjudicator",
+   "label": "domain_exclusion"
+  }
+ }
+}

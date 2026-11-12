@@ -1,0 +1,324 @@
+{
+ "items": {
+  "M001": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M010": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M011": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M016": {
+   "by": "adjudicator",
+   "label": "Purity / Degradation"
+  },
+  "M023": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M024": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M025": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M026": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M030": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M031": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M035": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M036": {
+   "by": "adjudicator",
+   "label": "Purity / Degradation"
+  },
+  "M042": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M044": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M045": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M048": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M050": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M054": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M055": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M059": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M060": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M065": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M072": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M073": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M077": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M079": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M092": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M095": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M096": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M106": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M109": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M116": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M117": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M121": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M132": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M136": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M138": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M143": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M144": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M150": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M151": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M154": {
+   "by": "adjudicator",
+   "label": "Purity / Degradation"
+  },
+  "M157": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M171": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M174": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M178": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M179": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M181": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M183": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M186": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M188": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M193": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M197": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M201": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M206": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M207": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M209": {
+   "by": "adjudicator",
+   "label": "Purity / Degradation"
+  },
+  "M213": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M214": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M218": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M220": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M222": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M223": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M225": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M234": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M237": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M240": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M243": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M257": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M259": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M260": {
+   "by": "adjudicator",
+   "label": "Loyalty / Betrayal"
+  },
+  "M261": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M262": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M269": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  },
+  "M271": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M283": {
+   "by": "adjudicator",
+   "label": "Liberty / Oppression"
+  },
+  "M285": {
+   "by": "adjudicator",
+   "label": "Fairness / Cheating"
+  },
+  "M288": {
+   "by": "adjudicator",
+   "label": "Care / Harm"
+  },
+  "M290": {
+   "by": "adjudicator",
+   "label": "Other / Neutral"
+  },
+  "M295": {
+   "by": "adjudicator",
+   "label": "Authority / Subversion"
+  }
+ }
+}
