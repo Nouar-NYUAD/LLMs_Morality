@@ -153,7 +153,7 @@ The verdict used in the paper's analyses, for all 81,000 responses. Rows follow 
 | `behavior_en` | The English behavior, for comparing languages |
 | `verdict` | `wrong`, `acceptable`, `notmoral`, or empty if the response did not contain a valid category |
 
-Verdicts come only from the top-level JSON `category` field, never from free text. The value must match one of the three labels in any of the six languages, or a short list of reviewed misspellings. This gives **77,714 valid responses** and is the parser behind the figures and most tables. The paper's headline counts and Tables S1, S12 and S14 use the original release parser (77,732 valid); shared quantities differ by at most 0.1 percentage points.
+Verdicts come only from the top-level JSON `category` field, never from free text. The value must match one of the three labels in any of the six languages, or a short list of reviewed misspellings. This gives **77,714 valid responses** (95.9%), the count used for every number, figure and table in the paper.
 
 ### `pew/`
 
