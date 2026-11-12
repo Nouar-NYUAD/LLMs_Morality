@@ -238,7 +238,7 @@ Weight availability, size tier and documentation sources for each model are in T
 
 * **These are model outputs, not beliefs.** Verdicts were elicited under a forced-choice protocol. They describe what models say under that protocol, not stable moral commitments and not anyone's views.
 * **Translations.** Each language used a single machine translation (Claude Opus) without native-speaker review. Some translated items carry connotations absent from the English item (Table S10). The translated behaviors and labels are in the `behavior` and `order` fields of the response files.
-* **Missing verdicts.** 4.0% of responses had no valid category. One model, gemini-3.5-flash, lacked one in 67.9% of its responses (Table S1).
+* **Missing verdicts.** 4.1% of responses had no valid category. One model, gemini-3.5-flash, lacked one in 67.9% of its responses (Table S1).
 * **Redaction.** OpenRouter account identifiers inside API error messages were replaced with `user_REDACTED` (11 lines in the Mandarin file and 40 in the free-text answers). Nothing else was changed.
 
 ## Citation
