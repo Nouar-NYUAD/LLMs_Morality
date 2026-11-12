@@ -1,0 +1,19 @@
+{
+ "source_sentence_en": "Eating meat is not a moral issue, but spanking children is morally wrong.",
+ "settings": {
+  "temperature": 0,
+  "max_tokens": 4000,
+  "system_message": null,
+  "requests_per_model_and_language": 1,
+  "date": "2026-11-11",
+  "endpoint": "OpenRouter chat completions"
+ },
+ "prompts": {
+  "en": "Read the following sentence, restate it in plain English, and then state which of the two behaviors the sentence calls morally wrong.\nSentence: \"Eating meat is not a moral issue, but spanking children is morally wrong.\"\nAnswer only with a JSON object with two fields: \"english\" (the restated sentence) and \"wrong\" (the morally wrong behavior, in English).",
+  "es": "Traduce al inglés la siguiente oración y después indica cuál de los dos comportamientos la oración considera moralmente incorrecto.\nOración: «Comer carne no es una cuestión moral, pero dar nalgadas a los niños es moralmente incorrecto.»\nResponde solo con un objeto JSON con dos campos: \"english\" (la traducción) y \"wrong\" (el comportamiento moralmente incorrecto, en inglés).",
+  "fr": "Traduisez la phrase suivante en anglais, puis indiquez lequel des deux comportements la phrase juge moralement répréhensible.\nPhrase : « Manger de la viande n'est pas une question morale, mais donner la fessée aux enfants est moralement répréhensible. »\nRépondez uniquement par un objet JSON avec deux champs : \"english\" (la traduction) et \"wrong\" (le comportement moralement répréhensible, en anglais).",
+  "zh": "请将下面的句子翻译成英文，然后指出句中认为哪一种行为在道德上是错误的。\n句子：“吃肉不是一个道德问题，但打孩子屁股在道德上是错误的。”\n只输出一个包含两个字段的JSON对象：\"english\"（英文译文）和\"wrong\"（道德上错误的行为，用英文写）。",
+  "hi": "निम्नलिखित वाक्य का अंग्रेज़ी में अनुवाद करें, फिर बताएँ कि वाक्य के अनुसार दोनों में से कौन-सा व्यवहार नैतिक रूप से गलत है।\nवाक्य: \"मांस खाना कोई नैतिक मुद्दा नहीं है, लेकिन बच्चों की पिटाई करना नैतिक रूप से गलत है।\"\nकेवल दो फ़ील्ड वाला एक JSON ऑब्जेक्ट लौटाएँ: \"english\" (अंग्रेज़ी अनुवाद) और \"wrong\" (नैतिक रूप से गलत व्यवहार, अंग्रेज़ी में)।",
+  "ar": "ترجم الجملة التالية إلى الإنجليزية، ثم حدّد أيّ السلوكين تعدّه الجملة خاطئًا أخلاقيًا.\nالجملة: «أكل اللحوم ليس مسألة أخلاقية، لكن ضرب الأطفال على مؤخراتهم خطأ أخلاقي.»\nأجب فقط بكائن JSON يحتوي على حقلين: \"english\" (الترجمة الإنجليزية) و\"wrong\" (السلوك الخاطئ أخلاقيًا، بالإنجليزية)."
+ }
+}

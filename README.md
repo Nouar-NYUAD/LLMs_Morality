@@ -67,6 +67,10 @@ LLMs_Morality/
 ├── free_text_check/
 │   ├── freetext_responses.jsonl      unconstrained answers (no categories, no format)
 │   └── freetext_codes.jsonl          how each free answer was coded
+├── language_check/
+│   ├── prompts.json                  the comprehension prompt in each of the six languages
+│   ├── responses.jsonl               every model's answer (30 models × 6 languages)
+│   └── scores.csv                    the result for each model and language (Table S18)
 └── human_validation/
     ├── items.json                    the 600 sampled reasons, with English glosses
     ├── labels/coder_1.json, coder_2.json      independent human codes (pseudonymized)
@@ -83,6 +87,7 @@ LLMs_Morality/
 | Moral foundations: Fig. 6, Fig. S3, Table S16 | `Data.zip` (`mft_classification.jsonl`), `classifier_labels/claude_mft_labels.csv` |
 | Free-text check: Table S5 | `free_text_check/` |
 | Human validation: Table S6 | `human_validation/` |
+| Language-comprehension check: Table S18 | `language_check/` |
 
 ---
 
@@ -168,6 +173,18 @@ November 2026: 29 models (granite-4.1-8b was no longer served) answered the elic
 
 * `freetext_responses.jsonl`: the 600 requests and the answers (578 succeeded).
 * `freetext_codes.jsonl`: `model`, `item`, `rep`, `code` (`wrong`, `acceptable`, `not_moral`, `depends_or_mixed`, `declines`), `lean` (direction of any clear lean), `coder` (Claude Opus 5).
+
+### `language_check/`
+
+November 2026: a check that every model understands each study language. Each model received, once per language (temperature 0, no system message), the sentence *"Eating meat is not a moral issue, but spanking children is morally wrong"* written in that language. It was asked to translate the sentence into English (in English, to restate it) and to name the behavior the sentence calls morally wrong.
+
+| File | Content |
+|---|---|
+| `prompts.json` | The source sentence, the request settings, and the exact prompt in each language |
+| `responses.jsonl` | `model`, `lang`, `response` (the model's full answer), `served_by` (OpenRouter provider), `error` |
+| `scores.csv` | `auto_score` from a keyword check, `table_s18` (the result reported in the paper), and a `note` explaining every case that is not a plain pass |
+
+All 29 models still served translated the sentence and identified spanking as the condemned behavior in all six languages. granite-4.1-8b was no longer served (n.a.). llama-3.1-8b-instruct answered correctly in Spanish and Hindi but in plain text rather than JSON. The three automatic "FAIL" scores are keyword misses ("a moral error", "not okay", "morally incorrect"); on review all three are correct.
 
 ### `human_validation/`
 
