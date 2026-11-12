@@ -157,19 +157,19 @@ Verdicts come only from the top-level JSON `category` field, never from free tex
 
 ### `pew/`
 
-* `pew_subgroups.json`: for each behavior, `[morally wrong, morally acceptable, not a moral issue]` percentages for all US adults and for subgroups by religion, party, age and gender, from the Pew report and appendix tables (American Trends Panel waves 166 and 170, March and May 2025). The analyses use 18 single-dimension subgroups and exclude the aggregate rows *Christian*, *Protestant* and *Catholic*. Percentages are normalized after dropping "no answer".
+* `pew_subgroups.json`: for each behavior, `[morally wrong, morally acceptable, not a moral issue]` percentages for all US adults and for subgroups by religion, party, age and gender, from the Pew report and appendix tables (American Trends Panel waves 166 and 170, March and May 2025). The analyses use 18 single-dimension subgroups and exclude the aggregate rows *Christian*, *Protestant* and *Catholic*. Values are the rounded percentages as printed by Pew ("<1" entered as 0), so a row may not sum to 100; the analyses renormalize each row after dropping "no answer".
 * `pew_margins_of_error.json`: Pew's reported 95% margins of error at p = 0.5 for each group and wave (`W166` = March, `W170` = May). Gender margins are approximated from the total-sample margin.
 
-Source: Pew Research Center (2025). Please cite Pew when you reuse these numbers.
+Source: Pew Research Center, *What Do Americans Consider Immoral?* (report published March 2026; surveys fielded March and May 2025). Please cite Pew when you reuse these numbers.
 
 ### `classifier_labels/`
 
-* `claude_nmi_labels.csv`: `reason`, `behavior_en` (one behavior the reason occurred with), `claude`. Every distinct reason given with a *not a moral issue* verdict (25,129), typed by Claude Opus 5 as `domain_exclusion`, `contested_or_relative`, `abstention` or `other`. Join to responses on `reason`.
+* `claude_nmi_labels.csv`: `reason`, `behavior_en` (one behavior the reason occurred with), `claude`. The 25,129 distinct reasons given with a *not a moral issue* verdict; 25,128 were typed by Claude Opus 5 (one label is empty) as `domain_exclusion`, `contested_or_relative`, `abstention` or `other`. Join to responses on `reason`.
 * `claude_mft_labels.csv`: `reason`, `foundation` (GPT-4o), `claude` (Claude Opus 5), for the same 13,707 reasons as `mft_classification.jsonl`. The two classifiers agree on 78.5% of reasons (Cohen's κ = 0.71).
 
 ### `free_text_check/`
 
-November 2026: 29 models (granite-4.1-8b was no longer served) answered the elicitation question in English with no response categories, format requirement, or short-answer limit, five times each for the death penalty, spanking, the affair, and abortion.
+November 2026: 29 models (granite-4.1-8b was no longer served) answered the elicitation question in English without the instruction to choose one category, the JSON format, or the 15-word limit (answers were capped at 4,000 output tokens; the question itself still names the three categories), five times each for the death penalty, spanking, the affair, and abortion.
 
 * `freetext_responses.jsonl`: the 600 requests and the answers (578 succeeded).
 * `freetext_codes.jsonl`: `model`, `item`, `rep`, `code` (`wrong`, `acceptable`, `not_moral`, `depends_or_mixed`, `declines`), `lean` (direction of any clear lean), `coder` (Claude Opus 5).
@@ -184,7 +184,7 @@ November 2026: a check that every model understands each study language. Each mo
 | `responses.jsonl` | `model`, `lang`, `response` (the model's full answer), `served_by` (OpenRouter provider), `error` |
 | `scores.csv` | `auto_score` from a keyword check, `table_s18` (the result reported in the paper), and a `note` explaining every case that is not a plain pass |
 
-All 29 models still served translated the sentence and identified spanking as the condemned behavior in all six languages. granite-4.1-8b was no longer served (n.a.). llama-3.1-8b-instruct answered correctly in Spanish and Hindi but in plain text rather than JSON. The three automatic "FAIL" scores are keyword misses ("a moral error", "not okay", "morally incorrect"); on review all three are correct.
+All 29 models still served identified spanking as the condemned behavior in all six languages. Several English restatements described eating meat as acceptable rather than outside morality, so the check establishes basic comprehension, not equivalence of the response categories. granite-4.1-8b was no longer served (n.a.). llama-3.1-8b-instruct answered correctly in Spanish and Hindi but in plain text rather than JSON. The three automatic "FAIL" scores are keyword misses ("a moral error", "not okay", "morally incorrect"); on review all three are correct.
 
 ### `human_validation/`
 
