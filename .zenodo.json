@@ -1,0 +1,15 @@
+{
+  "title": "Data for \"When Forced to Choose, Language Models Condemn Spanking and the Death Penalty More Than Major Demographic Groups in the United States\"",
+  "upload_type": "dataset",
+  "description": "Data release for the paper (PNAS Nexus, under review). 81,000 responses from 30 large language models to the 15 behaviors of the Pew Research Center's 2025 moral-acceptability survey, in six prompt languages (English, Spanish, French, Mandarin, Hindi, Arabic), with six response-option orderings and five repetitions; parsed verdicts; Pew subgroup tables and margins of error; reason-type and moral-foundation labels from two classifiers; human validation codes; a free-text check; and a language-comprehension check. See README.md for the data dictionary.",
+  "creators": [
+    {"name": "Tinco Aliaga, César Abelardo", "affiliation": "University of Engineering and Technology, Lima, Peru"},
+    {"name": "Hinostroza Fuentes, Vasco Gerardo", "affiliation": "University of Florida"},
+    {"name": "Toledo Tan, Myles Joshua", "affiliation": "University of Florida"},
+    {"name": "AlDahoul, Nouar", "affiliation": "New York University Abu Dhabi"},
+    {"name": "Zaki, Yasir", "affiliation": "New York University Abu Dhabi"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["large language models", "moral judgment", "public opinion", "Pew Research Center", "multilingual evaluation"],
+  "access_right": "open"
+}

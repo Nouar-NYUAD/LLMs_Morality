@@ -8,6 +8,8 @@ César Abelardo Tinco Aliaga · Vasco Gerardo Hinostroza Fuentes · Myles Joshua
 
 <sub>\*Corresponding authors: naa9497@nyu.edu, yasir.zaki@nyu.edu</sub>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24162609.svg)](https://doi.org/10.5281/zenodo.24162609)
+![license](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
 ![responses](https://img.shields.io/badge/model%20responses-81%2C000-2b6cb0)
 ![models](https://img.shields.io/badge/language%20models-30-6b46c1)
 ![languages](https://img.shields.io/badge/prompt%20languages-6-2f855a)
@@ -241,6 +243,12 @@ Weight availability, size tier and documentation sources for each model are in T
 * **Missing verdicts.** 4.1% of responses had no valid category. One model, gemini-3.5-flash, lacked one in 67.9% of its responses (Table S1).
 * **Redaction.** OpenRouter account identifiers inside API error messages were replaced with `user_REDACTED` (11 lines in the Mandarin file and 40 in the free-text answers). Nothing else was changed.
 
+## License
+
+The data in this repository are released under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); see [`LICENSE`](LICENSE). You may share and adapt them for any purpose, provided you credit the authors and cite the paper and dataset.
+
+The Pew Research Center percentages in `pew/` are reproduced from Pew's published report and tables (*What Do Americans Consider Immoral?*, 2026) with attribution; Pew's own terms of use apply to that material. Model responses are outputs of the listed language models, collected through OpenRouter.
+
 ## Citation
 
 If you use these data, please cite the paper (details will be added on publication):
@@ -254,6 +262,20 @@ If you use these data, please cite the paper (details will be added on publicati
   journal = {PNAS Nexus},
   note    = {Under review},
   year    = {2026}
+}
+```
+
+and the dataset itself (Zenodo; this DOI always resolves to the latest version):
+
+```bibtex
+@dataset{tinco2026forced_data,
+  title     = {Data for ``When Forced to Choose, Language Models Condemn Spanking and the Death Penalty
+               More Than Major Demographic Groups in the United States''},
+  author    = {Tinco Aliaga, C{'e}sar Abelardo and Hinostroza Fuentes, Vasco Gerardo and
+               Toledo Tan, Myles Joshua and AlDahoul, Nouar and Zaki, Yasir},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.24162609}
 }
 ```
 
